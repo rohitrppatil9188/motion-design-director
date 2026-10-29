@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kinetic Showreel Director"
+  short_description: "Direct and render bold typographic motion films"
+  default_prompt: "Use $kinetic-showreel-director to create an original, polished motion-design film with a verified render and audio."

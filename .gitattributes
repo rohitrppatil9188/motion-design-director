@@ -1,0 +1,17 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.mjs text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.html text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+LICENSE text eol=lf
+*.ttf -text
+*.mp4 -text
+*.png -text
+*.jpg -text
+# Preserve the exact upstream font licence notices, including their whitespace.
+assets/fonts/*-OFL.txt -whitespace

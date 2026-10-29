@@ -1,0 +1,24 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"Absolute-frame motion-film shot plan",
+  "type":"object",
+  "required":["title","format","direction","invariants","palette","fonts","audio","shots","audioEvents"],
+  "properties":{
+    "$schema":{"type":"string"},
+    "title":{"type":"string","minLength":1},
+    "direction":{"type":"string","minLength":1},
+    "carrier":{"type":"string"},
+    "freedoms":{"type":"array","items":{"type":"string"}},
+    "densityCurve":{"type":"array","items":{"type":"object","required":["seconds","density"],"properties":{"seconds":{"type":"number","minimum":0},"density":{"type":"number","minimum":0,"maximum":1}},"additionalProperties":false}},
+    "extensions":{"type":"object"},
+    "format":{"type":"object","required":["width","height","fps","durationSeconds","frameCount"],"properties":{"width":{"type":"integer","minimum":2},"height":{"type":"integer","minimum":2},"fps":{"type":"number","exclusiveMinimum":0},"durationSeconds":{"type":"number","exclusiveMinimum":0},"frameCount":{"type":"integer","minimum":1}},"additionalProperties":false},
+    "invariants":{"type":"array","minItems":1,"items":{"type":"string","minLength":1}},
+    "palette":{"type":"object","minProperties":2,"additionalProperties":{"type":"string","pattern":"^#[0-9a-fA-F]{6}$"}},
+    "fonts":{"type":"array","items":{"type":"object","required":["family","weight","file","licence"],"properties":{"family":{"type":"string"},"weight":{"type":["integer","string"]},"file":{"type":"string"},"licence":{"type":"string"}},"additionalProperties":false}},
+    "audio":{"type":"object","required":["sampleRate","channels","samples","source","listeningStatus"],"properties":{"bpm":{"type":"number","exclusiveMinimum":0},"sampleRate":{"type":"integer","minimum":8000},"channels":{"type":"integer","minimum":1,"maximum":8},"samples":{"type":"integer","minimum":1},"source":{"type":"string"},"beatOffsetSeconds":{"type":"number"},"listeningStatus":{"type":"string"}},"additionalProperties":false},
+    "shots":{"type":"array","minItems":1,"items":{"type":"object","required":["id","startFrame","endFrame","intent","objects","enterFrames","holdFrames","exitFrames","motionLaw","transition","inherited"],"properties":{"id":{"type":"string","minLength":1},"startFrame":{"type":"integer","minimum":0},"endFrame":{"type":"integer","minimum":1},"intent":{"type":"string"},"objects":{"type":"array","minItems":1,"items":{"type":"string"}},"enterFrames":{"type":"integer","minimum":0},"holdFrames":{"type":"integer","minimum":0},"exitFrames":{"type":"integer","minimum":0},"motionLaw":{"type":"string"},"transition":{"type":"string"},"inherited":{"type":"string"}},"additionalProperties":false}},
+    "audioEvents":{"type":"array","items":{"type":"object","required":["seconds","role"],"properties":{"seconds":{"type":"number","minimum":0},"role":{"type":"string"}},"additionalProperties":false}},
+    "notes":{"type":"array","items":{"type":"string"}}
+  },
+  "additionalProperties":false
+}

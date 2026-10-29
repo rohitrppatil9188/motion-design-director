@@ -1,0 +1,30 @@
+[
+  {
+    "file": "BarlowCondensed-Black.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/BarlowCondensed-Black.ttf",
+    "checked_date": "2026-10-29",
+    "sha256": "e74b750df582c608f35db467b711b2b60d2217618e85e60b72b42dfd00446cab",
+    "licence": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "BarlowCondensed-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/barlowcondensed/OFL.txt",
+    "checked_date": "2026-10-29",
+    "sha256": "186d750eb496a4c17a76385f82be6aea2ac1cf2de074a811d63786cf374ea73f",
+    "licence": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "Inter-Variable.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/Inter%5Bopsz,wght%5D.ttf",
+    "checked_date": "2026-10-29",
+    "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+    "licence": "SIL Open Font License 1.1"
+  },
+  {
+    "file": "Inter-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/OFL.txt",
+    "checked_date": "2026-10-29",
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+    "licence": "SIL Open Font License 1.1"
+  }
+]

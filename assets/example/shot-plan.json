@@ -1,0 +1,20 @@
+{
+  "$schema": "../templates/shot-plan.schema.json",
+  "title": "OFFSET — a small shift, a new perspective",
+  "format": {"width":1920,"height":1080,"fps":60,"durationSeconds":15,"frameCount":900},
+  "direction": "One geometric offset grows from a typographic statement into a field, volume and expressive body, then resolves into an original studio mark.",
+  "invariants": ["three offset bars", "cream/ink typography with cobalt", "shared baseline and folio grid"],
+  "palette": {"paper":"#f4f1e9","ink":"#17181a","blue":"#2e35ef","yellow":"#ffd14a"},
+  "fonts": [{"family":"Barlow Condensed","weight":900,"file":"../fonts/BarlowCondensed-Black.ttf","licence":"SIL OFL 1.1"},{"family":"Inter","weight":800,"file":"../fonts/Inter-Variable.ttf","licence":"SIL OFL 1.1"}],
+  "audio": {"bpm":128,"sampleRate":48000,"channels":2,"samples":720000,"source":"original procedural synthesis","beatOffsetSeconds":0,"listeningStatus":"Not subjectively auditioned"},
+  "shots": [
+    {"id":"impulse","startFrame":0,"endFrame":113,"intent":"Establish the carrier and proposition","objects":["three offset bars","ONE SMALL SHIFT"],"enterFrames":55,"holdFrames":58,"exitFrames":0,"motionLaw":"masked word arrival and finite spring","transition":"seven-strip full-coverage curtain","inherited":"bar geometry and folio"},
+    {"id":"amplify","startFrame":113,"endFrame":281,"intent":"Increase scale and colour polarity","objects":["CHANGES THE FIELD","radial punctuation"],"enterFrames":45,"holdFrames":107,"exitFrames":16,"motionLaw":"whole-word masked translation; uniform radial rotation","transition":"seven-strip full-coverage curtain","inherited":"display mass and bar rhythm"},
+    {"id":"form","startFrame":281,"endFrame":450,"intent":"Develop one module into a spatial field","objects":["55 stable cells","projected height field","FIND THE PATTERN"],"enterFrames":40,"holdFrames":113,"exitFrames":16,"motionLaw":"radial phase wave, coherent projection","transition":"seven-strip full-coverage curtain","inherited":"square/arc module and cobalt"},
+    {"id":"space","startFrame":450,"endFrame":619,"intent":"Make a coherent dimensional topology change","objects":["1900 persistent points","sphere/torus targets","GIVE IDEAS SPACE"],"enterFrames":36,"holdFrames":117,"exitFrames":16,"motionLaw":"stable-ID 3D interpolation, rotation, depth sort","transition":"seven-strip full-coverage curtain","inherited":"same seed IDs within volume; shared type grid"},
+    {"id":"feeling","startFrame":619,"endFrame":788,"intent":"Release rigid geometry into an expressive illustrated body","objects":["clipped gradient contour","FEEL THE CHANGE","outline background words"],"enterFrames":40,"holdFrames":113,"exitFrames":16,"motionLaw":"periodic polar deformation with object-space gradient","transition":"seven-strip full-coverage curtain","inherited":"cobalt material and offset bars"},
+    {"id":"identity","startFrame":788,"endFrame":900,"intent":"Resolve and leave a readable name","objects":["original offset-bar mark","OFFSET","support line"],"enterFrames":21,"holdFrames":91,"exitFrames":0,"motionLaw":"finite assembly and stable final hold","transition":"terminal hold","inherited":"opening carrier and typography"}
+  ],
+  "audioEvents": [{"seconds":0,"role":"first pulse"},{"seconds":1.875,"role":"section swell"},{"seconds":4.6875,"role":"section swell"},{"seconds":7.5,"role":"section swell"},{"seconds":10.3125,"role":"section swell"},{"seconds":13.125,"role":"resolving chord"}],
+  "notes": ["Visual scene boundaries are rounded to integer frames; audio beat boundaries stay sample-accurate.","The gradient body is a 2D illustration, not a physically rendered glass material.","Browser preview plays visuals only. The rendered MP4 contains the synthesized audio."]
+}

@@ -1,0 +1,178 @@
+{
+  "title": "FIELD NOTES \u00e2\u20ac\u201d Ideas become movement",
+  "format": {
+    "width": 960,
+    "height": 540,
+    "fps": 30,
+    "durationSeconds": 6,
+    "frameCount": 180
+  },
+  "direction": "A thought opens a space, separates into deliberate parts, then becomes a coherent creative identity.",
+  "carrier": "The circular O counter opens onto an eight-facet folded note, which resolves as the closing mark.",
+  "invariants": [
+    "warm cream and ink with terracotta as the only accent",
+    "60px safe margins and strong baseline hierarchy",
+    "precise closed contours with settled reading intervals"
+  ],
+  "freedoms": [
+    "typographic scale",
+    "facet separation"
+  ],
+  "palette": {
+    "ground": "#f2eddf",
+    "ink": "#1d2421",
+    "accent": "#d65337"
+  },
+  "fonts": [
+    {
+      "family": "Inter",
+      "weight": 900,
+      "file": "../fonts/Inter-Variable.ttf",
+      "licence": "SIL OFL 1.1"
+    },
+    {
+      "family": "Barlow Condensed",
+      "weight": 900,
+      "file": "../fonts/BarlowCondensed-Black.ttf",
+      "licence": "SIL OFL 1.1"
+    }
+  ],
+  "audio": {
+    "bpm": 120,
+    "sampleRate": 48000,
+    "channels": 2,
+    "samples": 288000,
+    "source": "original deterministic oscillators and noise synthesis in scripts/synth.mjs",
+    "listeningStatus": "numerical verification; listening review pending"
+  },
+  "shots": [
+    {
+      "id": "thought",
+      "startFrame": 0,
+      "endFrame": 30,
+      "enterFrames": 8,
+      "holdFrames": 22,
+      "exitFrames": 0,
+      "intent": "Read IDEAS TAKE FORM",
+      "objects": [
+        "FORM with a constructed circular O",
+        "IDEAS TAKE",
+        "one short support line"
+      ],
+      "motionLaw": "masked whole-word arrival, cubic ease-out",
+      "transition": "O inner radius grows from36px to full coverage in the next shot",
+      "inherited": "same circular counter, terracotta and typography"
+    },
+    {
+      "id": "opening",
+      "startFrame": 30,
+      "endFrame": 54,
+      "enterFrames": 0,
+      "holdFrames": 0,
+      "exitFrames": 24,
+      "intent": "Pass through the actual counter into its geometric consequence",
+      "objects": [
+        "old scene above target",
+        "shared O counter mask"
+      ],
+      "motionLaw": "cubic radius expansion and smooth center translation; absolute camera transform",
+      "transition": "circular aperture exceeds all four corners by3px before old layer removal",
+      "inherited": "counter contour, center, layer order and cream field"
+    },
+    {
+      "id": "form",
+      "startFrame": 54,
+      "endFrame": 120,
+      "enterFrames": 27,
+      "holdFrames": 6,
+      "exitFrames": 33,
+      "intent": "One folded note separates and deliberately reassembles",
+      "objects": [
+        "eight persistent triangle facets",
+        "GIVE IDEAS / FORM."
+      ],
+      "motionLaw": "shared smooth separation envelope, fixed local vertex correspondence, no per-frame randomness",
+      "transition": "same assembled object shrinks and travels left; type clears before the identity arrives",
+      "inherited": "same facet IDs, vertices and cream field"
+    },
+    {
+      "id": "identity",
+      "startFrame": 120,
+      "endFrame": 180,
+      "enterFrames": 18,
+      "holdFrames": 42,
+      "exitFrames": 0,
+      "intent": "Stable readable FIELD NOTES identity and idea",
+      "objects": [
+        "folded-note mark",
+        "FIELD NOTES",
+        "Ideas become movement."
+      ],
+      "motionLaw": "smooth finite transform and masked type arrival, fully static from4.6s",
+      "transition": "terminal hold",
+      "inherited": "the same module, accent and baseline grid"
+    }
+  ],
+  "audioEvents": [
+    {
+      "seconds": 0,
+      "role": "opening woody pluck"
+    },
+    {
+      "seconds": 1,
+      "role": "portal breath begins"
+    },
+    {
+      "seconds": 1.8,
+      "role": "new space impact"
+    },
+    {
+      "seconds": 2.1,
+      "role": "facets separate"
+    },
+    {
+      "seconds": 2.84,
+      "role": "reassembly pull"
+    },
+    {
+      "seconds": 3.63,
+      "role": "facets land"
+    },
+    {
+      "seconds": 4.5,
+      "role": "closing chord with quiet decay"
+    }
+  ],
+  "densityCurve": [
+    {
+      "seconds": 0,
+      "density": 0.5
+    },
+    {
+      "seconds": 1,
+      "density": 0.6
+    },
+    {
+      "seconds": 1.8,
+      "density": 0.3
+    },
+    {
+      "seconds": 2.64,
+      "density": 0.75
+    },
+    {
+      "seconds": 3.63,
+      "density": 0.3
+    },
+    {
+      "seconds": 4.6,
+      "density": 0.25
+    }
+  ],
+  "notes": [
+    "Six-second adaptation uses42 settled closing frames, rather than the recipe's longer15-second example hold.",
+    "The folded module is deliberately planar vector illustration, not a 3D material claim.",
+    "No source imagery, logos or audio is reused."
+  ],
+  "$schema": "../templates/shot-plan.schema.json"
+}

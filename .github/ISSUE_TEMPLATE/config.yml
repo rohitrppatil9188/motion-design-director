@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security reporting
+    url: https://github.com/rohitrppatil9188/motion-design-director/security/policy
+    about: Use the private reporting process for vulnerabilities and sensitive findings.

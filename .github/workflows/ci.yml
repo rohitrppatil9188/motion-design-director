@@ -1,0 +1,74 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  checks:
+    name: Checks (${{ matrix.os }}, Node ${{ matrix.node }})
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - {os: ubuntu-latest, node: '22'}
+          - {os: ubuntu-latest, node: '24'}
+          - {os: ubuntu-latest, node: '26'}
+          - {os: windows-latest, node: '24'}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: ${{ matrix.node }}
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - run: npm test
+      - run: npm run check
+      - run: node scripts/validate-plan.mjs assets/example/shot-plan.json
+      - run: node scripts/validate-plan.mjs assets/field-notes/shot-plan.json
+      - run: npm audit --audit-level=high
+
+  render-smoke:
+    name: Browser and render smoke test
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci --ignore-scripts
+      - name: Install renderer prerequisites
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          npx playwright install --with-deps chromium
+      - run: npm run verify
+      - run: npm run demo:field-notes
+      - run: node scripts/verify-media.mjs --input out/field-notes.mp4 --width 960 --height 540 --fps 30 --duration 6 --frames 180 --require-audio --max-true-peak=-1.5 --playback
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: original-field-notes-smoke-test
+          retention-days: 7
+          if-no-files-found: ignore
+          path: |
+            out/field-notes.mp4
+            out/render-report.json
+            out/media-verification.json

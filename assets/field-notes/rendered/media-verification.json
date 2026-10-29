@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "input": "field-notes.mp4",
+  "format": {
+    "width": 960,
+    "height": 540,
+    "fps": 30,
+    "frames": 180,
+    "durationSeconds": 6,
+    "audioCodec": "aac",
+    "sampleRate": 48000,
+    "channels": 2
+  },
+  "fullDecode": true,
+  "loudness": {
+    "integratedLUFS": -15.62,
+    "truePeakDBTP": -2.61,
+    "loudnessRangeLU": 1.5
+  },
+  "defaultSampling": {
+    "count": 13,
+    "frames": [
+      0,
+      7,
+      16,
+      30,
+      43,
+      63,
+      79,
+      97,
+      116,
+      130,
+      144,
+      165,
+      179
+    ],
+    "finalFrame": 179,
+    "finalTime": 5.966666666666667
+  },
+  "timebaseMismatch": {
+    "cliFps": 60,
+    "projectFps": 30,
+    "exitCode": 1,
+    "descriptiveError": "Project fps 30 differs from CLI fps 60. Set --fps to the project's timebase.",
+    "wrongVideoCreated": false
+  },
+  "videoFramesUnchanged": true,
+  "subjectivelyAuditioned": false
+}

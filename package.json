@@ -1,0 +1,23 @@
+{
+  "name": "motion-design-director",
+  "description": "A portable AI skill for original motion-design films, with 50 studies, 24 effect recipes, deterministic helpers, audio and rendering tools.",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/test-math.mjs && node --test tests/tooling.test.mjs",
+    "check": "node scripts/check-package.mjs",
+    "manifest": "node scripts/check-package.mjs --write-manifest",
+    "demo": "node scripts/synth-audio.mjs --output out/offset.wav && node scripts/render.mjs --entry assets/example/index.html --audio out/offset.wav --output out/offset.mp4",
+    "demo:field-notes": "node assets/field-notes/synth.mjs out/field-notes.wav && node scripts/render.mjs --entry assets/field-notes/index.html --audio out/field-notes.wav --output out/field-notes.mp4 --width 960 --height 540 --fps 30 --duration 6",
+    "verify": "node scripts/verify-example.mjs"
+  },
+  "devDependencies": {"playwright": "1.62.1"},
+  "engines": {"node": ">=22"},
+  "repository": {"type":"git","url":"git+https://github.com/rohitrppatil9188/motion-design-director.git"},
+  "homepage": "https://github.com/rohitrppatil9188/motion-design-director#readme",
+  "bugs": {"url":"https://github.com/rohitrppatil9188/motion-design-director/issues"},
+  "author": {"name":"Rohit","url":"https://github.com/rohitrppatil9188"},
+  "keywords": ["agent-skill","motion-design","kinetic-typography","animation","creative-coding","video"],
+  "license": "MIT"
+}

@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "input": "offset.mp4",
+  "actual": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "frames": 900,
+    "duration": 15,
+    "audio": {
+      "codec": "aac",
+      "sampleRate": 48000,
+      "channels": 2,
+      "duration": 15
+    }
+  },
+  "fullDecode": true,
+  "loudness": {
+    "integratedLUFS": -15.37,
+    "truePeakDBTP": -2.42,
+    "rangeLU": 1.6
+  },
+  "playback": {
+    "ended": true,
+    "currentTime": 15,
+    "width": 1920,
+    "height": 1080,
+    "muted": true,
+    "subjectivelyAuditioned": false
+  },
+  "subjectivelyAuditioned": false,
+  "errors": []
+}

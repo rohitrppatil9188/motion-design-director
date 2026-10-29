@@ -1,0 +1,10 @@
+title = "Motion Design Director secret scanning"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Dependencies, generated output and Git internals are not release source"
+paths = [
+  '''(^|[\\/])(node_modules|out|dist|coverage|\.git)[\\/]'''
+]

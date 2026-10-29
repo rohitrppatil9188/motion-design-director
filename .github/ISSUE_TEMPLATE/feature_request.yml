@@ -1,0 +1,23 @@
+name: Feature or effect proposal
+description: Suggest a focused improvement with a concrete production use case.
+title: "[Idea]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What production problem would this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior and example
+      description: Describe the mechanism, relevant constraints and how a rendered result could be evaluated.
+    validations:
+      required: true
+  - type: textarea
+    id: assets
+    attributes:
+      label: Reference and asset provenance
+      description: Link public sources and identify reuse rights for any files you propose distributing.

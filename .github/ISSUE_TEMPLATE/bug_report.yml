@@ -1,0 +1,35 @@
+name: Bug report
+description: Report a reproducible issue in the skill, tooling, examples or documentation.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Please omit credentials, private logs, personal paths and unlicensed media. Security reports belong in the repository's private vulnerability-reporting channel."
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options: [Skill or recipe, Rendering or audio tools, Example project, Documentation or installation]
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Include exact commands or a minimal original example.
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, Node, FFmpeg and browser versions; model/agent if relevant. Remove personal paths.
+    validations:
+      required: true

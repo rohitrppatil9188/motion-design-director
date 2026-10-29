@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "sourceAndPackagedFrameHashesMatch": true,
+  "sampleFrames": [
+    18,
+    39,
+    75,
+    150,
+    179
+  ],
+  "hashes": [
+    "eecbbd6ffd859c6eb2e61c0813b8a96f818cd231cccfd5431af0518443c03ccf",
+    "969e336ff4817d5c0e48a1de4dc65f62f394142307a5342136f28e05d52719d9",
+    "9c6759b1dac850e98683c537b4d6691cf812e16c7bb00fcb7166e36de4a77621",
+    "e0ce602355f6e9b1c76e03013d08026f63d4b4ea718ff9967b3f5a66527bc3ca",
+    "e0ce602355f6e9b1c76e03013d08026f63d4b4ea718ff9967b3f5a66527bc3ca"
+  ]
+}

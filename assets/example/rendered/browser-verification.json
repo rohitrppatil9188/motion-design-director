@@ -1,0 +1,49 @@
+{
+  "passed": true,
+  "checks": [
+    "font loading",
+    "16 out-of-order seek hashes",
+    "stable final hold",
+    "five full-coverage transition boundaries",
+    "no browser errors"
+  ],
+  "info": {
+    "info": {
+      "duration": 15,
+      "fps": 60,
+      "width": 1920,
+      "height": 1080,
+      "frameCount": 900,
+      "title": "OFFSET",
+      "audio": "Original synthesis; render with scripts/synth-audio.mjs"
+    },
+    "fonts": [
+      {
+        "family": "Barlow Condensed",
+        "status": "loaded"
+      },
+      {
+        "family": "Inter",
+        "status": "loaded"
+      }
+    ]
+  },
+  "hashes": {
+    "0": "fd1871d2309a314738e17c7d58b6c49062a5404cceee990c88564aa2ec9e2440",
+    "60": "b30195ebebbc2216601e9e007a8a411d5951816eee1fee6d786654ac1aa87a8a",
+    "112": "fbd0f1514097603c821e7caa5174abe832ff66ec684922f11d3e55eb92afb246",
+    "113": "fbd0f1514097603c821e7caa5174abe832ff66ec684922f11d3e55eb92afb246",
+    "280": "d04ff7811eadd0ed4f06b94e2d73ef2a1a9519b111d2cdb264c921e1d0f467e5",
+    "281": "d04ff7811eadd0ed4f06b94e2d73ef2a1a9519b111d2cdb264c921e1d0f467e5",
+    "449": "90ac9d9e760c17d1ced9bf115971ff3f1b101fb3c761bce025d215b9e9d54f96",
+    "450": "90ac9d9e760c17d1ced9bf115971ff3f1b101fb3c761bce025d215b9e9d54f96",
+    "540": "125b579af73819f2636e38da282680200bd0d5a0b263377318cf275a2f4655be",
+    "618": "41eb3306d9b462b5d05440ba17e04551feec7b447fc73a17e6735cd152df6541",
+    "619": "41eb3306d9b462b5d05440ba17e04551feec7b447fc73a17e6735cd152df6541",
+    "700": "55f9f54e070ad818dc71f2984e14901f96ed9c6d6f337dfb9bbfa9c4bb6a068b",
+    "787": "d04ff7811eadd0ed4f06b94e2d73ef2a1a9519b111d2cdb264c921e1d0f467e5",
+    "788": "d04ff7811eadd0ed4f06b94e2d73ef2a1a9519b111d2cdb264c921e1d0f467e5",
+    "840": "5cff3d0d1f6870b92075c21b3a959033b06c2f5a071610113b9715a473598d96",
+    "899": "5cff3d0d1f6870b92075c21b3a959033b06c2f5a071610113b9715a473598d96"
+  }
+}

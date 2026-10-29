@@ -1,0 +1,7057 @@
+[
+  {
+    "id": "01-stephanlivera",
+    "author": "stephanlivera",
+    "title": "Claude motion designer showreel",
+    "gallery_url": "https://prompt-motion.com/stephanlivera-df17a2",
+    "original_post": "https://x.com/stephanlivera/status/2103315922098470926",
+    "attribution": "A motion video made with Claude Opus 5.5 by @stephanlivera. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "866050388d924e61ba95cc391fbde3dbd23becc92dde3bb3d15a699c21ed7ae7",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "editorial",
+      "wide-type",
+      "radial-seed",
+      "easing-diagram",
+      "shape-morph",
+      "tessellation",
+      "point-cloud",
+      "kinetic-type",
+      "palette-cut",
+      "logo-hold"
+    ],
+    "thesis": "An editorial identity turns a collection of motion demonstrations into one authored film: the coral radial mark, cream/ink contrast and tiny registration furniture recur while the main visual language changes radically.",
+    "chapter_map": [
+      [
+        0,
+        1.85,
+        "A tiny coral seed grows into a many-spoke symbol, with concentric hairlines and ticks providing a stable scale reference."
+      ],
+      [
+        1.85,
+        3.5,
+        "A cream/coral radial expansion fills the frame and reveals a huge black wordmark; a small italic serif role line makes the heavy sans feel editorial."
+      ],
+      [
+        3.5,
+        5.63,
+        "An oblique cream wipe and flying letter fragments resolve into six horizontal easing demonstrations. Dots share endpoints but use visibly different intermediate spacing."
+      ],
+      [
+        5.63,
+        7.5,
+        "Cobalt replaces cream. A centre-aligned disc becomes a triangle and star, with thin nested outlines and small orbiting satellite shapes."
+      ],
+      [
+        7.5,
+        9.65,
+        "A square introduces a dense cream squiggle tessellation on ink. A moving coral region changes selected cells; the field collapses towards the next spatial study."
+      ],
+      [
+        9.65,
+        11.1,
+        "A sparse three-dimensional point surface bends from a wave into a closed sphere/torus-like volume. Depth comes from projected spacing, scale and brightness rather than a solid mesh."
+      ],
+      [
+        11.1,
+        13.35,
+        "Oversized rapid typography alternates black, cream, cobalt and acid-yellow fields. Outline repetitions and motion smears distinguish sustained text from impact frames."
+      ],
+      [
+        13.35,
+        15,
+        "The radial mark returns beside the wordmark on coral. Residual specks dissipate while the main lockup holds."
+      ]
+    ],
+    "mean_frame_delta": 0.020204,
+    "luma_range": [
+      0.0548,
+      0.9231
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.33311
+      },
+      {
+        "hex": "#ec4c3c",
+        "fraction": 0.20357
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.1537
+      },
+      {
+        "hex": "#2c2cf4",
+        "fraction": 0.1207
+      },
+      {
+        "hex": "#e4fc44",
+        "fraction": 0.02062
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.01329
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.01328
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.00644
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.00392
+      },
+      {
+        "hex": "#cc4434",
+        "fraction": 0.00367
+      },
+      {
+        "hex": "#3434f4",
+        "fraction": 0.00327
+      },
+      {
+        "hex": "#342cf4",
+        "fraction": 0.00299
+      }
+    ],
+    "high_change_pts": [
+      1.8833,
+      3.5,
+      5.6333,
+      7.5,
+      8.5333,
+      9.1,
+      9.65,
+      11.0667,
+      11.7167,
+      12.65
+    ],
+    "audio_lufs": -13.28,
+    "audio_true_peak_dbtp": -1.44,
+    "audio_lra_lu": 2.7,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/01-stephanlivera.md"
+  },
+  {
+    "id": "02-ajith_io",
+    "author": "ajith_io",
+    "title": "Abstract motion design reel",
+    "gallery_url": "https://prompt-motion.com/ajith-io-b5626e",
+    "original_post": "https://x.com/ajith_io/status/2103449416325890146",
+    "attribution": "A motion video made with Claude Opus 5.5 by @ajith_io. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "7ea5df52ea3cad92a9e1f05715f7b81b993d91fab5aa135d0d3ccefac9b3d098",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "seed-continuity",
+      "wide-type",
+      "bounding-box",
+      "shape-morph",
+      "dot-lattice",
+      "point-cloud",
+      "ribbon",
+      "circular-type",
+      "iris",
+      "logo-hold"
+    ],
+    "thesis": "One coral dot acts as a narrative carrier across type, geometry, point fields, dimensional ribbons and circular text; the ending recovers the same dot as the wordmark punctuation.",
+    "chapter_map": [
+      [
+        0,
+        1.9,
+        "A centred dot duplicates into a ring, establishing the seed and radial repetition before any title appears."
+      ],
+      [
+        1.9,
+        3.75,
+        "A circular coral matte grows into a full field. Heavy black words arrive in staggered groups with registration brackets and rapid lateral smears, then reduce back to a dot."
+      ],
+      [
+        3.75,
+        5.63,
+        "A circle, rotated rounded square and yellow triangle appear inside selection-style bounding boxes with handles. A small radial patterned rosette follows."
+      ],
+      [
+        5.63,
+        7.5,
+        "On cream, a regular dot lattice deforms around a moving wave of coral accents, maintaining enough row structure for the displacement to be legible."
+      ],
+      [
+        7.5,
+        9.38,
+        "The same particle vocabulary is projected onto a cobalt wave, sphere and torus; a wire cube changes the silhouette before the next cut."
+      ],
+      [
+        9.38,
+        11.25,
+        "A striped multicolour tube sweeps over yellow, curling around empty space. Parallel bands, dark edging and highlight shading provide a dimensional material cue."
+      ],
+      [
+        11.25,
+        13.17,
+        "Horizontal bands of spaced capitals bend into concentric typographic rings around the coral seed, then blur/compress towards the centre."
+      ],
+      [
+        13.17,
+        15,
+        "A cream circular expansion reveals a restrained serif name with coral punctuation; the final role line holds beneath it."
+      ]
+    ],
+    "mean_frame_delta": 0.013977,
+    "luma_range": [
+      0.0648,
+      0.8822
+    ],
+    "palette": [
+      {
+        "hex": "#141414",
+        "fraction": 0.32245
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.17976
+      },
+      {
+        "hex": "#f4cc44",
+        "fraction": 0.08787
+      },
+      {
+        "hex": "#2c3cf4",
+        "fraction": 0.06282
+      },
+      {
+        "hex": "#ec3c34",
+        "fraction": 0.04847
+      },
+      {
+        "hex": "#ec4434",
+        "fraction": 0.04183
+      },
+      {
+        "hex": "#343cf4",
+        "fraction": 0.03542
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.02692
+      },
+      {
+        "hex": "#f4c43c",
+        "fraction": 0.01825
+      },
+      {
+        "hex": "#0c1414",
+        "fraction": 0.01589
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.01305
+      },
+      {
+        "hex": "#343cec",
+        "fraction": 0.00914
+      }
+    ],
+    "high_change_pts": [
+      1.9,
+      2.8333,
+      3.75,
+      5.6333,
+      7.5,
+      8.1333,
+      9.3833,
+      11.25,
+      12.0667,
+      13.1667
+    ],
+    "audio_lufs": -13.1,
+    "audio_true_peak_dbtp": -0.58,
+    "audio_lra_lu": 2.0,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/02-ajith_io.md"
+  },
+  {
+    "id": "03-himanshutwtxs",
+    "author": "himanshutwtxs",
+    "title": "Motion designer showreel",
+    "gallery_url": "https://prompt-motion.com/himanshutwtxs-5f4b43",
+    "original_post": "https://x.com/himanshutwtxs/status/2103495232637882858",
+    "attribution": "A motion video made with Claude Opus 5.5 by @himanshutwtxs. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "74e3b193a3c497ae3d7fdb4775e00565ab42ed1f33ede216c5439171f78d6ab6",
+    "video_seconds": 14.966666,
+    "fps": 30.0,
+    "frames": 449,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "condensed-type",
+      "annotations",
+      "bounce",
+      "squash-stretch",
+      "stagger",
+      "spacing-diagram",
+      "follow-through",
+      "perspective-plane",
+      "iris",
+      "logo-hold"
+    ],
+    "thesis": "The film makes animation mechanics visible: annotated bounces, spacing diagrams, keyframe furniture and exaggerated word behaviour explain craft while demonstrating it.",
+    "chapter_map": [
+      [
+        0,
+        1.9,
+        "A blue ball follows a visible arc onto a baseline, with ghost positions exposing spacing, changing velocity and squash at impact."
+      ],
+      [
+        1.9,
+        3.73,
+        "Tall condensed title characters rise from below the baseline at different times, bend/overshoot, then settle into a readable two-line block with blue punctuation."
+      ],
+      [
+        3.73,
+        5.53,
+        "Large single-word cards demonstrate different behaviours: vertical bounce, horizontal stretch, spin and an intentionally abrupt red snap. Dark backgrounds sharpen the silhouettes."
+      ],
+      [
+        5.53,
+        8.4,
+        "The field turns white for a position-versus-time diagram and a moving square; a linear line is replaced with a curved trajectory while ghost squares illustrate spacing."
+      ],
+      [
+        8.4,
+        11.2,
+        "A dotted dark field carries a blue chain and red accents. The chain curves and follows through, then the supporting plane tilts in perspective."
+      ],
+      [
+        11.2,
+        13.13,
+        "A blue centre with concentric rings and small symbols builds an anticipation/progress study; outer elements orbit while the percentage-like label advances."
+      ],
+      [
+        13.13,
+        15,
+        "A radial white expansion returns to the light field. Condensed closing words arrive with stagger and overshoot, then hold with blue punctuation."
+      ]
+    ],
+    "mean_frame_delta": 0.017182,
+    "luma_range": [
+      0.1136,
+      0.8895
+    ],
+    "palette": [
+      {
+        "hex": "#1c1c24",
+        "fraction": 0.20991
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.17537
+      },
+      {
+        "hex": "#f4f4f4",
+        "fraction": 0.08362
+      },
+      {
+        "hex": "#e4e4e4",
+        "fraction": 0.0752
+      },
+      {
+        "hex": "#dcdcdc",
+        "fraction": 0.07164
+      },
+      {
+        "hex": "#ececec",
+        "fraction": 0.0663
+      },
+      {
+        "hex": "#d4d4d4",
+        "fraction": 0.05745
+      },
+      {
+        "hex": "#e4e4ec",
+        "fraction": 0.05109
+      },
+      {
+        "hex": "#ececf4",
+        "fraction": 0.0323
+      },
+      {
+        "hex": "#dcdce4",
+        "fraction": 0.02671
+      },
+      {
+        "hex": "#d4d4dc",
+        "fraction": 0.02439
+      },
+      {
+        "hex": "#141c1c",
+        "fraction": 0.02379
+      }
+    ],
+    "high_change_pts": [
+      2.1,
+      2.8,
+      3.7333,
+      4.6667,
+      5.5333,
+      8.4333,
+      11.1333,
+      13.1333,
+      13.7,
+      14.6
+    ],
+    "audio_lufs": -11.5,
+    "audio_true_peak_dbtp": -0.03,
+    "audio_lra_lu": 4.5,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/03-himanshutwtxs.md"
+  },
+  {
+    "id": "04-ultimaxbt",
+    "author": "ultimaxbt",
+    "title": "Orange dot motion system",
+    "gallery_url": "https://prompt-motion.com/ultimaxbt-bbebf5",
+    "original_post": "https://x.com/ultimaxbt/status/2107486052550062398",
+    "attribution": "A motion video made with Claude Opus 5.5 and HTML by @ultimaxbt. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "1fb88a84077bcac3dc3e7d4a691bae445f11e441a907639e8df5b94536dc4945",
+    "video_seconds": 15.083334,
+    "fps": 60.0,
+    "frames": 905,
+    "width": 1920,
+    "height": 1078,
+    "overview_tiles": 31,
+    "transition_tiles": 50,
+    "tags": [
+      "seed-continuity",
+      "rounded-type",
+      "spring-diagram",
+      "shape-morph",
+      "perspective-type",
+      "halftone",
+      "palette-cut",
+      "loop"
+    ],
+    "thesis": "A single orange dot links an accessibility-toggle joke, typography, spring mechanics, shape transformations, a dimensional type ring and a halftone field. The return to the opening composition makes this an intentional loop.",
+    "chapter_map": [
+      [
+        0,
+        1.4,
+        "A large orange toggle and cursor pull back to expose a reduced-motion label; the UI gesture becomes a visual premise rather than a lengthy product demo."
+      ],
+      [
+        1.4,
+        3.45,
+        "The main word resolves on cream. The orange dot travels over its letterforms and generates short directional smears."
+      ],
+      [
+        3.45,
+        5.65,
+        "A position graph shows an overshoot and damped settling. The final orange point and axis enlarge into the next shape."
+      ],
+      [
+        5.65,
+        7.3,
+        "The centre alternates circle, rotated rounded square and pill while cream, orange and black exchange foreground/background roles."
+      ],
+      [
+        7.3,
+        9.42,
+        "A white band of type wraps around the orange centre in perspective, with its rear half dimmer and visibly reversed."
+      ],
+      [
+        9.42,
+        11.1,
+        "A regular black dot field expands radially around the orange point, then contracts, using variable dot radius rather than arbitrary particle motion."
+      ],
+      [
+        11.1,
+        13.8,
+        "A clean black credentials card holds; the orange zero and punctuation act as hierarchy cues."
+      ],
+      [
+        13.8,
+        15.12,
+        "A quick type-ring/graph recap returns to the cream title and original toggle composition."
+      ]
+    ],
+    "mean_frame_delta": 0.017451,
+    "luma_range": [
+      0.0763,
+      0.9047
+    ],
+    "palette": [
+      {
+        "hex": "#ecece4",
+        "fraction": 0.40267
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.34642
+      },
+      {
+        "hex": "#ece4e4",
+        "fraction": 0.08828
+      },
+      {
+        "hex": "#fc4c1c",
+        "fraction": 0.0465
+      },
+      {
+        "hex": "#14140c",
+        "fraction": 0.02573
+      },
+      {
+        "hex": "#ececdc",
+        "fraction": 0.00577
+      },
+      {
+        "hex": "#1c1414",
+        "fraction": 0.00522
+      },
+      {
+        "hex": "#e4e4dc",
+        "fraction": 0.00342
+      },
+      {
+        "hex": "#fcfcfc",
+        "fraction": 0.00326
+      },
+      {
+        "hex": "#dcdcd4",
+        "fraction": 0.00257
+      },
+      {
+        "hex": "#d4d4cc",
+        "fraction": 0.00226
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.00213
+      }
+    ],
+    "high_change_pts": [
+      0.5667,
+      3.4167,
+      5.1,
+      5.65,
+      7.05,
+      7.8167,
+      9.4167,
+      10.7,
+      13.8333,
+      14.4167
+    ],
+    "audio_lufs": -14.36,
+    "audio_true_peak_dbtp": -2.12,
+    "audio_lra_lu": 2.8,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/04-ultimaxbt.md"
+  },
+  {
+    "id": "05-jasonzhou1993",
+    "author": "jasonzhou1993",
+    "title": "Claude motion reel",
+    "gallery_url": "https://prompt-motion.com/jasonzhou1993-8595e0",
+    "original_post": "https://x.com/jasonzhou1993/status/2103663364958515541",
+    "attribution": "A motion video made with Claude Opus 5.5 by @jasonzhou1993. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "eb2ddbff09563c739d8b9681ddc59dc366cc9c185ec02fad70fb391659ba9397",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "principle-type",
+      "outline-type",
+      "bar-curtain",
+      "radial-grid",
+      "particle-type",
+      "point-cloud",
+      "data-design",
+      "ribbon",
+      "serif-contrast",
+      "logo-hold"
+    ],
+    "thesis": "The reel moves from concrete animation principles into geometric fields, particle typography, spatial point volumes, a graphic performance panel and an elegant ribbon-backed closing statement.",
+    "chapter_map": [
+      [
+        0,
+        1.8,
+        "An orange ball bounces above a thin ground line on black; small framing marks establish a technical identity."
+      ],
+      [
+        1.8,
+        3.9,
+        "Large principle words alternate orange, black, cream and blue. Individual letters arrive with different timing; faint outline repetitions form a background texture."
+      ],
+      [
+        3.9,
+        5.6,
+        "Staggered vertical strips uncover a field of rotating squares arranged in expanding rings, with orange cells mixed among dimmer neutral cells."
+      ],
+      [
+        5.6,
+        7.45,
+        "Loose particles converge into a readable word, retaining colour variation across the letters rather than becoming a solid text mask."
+      ],
+      [
+        7.45,
+        9.2,
+        "A particle sphere floats above a perspective floor, then deforms into ring-like volumes with dark blue, coral and white accents."
+      ],
+      [
+        9.2,
+        11.1,
+        "A rising curtain of coloured vertical bars introduces a cream dashboard. Large figures, bars and a line chart animate independently but share an alignment grid."
+      ],
+      [
+        11.1,
+        13.25,
+        "Horizontal strips reveal translucent orange/violet ribbons behind a large italic serif phrase. A brief horizontal breakup begins the exit."
+      ],
+      [
+        13.25,
+        15,
+        "A compact lowercase name and orange punctuation resolve on black, with a small role line and ample negative space."
+      ]
+    ],
+    "mean_frame_delta": 0.015624,
+    "luma_range": [
+      0.0432,
+      0.8775
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.41043
+      },
+      {
+        "hex": "#04040c",
+        "fraction": 0.0442
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.04067
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.03148
+      },
+      {
+        "hex": "#fc5c1c",
+        "fraction": 0.0293
+      },
+      {
+        "hex": "#140c0c",
+        "fraction": 0.02485
+      },
+      {
+        "hex": "#0c0c1c",
+        "fraction": 0.02339
+      },
+      {
+        "hex": "#0c142c",
+        "fraction": 0.02136
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.01839
+      },
+      {
+        "hex": "#fcfcfc",
+        "fraction": 0.01726
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.01636
+      },
+      {
+        "hex": "#0c1434",
+        "fraction": 0.0139
+      }
+    ],
+    "high_change_pts": [
+      1.8,
+      2.8,
+      3.9,
+      4.6667,
+      7.4667,
+      9.2,
+      9.75,
+      11.0667,
+      12.7333,
+      13.3167
+    ],
+    "audio_lufs": -11.49,
+    "audio_true_peak_dbtp": -0.12,
+    "audio_lra_lu": 2.2,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/05-jasonzhou1993.md"
+  },
+  {
+    "id": "06-ismailfahmi",
+    "author": "ismailfahmi",
+    "title": "Drone Emprit showreel",
+    "gallery_url": "https://prompt-motion.com/ismailfahmi-557268",
+    "original_post": "https://x.com/ismailfahmi/status/2103557833153466403",
+    "attribution": "A motion video made with Claude Opus 5.5 by @ismailfahmi. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "c6d3557090198695c0ccdde45865d581f7ceddb56c164424259cad2946b7c9ae",
+    "video_seconds": 15.116667,
+    "fps": 60.0,
+    "frames": 907,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 31,
+    "transition_tiles": 50,
+    "tags": [
+      "particle-topology",
+      "point-cloud",
+      "gradient-title",
+      "data-design",
+      "continuous-morph",
+      "network",
+      "narrative-caption",
+      "logo-hold"
+    ],
+    "thesis": "A continuous luminous particle mass tells a data-intelligence story by changing topology: flowing sheet, coloured clusters, network map, temporal spike and finally a brand title.",
+    "chapter_map": [
+      [
+        0,
+        0.5,
+        "A brief brand title on deep blue gives way to a white flowing particle surface."
+      ],
+      [
+        0.5,
+        3.5,
+        "The luminous sheet folds and twists while a restrained bottom caption and small top-right counter supply narrative context."
+      ],
+      [
+        3.5,
+        6.2,
+        "Cyan, yellow and pink enter the moving mass, and small platform-like labels appear around it."
+      ],
+      [
+        6.2,
+        9.2,
+        "The mass separates into coloured clusters and a connected network with brighter hubs. Thin connections make relationships visible without a solid object."
+      ],
+      [
+        9.2,
+        11.8,
+        "The network reconfigures into a temporal peak with a horizontal footprint; the middle rise becomes the dominant silhouette."
+      ],
+      [
+        11.8,
+        12.9,
+        "Particles gather into a compressed vortex/stripe, preparing a title-shaped arrangement."
+      ],
+      [
+        12.9,
+        15.16,
+        "A cyan-to-yellow brand title resolves and holds over the same navy field, surrounded by a faint residual particle halo."
+      ]
+    ],
+    "mean_frame_delta": 0.008522,
+    "luma_range": [
+      0.0995,
+      0.2233
+    ],
+    "palette": [
+      {
+        "hex": "#04142c",
+        "fraction": 0.11483
+      },
+      {
+        "hex": "#041c3c",
+        "fraction": 0.11478
+      },
+      {
+        "hex": "#040c1c",
+        "fraction": 0.08404
+      },
+      {
+        "hex": "#040c24",
+        "fraction": 0.07428
+      },
+      {
+        "hex": "#041424",
+        "fraction": 0.06634
+      },
+      {
+        "hex": "#041c34",
+        "fraction": 0.05536
+      },
+      {
+        "hex": "#041434",
+        "fraction": 0.053
+      },
+      {
+        "hex": "#042444",
+        "fraction": 0.05287
+      },
+      {
+        "hex": "#041c44",
+        "fraction": 0.05208
+      },
+      {
+        "hex": "#04244c",
+        "fraction": 0.02703
+      },
+      {
+        "hex": "#040c14",
+        "fraction": 0.02472
+      },
+      {
+        "hex": "#0c2444",
+        "fraction": 0.02127
+      }
+    ],
+    "high_change_pts": [
+      0.8167,
+      1.3833,
+      2.0833,
+      3.0,
+      3.6333,
+      5.5667,
+      6.2667,
+      9.2,
+      11.8,
+      12.3667
+    ],
+    "audio_lufs": -11.02,
+    "audio_true_peak_dbtp": -0.15,
+    "audio_lra_lu": 2.8,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/06-ismailfahmi.md"
+  },
+  {
+    "id": "07-tequilafunks",
+    "author": "tequilafunks",
+    "title": "Claude motion design reel",
+    "gallery_url": "https://prompt-motion.com/tequilafunks-97f6c9",
+    "original_post": "https://x.com/tequilafunks/status/2103528644828127728",
+    "attribution": "A motion video made with Claude Opus 5.5 and Remotion by @tequilafunks. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "2b23cab1456b21fa95afe450cd1bf8b563359617c40bccd008b94ddb8cef5df7",
+    "video_seconds": 15.033333,
+    "fps": 30.0,
+    "frames": 451,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 31,
+    "transition_tiles": 50,
+    "tags": [
+      "easing-diagram",
+      "wide-type",
+      "outline-type",
+      "strip-wipe",
+      "quarter-circle-tiles",
+      "isometric-extrusion",
+      "particle-topology",
+      "font-axes",
+      "serif-contrast",
+      "logo-hold"
+    ],
+    "thesis": "A graph-editor opening earns a progression from flat typography through modular pattern into an isometric tile world, then releases that structure into particles before a typographic close.",
+    "chapter_map": [
+      [
+        0,
+        1.95,
+        "An orange animation curve is drawn on a sparse graph; its control handles and moving point make the motion-design premise explicit."
+      ],
+      [
+        1.95,
+        3.7,
+        "An orange iris reveals a heavy title. A short channel-offset glitch introduces the second word over an outline-text wallpaper."
+      ],
+      [
+        3.7,
+        6.3,
+        "Horizontal colour strips reveal a dense quarter-circle tile pattern. Cells rotate and then simplify into a square mosaic."
+      ],
+      [
+        6.3,
+        7.9,
+        "The same mosaic tips into an isometric floor and grows blocks vertically; a circular boundary and central extrusion establish a small architectural world."
+      ],
+      [
+        7.9,
+        10,
+        "The tile world recedes to a small object, then turns into a bright particle cluster, a curling flow and a coherent point sphere."
+      ],
+      [
+        10,
+        12.05,
+        "Brief large word cards demonstrate weight, width, spacing and flipping, changing the letterform behaviour rather than only its location."
+      ],
+      [
+        12.05,
+        15.1,
+        "A cream heavy wordmark resolves on black, with an orange dot, contrasting italic serif role and low-contrast production furniture."
+      ]
+    ],
+    "mean_frame_delta": 0.03502,
+    "luma_range": [
+      0.0466,
+      0.4772
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.47197
+      },
+      {
+        "hex": "#fc5c24",
+        "fraction": 0.02904
+      },
+      {
+        "hex": "#f4f4e4",
+        "fraction": 0.02436
+      },
+      {
+        "hex": "#2c2c34",
+        "fraction": 0.02265
+      },
+      {
+        "hex": "#3c44fc",
+        "fraction": 0.01675
+      },
+      {
+        "hex": "#fc641c",
+        "fraction": 0.0135
+      },
+      {
+        "hex": "#34343c",
+        "fraction": 0.0121
+      },
+      {
+        "hex": "#e4541c",
+        "fraction": 0.00965
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.0096
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.00836
+      },
+      {
+        "hex": "#24242c",
+        "fraction": 0.00782
+      },
+      {
+        "hex": "#ec541c",
+        "fraction": 0.00777
+      }
+    ],
+    "high_change_pts": [
+      2.0,
+      3.0,
+      3.7,
+      5.2333,
+      6.3,
+      6.8667,
+      7.8667,
+      10.0,
+      11.2333,
+      12.0
+    ],
+    "audio_lufs": -13.59,
+    "audio_true_peak_dbtp": 1.25,
+    "audio_lra_lu": 8.0,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/07-tequilafunks.md"
+  },
+  {
+    "id": "08-sudo_kiran",
+    "author": "sudo_kiran",
+    "title": "Claude motion design showreel",
+    "gallery_url": "https://prompt-motion.com/sudo-kiran-49176d",
+    "original_post": "https://x.com/sudo_kiran/status/2103463886372696074",
+    "attribution": "A motion video made with Claude Opus 5.5 by @sudo_kiran. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "d1ffb7235a575906ac0f1bab7666d50aed0c78a44bd42233d1b3304c4bae3a51",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "orbital-mark",
+      "wide-type",
+      "outline-type",
+      "shape-lattice",
+      "gradient-blob",
+      "point-cloud",
+      "data-design",
+      "iris",
+      "glitch-accent",
+      "logo-hold"
+    ],
+    "thesis": "A vivid multicolour identity is controlled by a recurring orbital mark and a consistent technical frame, while the film moves between kinetic type, a deforming shape matrix, a fluid gradient blob, point volumes and a small dashboard.",
+    "chapter_map": [
+      [
+        0,
+        1.97,
+        "Coloured rings and radial ticks organise themselves around a cream seed on a dark field."
+      ],
+      [
+        1.97,
+        3.95,
+        "A coral expansion introduces large short words, followed by black and lime fields. Stagger, echo outlines and brief channel offsets give each word an impact."
+      ],
+      [
+        3.95,
+        5.98,
+        "An oblique lime strip opens onto a regular matrix of coloured circles and rounded squares. Scale and shape vary radially across the grid."
+      ],
+      [
+        5.98,
+        7.95,
+        "A cream iris frames a soft multicolour blob. A large neutral word overlaps the blob and its exterior; thin contour rings reinforce the silhouette."
+      ],
+      [
+        7.95,
+        10,
+        "A reverse radial transition exposes a rainbow point sphere, then a stretched plane/volume, with faint outline typography behind it."
+      ],
+      [
+        10,
+        12,
+        "Cream carries a compact arrangement of coloured charts and controls; count-up and drawing motions establish a UI/data-design passage."
+      ],
+      [
+        12,
+        13.5,
+        "Fast large-word cards and an iris create the climax, using lime and white rather than sustaining the whole dashboard."
+      ],
+      [
+        13.5,
+        15,
+        "The orbital mark and cream name resolve on black, with a fine coral rule and smaller role line."
+      ]
+    ],
+    "mean_frame_delta": 0.028861,
+    "luma_range": [
+      0.0452,
+      0.8016
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.39584
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.05349
+      },
+      {
+        "hex": "#dcdcd4",
+        "fraction": 0.02229
+      },
+      {
+        "hex": "#e4e4dc",
+        "fraction": 0.01939
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.01789
+      },
+      {
+        "hex": "#fc4c3c",
+        "fraction": 0.01648
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.01575
+      },
+      {
+        "hex": "#c4fc3c",
+        "fraction": 0.01539
+      },
+      {
+        "hex": "#0c040c",
+        "fraction": 0.01509
+      },
+      {
+        "hex": "#e4dcd4",
+        "fraction": 0.01496
+      },
+      {
+        "hex": "#bcf434",
+        "fraction": 0.01457
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.01323
+      }
+    ],
+    "high_change_pts": [
+      0.7,
+      1.9667,
+      3.0,
+      3.95,
+      5.9833,
+      7.9167,
+      10.0,
+      12.0,
+      12.6333,
+      13.5
+    ],
+    "audio_lufs": -14.64,
+    "audio_true_peak_dbtp": -0.65,
+    "audio_lra_lu": 2.7,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/08-sudo_kiran.md"
+  },
+  {
+    "id": "09-lukasersil",
+    "author": "lukasersil",
+    "title": "Motion techniques showreel",
+    "gallery_url": "https://prompt-motion.com/lukasersil-0ed38e",
+    "original_post": "https://x.com/lukasersil/status/2103742861971726495",
+    "attribution": "A motion video made with Claude Opus 5.5 by @lukasersil. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "2e2454ebeef6c636163085b9aa646f635439a18fafe3fa92e3c376dfdf8edd7a",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "flare",
+      "slice-type",
+      "primary-geometry",
+      "silhouette-match",
+      "glossy-3d",
+      "liquid-marble",
+      "particle-burst",
+      "iris",
+      "logo-hold"
+    ],
+    "thesis": "A material journey moves from a luminous point and sliced type into primary-colour geometry, glossy three-dimensional objects, liquid marbling and particle swirls; the closing symbols recover the original simple shapes.",
+    "chapter_map": [
+      [
+        0,
+        1.95,
+        "A bright horizontal flare reveals a dotted word and then stretches into a thin luminous line on black."
+      ],
+      [
+        1.95,
+        3.5,
+        "Large cream letters are divided into horizontal bands, with alternating offsets producing a precise sliced-text distortion."
+      ],
+      [
+        3.5,
+        5.65,
+        "Primary-colour strips uncover a circle, square and triangle on cream. They reorder, briefly sit before a modular pattern, and return to a clean row."
+      ],
+      [
+        5.65,
+        7.8,
+        "The same shapes become shaded three-dimensional objects on a dark reflective floor. A glossy organic black form follows, with blue, red and yellow light reflections."
+      ],
+      [
+        7.8,
+        9.83,
+        "A marbled fluid colour field expands behind large outlined typography, then fills the screen with high-contrast metallic-looking folds."
+      ],
+      [
+        9.83,
+        11.2,
+        "The fluid field bursts into depth-stretched particles, then forms a multicolour swirling arrangement that converges into a readable word."
+      ],
+      [
+        11.2,
+        13.13,
+        "The word distorts in width and letter pose; brief callbacks to particles and the glossy object return to the original flare."
+      ],
+      [
+        13.13,
+        15,
+        "A cream iris reveals a strong title with three small primary shapes above it; the final frames contract back into the luminous point."
+      ]
+    ],
+    "mean_frame_delta": 0.039742,
+    "luma_range": [
+      0.0813,
+      0.8641
+    ],
+    "palette": [
+      {
+        "hex": "#ecece4",
+        "fraction": 0.13163
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.12407
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.06319
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.04961
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.04647
+      },
+      {
+        "hex": "#14141c",
+        "fraction": 0.04442
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.02529
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.02504
+      },
+      {
+        "hex": "#242424",
+        "fraction": 0.02395
+      },
+      {
+        "hex": "#1c1c24",
+        "fraction": 0.0211
+      },
+      {
+        "hex": "#ececdc",
+        "fraction": 0.01738
+      },
+      {
+        "hex": "#2c2c2c",
+        "fraction": 0.01496
+      }
+    ],
+    "high_change_pts": [
+      2.0167,
+      2.8167,
+      3.5,
+      5.65,
+      9.8333,
+      10.5667,
+      11.25,
+      12.2,
+      13.1333,
+      14.85
+    ],
+    "audio_lufs": -12.31,
+    "audio_true_peak_dbtp": -0.61,
+    "audio_lra_lu": 3.1,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/09-lukasersil.md"
+  },
+  {
+    "id": "10-gizakdag",
+    "author": "gizakdag",
+    "title": "Overthinking motion study",
+    "gallery_url": "https://prompt-motion.com/gizakdag-cf4ae6",
+    "original_post": "https://x.com/gizakdag/status/2103566030916239768",
+    "attribution": "A motion video made with Claude Opus 5.5 by @gizakdag. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "528199dd408fb69dc4a73aa61f9631a2949a1509ac842ece30a65b221298cecb",
+    "video_seconds": 14.966666,
+    "fps": 30.0,
+    "frames": 449,
+    "width": 1080,
+    "height": 1920,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "portrait",
+      "collage",
+      "circular-type",
+      "radial-layout",
+      "parallax",
+      "glitch-accent",
+      "density-release",
+      "logo-hold"
+    ],
+    "thesis": "A vertical maximalist collage uses visual overload to embody an overthinking theme, then earns relief with a sparse circular closing emblem. It is a deliberate stylistic contrast to the Swiss/technical reels.",
+    "chapter_map": [
+      [
+        0,
+        1.55,
+        "A tiny central point and minimal sentence sit in a dark vertical field before a sharp yellow/white star expands."
+      ],
+      [
+        1.55,
+        3.95,
+        "Concentric gold rings and rotating fragments of type accumulate around a shared centre, becoming a dense orbital thought diagram."
+      ],
+      [
+        3.95,
+        7.05,
+        "A symmetrical collage combines a face, flowers, geometric wireforms, rainbow beams and large outlined title fragments. Repeated overlays intensify the composition."
+      ],
+      [
+        7.05,
+        9.9,
+        "A depth road, stylised buildings, a large eye/star and a glowing keyboard create successive surreal spatial tableaux."
+      ],
+      [
+        9.9,
+        12.17,
+        "A domestic/space collage breaks into a multi-panel poster grid; repeated headline wallpaper and channel offsets create the peak density."
+      ],
+      [
+        12.17,
+        15,
+        "The picture clears to black, then a circular crop recalls the collage as an emblem with a small italic instruction and a widely spaced closing title."
+      ]
+    ],
+    "mean_frame_delta": 0.057343,
+    "luma_range": [
+      0.0348,
+      0.5406
+    ],
+    "palette": [
+      {
+        "hex": "#04040c",
+        "fraction": 0.12085
+      },
+      {
+        "hex": "#040414",
+        "fraction": 0.05441
+      },
+      {
+        "hex": "#040c1c",
+        "fraction": 0.02406
+      },
+      {
+        "hex": "#0c0c1c",
+        "fraction": 0.01664
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.00939
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.00825
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.00681
+      },
+      {
+        "hex": "#040c14",
+        "fraction": 0.006
+      },
+      {
+        "hex": "#04041c",
+        "fraction": 0.00556
+      },
+      {
+        "hex": "#141c6c",
+        "fraction": 0.00533
+      },
+      {
+        "hex": "#14247c",
+        "fraction": 0.00516
+      },
+      {
+        "hex": "#0c0c04",
+        "fraction": 0.00423
+      }
+    ],
+    "high_change_pts": [
+      1.5667,
+      3.9667,
+      6.4667,
+      7.0667,
+      8.2667,
+      9.1667,
+      9.8667,
+      10.5667,
+      11.5,
+      12.1667
+    ],
+    "audio_lufs": -15.22,
+    "audio_true_peak_dbtp": -0.94,
+    "audio_lra_lu": 7.7,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/10-gizakdag.md"
+  },
+  {
+    "id": "11-ayushunleashed",
+    "author": "ayushunleashed",
+    "title": "Claude motion design showreel",
+    "gallery_url": "https://prompt-motion.com/ayushunleashed-ece3e3",
+    "original_post": "https://x.com/ayushunleashed/status/2103794962257084755",
+    "attribution": "A motion video made with Claude Opus 5.5 by @ayushunleashed. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "a5952b4f7e87954e65620662767940931e1362b2f160e0bf7d4529cb1b142897",
+    "video_seconds": 14.966666,
+    "fps": 30.0,
+    "frames": 449,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "point-line-plane",
+      "perspective-plane",
+      "wide-type",
+      "outline-type",
+      "point-cloud",
+      "data-design",
+      "halftone",
+      "shape-morph",
+      "logo-hold"
+    ],
+    "thesis": "A technical progression from point to line to plane provides an unusually clear bridge between typography, projected particle geometry, data-like rhythm and a compact style montage.",
+    "chapter_map": [
+      [
+        0,
+        1.87,
+        "A small orange point becomes a horizontal line across a dark dotted workspace."
+      ],
+      [
+        1.87,
+        3.67,
+        "The line expands into a red/orange grid plane, which tilts and rotates towards an edge-on sliver."
+      ],
+      [
+        3.67,
+        5.33,
+        "A pale flash and circular framing reveal a huge cream name. Solid, outline and orange states demonstrate hierarchy before the letters separate around a particle seed."
+      ],
+      [
+        5.33,
+        7.63,
+        "The seed becomes a point sphere with orbital ellipses, changing rotation while technical annotations stay outside the silhouette."
+      ],
+      [
+        7.63,
+        9.2,
+        "A large numeric tempo-style display and bar field build in a left-number/right-graphic layout; one red bar provides emphasis."
+      ],
+      [
+        9.2,
+        11.2,
+        "A brisk style sampler shows a Swiss number card, halftone portrait-like form, isometric blocks, channel glitch and repeated condensed typography."
+      ],
+      [
+        11.2,
+        12.95,
+        "On a circular construction grid, an orange disc deforms into a starburst and organic lobed shape."
+      ],
+      [
+        12.95,
+        15,
+        "A name and orange punctuation assemble on black, with a subtle warm glow and several small supporting lines."
+      ]
+    ],
+    "mean_frame_delta": 0.023399,
+    "luma_range": [
+      0.042,
+      0.3725
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.68048
+      },
+      {
+        "hex": "#ec3c24",
+        "fraction": 0.05981
+      },
+      {
+        "hex": "#0c0c04",
+        "fraction": 0.02423
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.01641
+      },
+      {
+        "hex": "#140c0c",
+        "fraction": 0.01564
+      },
+      {
+        "hex": "#1c0c0c",
+        "fraction": 0.01151
+      },
+      {
+        "hex": "#3c3cf4",
+        "fraction": 0.01035
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.0092
+      },
+      {
+        "hex": "#ec4424",
+        "fraction": 0.0084
+      },
+      {
+        "hex": "#14140c",
+        "fraction": 0.00677
+      },
+      {
+        "hex": "#240c0c",
+        "fraction": 0.0055
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.00518
+      }
+    ],
+    "high_change_pts": [
+      1.8667,
+      2.5333,
+      3.6667,
+      4.6,
+      5.3333,
+      7.6333,
+      9.2,
+      10.1333,
+      10.7333,
+      13.1333
+    ],
+    "audio_lufs": -14.14,
+    "audio_true_peak_dbtp": -2.41,
+    "audio_lra_lu": 3.1,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/11-ayushunleashed.md"
+  },
+  {
+    "id": "13-hanifproduktif",
+    "author": "hanifproduktif",
+    "title": "Motion designer showreel",
+    "gallery_url": "https://prompt-motion.com/hanifproduktif-54bdee",
+    "original_post": "https://x.com/hanifproduktif/status/2103404901451829311",
+    "attribution": "A motion video made with Claude Opus 5.5 by @hanifproduktif. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "303d0096c3ff72b181ca07c2266e5c98d8392d3c454927e76b29a4b3e2529148",
+    "video_seconds": 14.966666,
+    "fps": 30.0,
+    "frames": 449,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "principle-type",
+      "anticipation",
+      "overshoot",
+      "font-axes",
+      "stagger",
+      "slice-type",
+      "shape-morph",
+      "circular-type",
+      "particle-type",
+      "logo-hold"
+    ],
+    "thesis": "A compact typographic principles reel assigns different motion behaviour to each word, then uses a shape study and particle reassembly to recover the opening identity.",
+    "chapter_map": [
+      [
+        0,
+        1.97,
+        "A fine lime line and seed expand through a cream iris into the main title with a lime underline."
+      ],
+      [
+        1.97,
+        3.97,
+        "An anticipation word on black prepares a lateral exit; an orange target-marked card demonstrates overshoot and settling."
+      ],
+      [
+        3.97,
+        5.97,
+        "A lime word visibly changes width, followed by cream individual characters arriving at different positions before forming a coherent word."
+      ],
+      [
+        5.97,
+        7.97,
+        "Weight is suggested by a compressed baseline and a heavier word on black; a thin horizontal lime cut visibly splits the next word."
+      ],
+      [
+        7.97,
+        10.47,
+        "An orange outlined shape morphs between circle, star and polygon over a dotted field. Individual letters then orbit on a circular path."
+      ],
+      [
+        10.47,
+        12.97,
+        "Short cards contrast blurred movement, channel-offset snap, eased motion and large cream typography, with a few faster intermediary cards visible in transition windows."
+      ],
+      [
+        12.97,
+        15,
+        "A particle field gathers into the final title; solid cream type and lime punctuation replace the noisy assembly for a readable hold."
+      ]
+    ],
+    "mean_frame_delta": 0.035946,
+    "luma_range": [
+      0.0358,
+      0.8895
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.55192
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.14934
+      },
+      {
+        "hex": "#fc5c1c",
+        "fraction": 0.13767
+      },
+      {
+        "hex": "#c4fc2c",
+        "fraction": 0.07399
+      },
+      {
+        "hex": "#2c2c2c",
+        "fraction": 0.00934
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.00503
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.00488
+      },
+      {
+        "hex": "#242424",
+        "fraction": 0.00376
+      },
+      {
+        "hex": "#14140c",
+        "fraction": 0.00221
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.00221
+      },
+      {
+        "hex": "#0c140c",
+        "fraction": 0.0021
+      },
+      {
+        "hex": "#b4e42c",
+        "fraction": 0.00198
+      }
+    ],
+    "high_change_pts": [
+      1.0,
+      1.9667,
+      2.9667,
+      3.9667,
+      4.9667,
+      5.9667,
+      10.4667,
+      11.5,
+      12.3,
+      12.9667
+    ],
+    "audio_lufs": -16.07,
+    "audio_true_peak_dbtp": -1.12,
+    "audio_lra_lu": 6.8,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/13-hanifproduktif.md"
+  },
+  {
+    "id": "14-eyishazyer",
+    "author": "eyishazyer",
+    "title": "Motion designer showreel",
+    "gallery_url": "https://prompt-motion.com/eyishazyer-af035b",
+    "original_post": "https://x.com/eyishazyer/status/2103816865852129686",
+    "attribution": "A motion video made with Claude Opus 5.5 by @eyishazyer. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "68833b375b4a4ab95974ecb61d115d206ee7b78462b3fa3ed8ef39ed1c29a90b",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "countdown",
+      "wide-type",
+      "shape-lattice",
+      "ribbon",
+      "topographic-lines",
+      "data-design",
+      "strip-wipe",
+      "portal",
+      "kinetic-type",
+      "logo-hold"
+    ],
+    "thesis": "A countdown and identity card lead into a colourful rhythm matrix, luminous dimensional curves, topographic lines and a data panel; a rapid principles montage precedes the final signature.",
+    "chapter_map": [
+      [
+        0,
+        1.5,
+        "Huge lime countdown figures and an orange bouncing seed create anticipation on a dark technical field."
+      ],
+      [
+        1.5,
+        3.6,
+        "A pale radial flash reveals heavy identity type with red/blue offset edges and a small orange circular badge."
+      ],
+      [
+        3.6,
+        5.57,
+        "Horizontal strips reveal a regular cell grid. Bright circles and squares form an annular moving region while dim outline cells remain as spatial reference."
+      ],
+      [
+        5.57,
+        7.33,
+        "A square portal opens into pink/cyan spatial loops on violet, changing camera angle and apparent depth without adding a solid surface."
+      ],
+      [
+        7.33,
+        9.18,
+        "A diagonal multicolour wipe exposes thin black topographic waves on orange, with a cream disc behind them."
+      ],
+      [
+        9.18,
+        11.25,
+        "Vertical strips reveal a cream information layout with a bar chart, ring indicator, line and large figures."
+      ],
+      [
+        11.25,
+        13.4,
+        "Fast principle cards alternate lime, black, orange, violet and pink, with words changing pose and scale."
+      ],
+      [
+        13.4,
+        15,
+        "An orange curved mark and lime dot accompany a cream wordmark on a dark violet field, followed by a fine underline."
+      ]
+    ],
+    "mean_frame_delta": 0.013861,
+    "luma_range": [
+      0.0443,
+      0.7819
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.10904
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.08726
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.0491
+      },
+      {
+        "hex": "#04040c",
+        "fraction": 0.03789
+      },
+      {
+        "hex": "#fc4c2c",
+        "fraction": 0.01761
+      },
+      {
+        "hex": "#140c34",
+        "fraction": 0.01556
+      },
+      {
+        "hex": "#0c040c",
+        "fraction": 0.01451
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.01445
+      },
+      {
+        "hex": "#14142c",
+        "fraction": 0.01324
+      },
+      {
+        "hex": "#e4dcd4",
+        "fraction": 0.01296
+      },
+      {
+        "hex": "#0c041c",
+        "fraction": 0.01289
+      },
+      {
+        "hex": "#dcd4cc",
+        "fraction": 0.01244
+      }
+    ],
+    "high_change_pts": [
+      0.5333,
+      1.4833,
+      3.6,
+      4.4833,
+      5.5667,
+      7.3333,
+      9.1833,
+      11.25,
+      12.2,
+      13.0167
+    ],
+    "audio_lufs": -10.33,
+    "audio_true_peak_dbtp": 0.75,
+    "audio_lra_lu": 0.6,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/14-eyishazyer.md"
+  },
+  {
+    "id": "15-blue_clarity",
+    "author": "blue_clarity",
+    "title": "Particle sphere motion reel",
+    "gallery_url": "https://prompt-motion.com/blue-clarity-ef56d0",
+    "original_post": "https://x.com/blue_clarity/status/2103564589065449603",
+    "attribution": "A motion video made with Claude Opus 5.5 by @blue_clarity. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "3aa44428d57db893ab9e57148dcc4bb6ce0b386fcf85c5ad33c382d4dede67ec",
+    "video_seconds": 15.033334,
+    "fps": 60.0,
+    "frames": 902,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 31,
+    "transition_tiles": 50,
+    "tags": [
+      "condensed-type",
+      "spacing-diagram",
+      "shape-morph",
+      "particle-burst",
+      "particle-type",
+      "point-cloud",
+      "stepped-wipe",
+      "panel-wall",
+      "logo-hold"
+    ],
+    "thesis": "A precise motion-lab identity carries a clear route from bounce spacing to condensed typography, shape topology, particle typography, an orbital sphere and a wall of miniature motion studies.",
+    "chapter_map": [
+      [
+        0,
+        1.98,
+        "An orange ball bounces on light grey with ghost positions, axes and a small curve preview showing its spacing."
+      ],
+      [
+        1.98,
+        3.93,
+        "An orange radial fill introduces a stacked condensed phrase. A cobalt lower strip carries a contrasting cream word and separates the hierarchy into two planes."
+      ],
+      [
+        3.93,
+        6.08,
+        "Black/navy supports a white disc, rotated square, triangle and star. Visible path vertices and outline echoes present the shapes as designed geometry."
+      ],
+      [
+        6.08,
+        8.45,
+        "A central particle burst opens onto cobalt, circulates into a swirling mass and converges into a large condensed particle word above a yellow rule."
+      ],
+      [
+        8.45,
+        10.5,
+        "A stepped wipe reveals a point sphere with thin coloured orbital ellipses, then the volume changes orientation and compresses."
+      ],
+      [
+        10.5,
+        13.02,
+        "A light field reveals a nine-cell grid of small motion demonstrations, including lines, bars, arcs, bounce and a curve."
+      ],
+      [
+        13.02,
+        15,
+        "One cell enlarges to a dark field, then condensed cream branding and three short accent rules assemble and hold."
+      ]
+    ],
+    "mean_frame_delta": 0.014979,
+    "luma_range": [
+      0.0871,
+      0.9142
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c1c",
+        "fraction": 0.26225
+      },
+      {
+        "hex": "#e4ecf4",
+        "fraction": 0.16617
+      },
+      {
+        "hex": "#2c2ce4",
+        "fraction": 0.14749
+      },
+      {
+        "hex": "#fc4c2c",
+        "fraction": 0.10331
+      },
+      {
+        "hex": "#0c142c",
+        "fraction": 0.04595
+      },
+      {
+        "hex": "#0c0c24",
+        "fraction": 0.0345
+      },
+      {
+        "hex": "#ccd4e4",
+        "fraction": 0.02685
+      },
+      {
+        "hex": "#2c2cec",
+        "fraction": 0.01707
+      },
+      {
+        "hex": "#fcc42c",
+        "fraction": 0.01523
+      },
+      {
+        "hex": "#141434",
+        "fraction": 0.01394
+      },
+      {
+        "hex": "#0c1424",
+        "fraction": 0.01247
+      },
+      {
+        "hex": "#040c1c",
+        "fraction": 0.00492
+      }
+    ],
+    "high_change_pts": [
+      1.9833,
+      3.0667,
+      3.9333,
+      5.0667,
+      6.0833,
+      6.8667,
+      8.45,
+      10.5,
+      12.3667,
+      12.9833
+    ],
+    "audio_lufs": -16.05,
+    "audio_true_peak_dbtp": -0.29,
+    "audio_lra_lu": 3.6,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/15-blue_clarity.md"
+  },
+  {
+    "id": "17-raphaelaubryy",
+    "author": "RaphaelAubryy",
+    "title": "Motion designer résumé reel",
+    "gallery_url": "https://prompt-motion.com/raphaelaubryy-4b137e",
+    "original_post": "https://x.com/RaphaelAubryy/status/2103416909857190360",
+    "attribution": "A motion video made with Claude Opus 5.5 by @RaphaelAubryy. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "a727c5d5b336f4c2b52c2a686bb061376170c5fe68cb49227c2d8b8199cb0b5f",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "warm-palette",
+      "shape-morph",
+      "cell-grid",
+      "particle-type",
+      "metaball",
+      "type-wall",
+      "perspective-cube",
+      "zoom-through",
+      "logo-hold"
+    ],
+    "thesis": "A quieter coral/cream system uses reductions and shared geometry to connect a simple title, shape morphs, pixel typography, particles, merging blobs, repeated text and a rotating labelled cube.",
+    "chapter_map": [
+      [
+        0,
+        1.9,
+        "A horizontal rule grows on cream; two title lines stack across the same baseline and scale into the next view."
+      ],
+      [
+        1.9,
+        4,
+        "A coral circle becomes a diamond, triangle and rounded star on black, surrounded by faint concentric construction circles."
+      ],
+      [
+        4,
+        6,
+        "The star gives way to a regular cell grid. A circular black region exposes a large coral numerical mark formed from cells."
+      ],
+      [
+        6,
+        8,
+        "The cellular mark dissolves into particles, which gather into a large word, with the dark field keeping the small points legible."
+      ],
+      [
+        8,
+        10,
+        "Cream circles on coral orbit, merge through soft bridges and separate again, demonstrating a metaball-like shape language."
+      ],
+      [
+        10,
+        12,
+        "A cream wallpaper of repeated design words slides beneath a coral central title bar; the bar and surrounding text collapse into a smaller three-dimensional object."
+      ],
+      [
+        12,
+        14,
+        "A cube rotates slowly, with cream, coral and black faces carrying different motion-related labels."
+      ],
+      [
+        14,
+        15,
+        "A compact name/numerical lockup settles on black."
+      ]
+    ],
+    "mean_frame_delta": 0.022795,
+    "luma_range": [
+      0.0497,
+      0.8956
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.39626
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.19696
+      },
+      {
+        "hex": "#cc6c54",
+        "fraction": 0.15531
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.04549
+      },
+      {
+        "hex": "#141c1c",
+        "fraction": 0.02481
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.01927
+      },
+      {
+        "hex": "#ac5c4c",
+        "fraction": 0.01339
+      },
+      {
+        "hex": "#d4ccc4",
+        "fraction": 0.00845
+      },
+      {
+        "hex": "#c4c4bc",
+        "fraction": 0.00689
+      },
+      {
+        "hex": "#040c0c",
+        "fraction": 0.00627
+      },
+      {
+        "hex": "#e4e4dc",
+        "fraction": 0.0054
+      },
+      {
+        "hex": "#dcdcd4",
+        "fraction": 0.00462
+      }
+    ],
+    "high_change_pts": [
+      1.85,
+      4.0,
+      4.5667,
+      6.0,
+      8.0,
+      10.0,
+      10.9,
+      12.0,
+      12.5833,
+      14.0
+    ],
+    "audio_lufs": -14.15,
+    "audio_true_peak_dbtp": 0.08,
+    "audio_lra_lu": 1.0,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/17-raphaelaubryy.md"
+  },
+  {
+    "id": "18-arjunsh1607",
+    "author": "arjunsh1607",
+    "title": "Pixelup Labs studio showreel",
+    "gallery_url": "https://prompt-motion.com/arjunsh1607-93005d",
+    "original_post": "https://x.com/arjunsh1607/status/2104295133432922126",
+    "attribution": "A motion video made with Claude Opus 5.5 by @arjunsh1607. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "93f62c0f82057a92f5e07444a616f96c87e7f17115cd88474468d5d9b0e291f8",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "portfolio-motion",
+      "image-type-mask",
+      "perspective-plane",
+      "mockup-wall",
+      "strip-wipe",
+      "data-design",
+      "zoom-through",
+      "logo-hold"
+    ],
+    "thesis": "A studio portfolio reel uses typographic windows, fast project samples, perspective mockup fields and a restrained proof/identity close. Its relevance is motion presentation and camera continuity rather than abstract shape experimentation.",
+    "chapter_map": [
+      [
+        0,
+        1,
+        "A tiny blue selected rectangle grows into a full blue stage with subtle alignment guides."
+      ],
+      [
+        1,
+        2.25,
+        "A large thin-to-regular brand-category word acts as a window onto glossy green imagery, then the camera passes through the lettering."
+      ],
+      [
+        2.25,
+        4.5,
+        "Brief identity examples occupy the full frame, including a glowing green mark, a landscape-led design and smaller framed brand cards."
+      ],
+      [
+        4.5,
+        6.5,
+        "A field of website mockups tilts in perspective beneath a large white category label, then the camera chooses individual laptop views."
+      ],
+      [
+        6.5,
+        8.5,
+        "Clean laptop/device views on light grounds alternate with a sparse category title on black."
+      ],
+      [
+        8.5,
+        10.67,
+        "A row of phone mockups slides into a multi-column portfolio wall, creating rhythm through offset arrivals and different image heights."
+      ],
+      [
+        10.67,
+        13,
+        "A text-and-figures claim card stays on black with blue emphasis and thin dividing rules."
+      ],
+      [
+        13,
+        15,
+        "The claim layout scales away to a small seed; the studio mark and name settle against a restrained blue glow."
+      ]
+    ],
+    "mean_frame_delta": 0.018596,
+    "luma_range": [
+      0.0032,
+      0.6664
+    ],
+    "palette": [
+      {
+        "hex": "#040404",
+        "fraction": 0.2907
+      },
+      {
+        "hex": "#0444e4",
+        "fraction": 0.07322
+      },
+      {
+        "hex": "#04040c",
+        "fraction": 0.02605
+      },
+      {
+        "hex": "#fcfcfc",
+        "fraction": 0.02186
+      },
+      {
+        "hex": "#040414",
+        "fraction": 0.01754
+      },
+      {
+        "hex": "#040c1c",
+        "fraction": 0.01428
+      },
+      {
+        "hex": "#f4f4f4",
+        "fraction": 0.01402
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.01171
+      },
+      {
+        "hex": "#040c24",
+        "fraction": 0.01076
+      },
+      {
+        "hex": "#040c2c",
+        "fraction": 0.00772
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.00735
+      },
+      {
+        "hex": "#646464",
+        "fraction": 0.0073
+      }
+    ],
+    "high_change_pts": [
+      1.0,
+      2.2167,
+      3.5,
+      4.25,
+      6.5,
+      7.5,
+      8.5167,
+      9.2833,
+      10.6667,
+      13.0
+    ],
+    "audio_lufs": -12.32,
+    "audio_true_peak_dbtp": -0.76,
+    "audio_lra_lu": 1.7,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/18-arjunsh1607.md"
+  },
+  {
+    "id": "19-codestackr",
+    "author": "codeSTACKr",
+    "title": "Claude motion reel",
+    "gallery_url": "https://prompt-motion.com/codestackr-c071bf",
+    "original_post": "https://x.com/codeSTACKr/status/2103656229717328129",
+    "attribution": "A motion video made with Claude Opus 5.5 by @codeSTACKr. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "c96012b35494e8b1063e9f34071f55158935aa8b4409105f04472ac0ad79c300",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "wide-type",
+      "serif-contrast",
+      "shape-lattice",
+      "point-cloud",
+      "perspective-type",
+      "helix",
+      "easing-diagram",
+      "band-wipe",
+      "logo-hold"
+    ],
+    "thesis": "Technical framing, orange punctuation and a seed/ring identity join a remarkably varied sequence of type statements, deforming lattices, orbital type and a clear easing comparison.",
+    "chapter_map": [
+      [
+        0,
+        1.52,
+        "A small orange dot/ring becomes three points, then a cream horizontal band grows around emerging identity letters."
+      ],
+      [
+        1.52,
+        4.5,
+        "A rapid sequence of orange, black, cream and cobalt word cards uses scale, per-letter arrangement, outline repeats and a frame-count-style number."
+      ],
+      [
+        4.5,
+        6.7,
+        "A regular grid of small cream circles/squares pulses and rotates around orange accent cells, maintaining indexed positions as shapes change."
+      ],
+      [
+        6.7,
+        9.5,
+        "The grid contracts to a seed, becomes a point sphere with a bright blue core and orange orbital type, then stretches into a vertical helix."
+      ],
+      [
+        9.5,
+        11.9,
+        "A cream graphic shows a curve editor at left and multiple dot lanes at right, with orange/black endpoints revealing different spacing laws."
+      ],
+      [
+        11.9,
+        13.25,
+        "A short typography montage contrasts huge orange/cream words, italic serif text and an orange infinity-like loop."
+      ],
+      [
+        13.25,
+        15,
+        "The sun/ring mark sits above a heavy cream name, with a small italic role and restrained lime availability badge."
+      ]
+    ],
+    "mean_frame_delta": 0.018894,
+    "luma_range": [
+      0.0344,
+      0.8294
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.26033
+      },
+      {
+        "hex": "#0c0c04",
+        "fraction": 0.1316
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.09297
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.05585
+      },
+      {
+        "hex": "#fc541c",
+        "fraction": 0.03516
+      },
+      {
+        "hex": "#0c0404",
+        "fraction": 0.03078
+      },
+      {
+        "hex": "#2c3cfc",
+        "fraction": 0.01452
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.01364
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.01265
+      },
+      {
+        "hex": "#e4dcd4",
+        "fraction": 0.01206
+      },
+      {
+        "hex": "#dcd4cc",
+        "fraction": 0.01089
+      },
+      {
+        "hex": "#d4ccc4",
+        "fraction": 0.01004
+      }
+    ],
+    "high_change_pts": [
+      1.5167,
+      2.1,
+      2.75,
+      4.0,
+      5.0167,
+      6.0167,
+      6.7,
+      9.5,
+      12.1667,
+      12.8333
+    ],
+    "audio_lufs": -7.27,
+    "audio_true_peak_dbtp": 0.94,
+    "audio_lra_lu": 2.4,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/19-codestackr.md"
+  },
+  {
+    "id": "20-samuel_spitz",
+    "author": "samuel_spitz",
+    "title": "Motion design showreel",
+    "gallery_url": "https://prompt-motion.com/samuel-spitz-974923",
+    "original_post": "https://x.com/samuel_spitz/status/2103544855276503053",
+    "attribution": "A motion video made with Claude Opus 5.5 by @samuel_spitz. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "189d5123b24f9dc75b238aae271c1f439f1f360bf20d51fbed6ecfc9cb5a7ab7",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "seed-continuity",
+      "quarter-circle-tiles",
+      "stagger",
+      "perspective-plane",
+      "chrome-material",
+      "serif-contrast",
+      "material-type-mask",
+      "oblique-wipe",
+      "logo-hold"
+    ],
+    "thesis": "A coral line and cream/ink system introduce modular geometry, then a plane-to-chrome material transformation becomes the central spectacle before a restrained editorial ending.",
+    "chapter_map": [
+      [
+        0,
+        2.48,
+        "An orange seed traces a line and underlines a heavy cream word on black; an orange letter becomes a transition carrier."
+      ],
+      [
+        2.48,
+        4.82,
+        "A cream iris reveals a small grid of circles, squares, arches and quarter-circles. Individual modules flip around vertical axes with phased timing."
+      ],
+      [
+        4.82,
+        7.7,
+        "A cobalt stage contains a dark graphic plane with a serif depth word and orange wave; multiple wireframe planes separate in perspective, then the camera enlarges the graphic plane."
+      ],
+      [
+        7.7,
+        10.3,
+        "A chrome sphere occupies a dark rippled material field. Strong white reflections, a warm rim and orbital curves establish gloss and depth."
+      ],
+      [
+        10.3,
+        12.5,
+        "An orange oblique shape covers the material, followed by quick colour, outline-text and chrome-filled letter cards."
+      ],
+      [
+        12.5,
+        15,
+        "A long coral flourish draws under a heavy cream reel title and orange date accent; a small italic line supplies a quiet secondary voice."
+      ]
+    ],
+    "mean_frame_delta": 0.011841,
+    "luma_range": [
+      0.0361,
+      0.7937
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.45894
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.14121
+      },
+      {
+        "hex": "#243cfc",
+        "fraction": 0.12945
+      },
+      {
+        "hex": "#fc3c1c",
+        "fraction": 0.03962
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.02328
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.01623
+      },
+      {
+        "hex": "#2444fc",
+        "fraction": 0.01077
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.01053
+      },
+      {
+        "hex": "#242424",
+        "fraction": 0.00749
+      },
+      {
+        "hex": "#2c2c2c",
+        "fraction": 0.00687
+      },
+      {
+        "hex": "#140c0c",
+        "fraction": 0.00657
+      },
+      {
+        "hex": "#04040c",
+        "fraction": 0.00587
+      }
+    ],
+    "high_change_pts": [
+      2.4833,
+      4.1167,
+      4.8167,
+      5.7,
+      6.55,
+      7.7,
+      8.2667,
+      10.3,
+      11.1667,
+      14.8
+    ],
+    "audio_lufs": -23.66,
+    "audio_true_peak_dbtp": -7.45,
+    "audio_lra_lu": 3.6,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/20-samuel_spitz.md"
+  },
+  {
+    "id": "21-zheke",
+    "author": "zheke",
+    "title": "Kinetic type showreel",
+    "gallery_url": "https://prompt-motion.com/zheke-38deff",
+    "original_post": "https://x.com/zheke/status/2103418664854622583",
+    "attribution": "A motion video made with Claude Opus 5.5 by @zheke. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "6bc8884a8dd407711870501f3d868bc1438eaa9826c4ddd26456f11278fbea58",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1080,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "square-format",
+      "condensed-type",
+      "principle-type",
+      "perspective-type",
+      "glossy-3d",
+      "particle-type",
+      "refraction",
+      "isometric-extrusion",
+      "tunnel",
+      "logo-hold"
+    ],
+    "thesis": "A square-format typographic self-introduction treats capability words as demonstrations, using one orange punctuation dot to connect tall type, perspective rings, glossy forms, particles and a rapid reprise.",
+    "chapter_map": [
+      [
+        0,
+        2.75,
+        "Very large condensed greeting and model-name blocks alternate black and cream; the orange dot bounces between punctuation and an independent seed."
+      ],
+      [
+        2.75,
+        4.75,
+        "A repeated small lead-in anchors cards demonstrating squash, stretch, stagger and overshoot. Word proportions and letter arrival order change visibly."
+      ],
+      [
+        4.75,
+        6.7,
+        "A blur word gives way to a rotating perspective text ring on orange, then glossy orange spheres on cobalt demonstrate a material change."
+      ],
+      [
+        6.7,
+        8.85,
+        "An orange particle word releases into a swarm; a large transparent lens-like form distorts type and a colourful cloud backdrop."
+      ],
+      [
+        8.85,
+        10.45,
+        "An isometric block assembly and nested geometric tunnel create a short spatial acceleration, followed by brief callbacks to earlier techniques."
+      ],
+      [
+        10.45,
+        12.7,
+        "Two crossed-out tool/workflow cards are graphic claims, using one thick orange diagonal as a repeated gesture."
+      ],
+      [
+        12.7,
+        15,
+        "A compact code-themed statement and final tall numerical/name lockup return to black, cream and the orange dot."
+      ]
+    ],
+    "mean_frame_delta": 0.033378,
+    "luma_range": [
+      0.1467,
+      0.765
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.28295
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.13226
+      },
+      {
+        "hex": "#e4dcd4",
+        "fraction": 0.05207
+      },
+      {
+        "hex": "#e4e4dc",
+        "fraction": 0.04119
+      },
+      {
+        "hex": "#fc5c1c",
+        "fraction": 0.02822
+      },
+      {
+        "hex": "#2c34ec",
+        "fraction": 0.02569
+      },
+      {
+        "hex": "#2c34f4",
+        "fraction": 0.02532
+      },
+      {
+        "hex": "#f4541c",
+        "fraction": 0.02512
+      },
+      {
+        "hex": "#e4e4d4",
+        "fraction": 0.01937
+      },
+      {
+        "hex": "#2434ec",
+        "fraction": 0.01817
+      },
+      {
+        "hex": "#dcdcd4",
+        "fraction": 0.01634
+      },
+      {
+        "hex": "#2434e4",
+        "fraction": 0.01021
+      }
+    ],
+    "high_change_pts": [
+      0.9333,
+      1.8667,
+      2.8167,
+      4.6833,
+      7.5,
+      8.9,
+      10.4333,
+      11.25,
+      11.95,
+      12.65
+    ],
+    "audio_lufs": -13.55,
+    "audio_true_peak_dbtp": -0.36,
+    "audio_lra_lu": 1.6,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/21-zheke.md"
+  },
+  {
+    "id": "22-influencer_seo",
+    "author": "influencer_seo",
+    "title": "fal motion design showreel",
+    "gallery_url": "https://prompt-motion.com/influencer-seo-ce8c33",
+    "original_post": "https://x.com/influencer_seo/status/2104827314400026936",
+    "attribution": "A motion video made with Claude Opus 5.5 by @influencer_seo. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "caae3c84c1aaeba4300ea4ae2924f7ec062565ddbf7dad1ca461cc75fb606c02",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "media-led",
+      "material-type-mask",
+      "outline-type",
+      "serif-contrast",
+      "perspective-plane",
+      "panel-wall",
+      "data-design",
+      "radial-mask",
+      "logo-hold"
+    ],
+    "thesis": "A purple/black media-platform film unifies product imagery and large type with metallic/luminous material, consistent chapter numbering and a restrained white closing brand field.",
+    "chapter_map": [
+      [
+        0,
+        1.7,
+        "A terminal-like prompt types into a violet field, then a narrow media strip expands into a product-image reveal."
+      ],
+      [
+        1.7,
+        4.9,
+        "Large media-category words alternate solid image-filled letters and outlines. Supporting numbers, rules and a waveform-like bar field create a repeatable chapter system."
+      ],
+      [
+        4.9,
+        7.2,
+        "Dimensional chrome-like lettering turns into an angled wall of generated-looking imagery, with a small editorial sentence above it."
+      ],
+      [
+        7.2,
+        9.7,
+        "A dancer/image and a large count form a split layout; a car image and oversized multiplier follow as a second proof-style composition."
+      ],
+      [
+        9.7,
+        11.2,
+        "A portrait and monospaced digital count provide another claim card before a prompt-to-output demonstration."
+      ],
+      [
+        11.2,
+        13.18,
+        "A compact input panel sits beside a grid that fills with a luminous fish image; a layered purple radial mask compresses the image into a brand symbol."
+      ],
+      [
+        13.18,
+        15,
+        "A small violet symbol and a clear supporting sentence hold on white."
+      ]
+    ],
+    "mean_frame_delta": 0.018534,
+    "luma_range": [
+      0.0976,
+      0.9643
+    ],
+    "palette": [
+      {
+        "hex": "#141424",
+        "fraction": 0.16781
+      },
+      {
+        "hex": "#fcfcfc",
+        "fraction": 0.12868
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.11643
+      },
+      {
+        "hex": "#140c1c",
+        "fraction": 0.06334
+      },
+      {
+        "hex": "#14141c",
+        "fraction": 0.04215
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.02891
+      },
+      {
+        "hex": "#1c1424",
+        "fraction": 0.01774
+      },
+      {
+        "hex": "#140c24",
+        "fraction": 0.01314
+      },
+      {
+        "hex": "#1c142c",
+        "fraction": 0.01162
+      },
+      {
+        "hex": "#1c1434",
+        "fraction": 0.01156
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.01102
+      },
+      {
+        "hex": "#241c2c",
+        "fraction": 0.00835
+      }
+    ],
+    "high_change_pts": [
+      1.0,
+      1.7167,
+      2.9167,
+      3.8833,
+      4.8667,
+      5.8333,
+      7.2167,
+      9.7,
+      10.6667,
+      13.0
+    ],
+    "audio_lufs": -13.99,
+    "audio_true_peak_dbtp": -1.11,
+    "audio_lra_lu": 2.2,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/22-influencer_seo.md"
+  },
+  {
+    "id": "23-ndhabarde11",
+    "author": "ndhabarde11",
+    "title": "Motion designer portrait showreel",
+    "gallery_url": "https://prompt-motion.com/ndhabarde11-f155b4",
+    "original_post": "https://x.com/ndhabarde11/status/2103832593355686104",
+    "attribution": "A motion video made with Claude Opus 5.5 by @ndhabarde11. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "ea4294afdc3fe163435bf037c814663d5c2353c160721d32d241fd111a91b847",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1080,
+    "height": 1920,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "portrait",
+      "condensed-type",
+      "serif-contrast",
+      "type-wall",
+      "shape-lattice",
+      "point-cloud",
+      "liquid-marble",
+      "data-design",
+      "iris",
+      "logo-hold"
+    ],
+    "thesis": "A portrait showreel preserves technical framing while scaling a familiar graphic vocabulary vertically: editorial type, shape rows, point volumes, liquid material badges and a compact data card.",
+    "chapter_map": [
+      [
+        0,
+        1.48,
+        "A tiny warm seed and baseline introduce a compact name/italic greeting on black, then an orange expansion fills the portrait frame."
+      ],
+      [
+        1.48,
+        4,
+        "Large words, outline wallpaper and an italic connector alternate black, orange and white; a multi-row text wall briefly supplies density."
+      ],
+      [
+        4,
+        5.95,
+        "Cobalt carries a tall matrix of circles, squares and small star-like forms, with orange/pink accents propagating through the rows."
+      ],
+      [
+        5.95,
+        8,
+        "The matrix reduces to a bright warm seed, releases particles and briefly forms a large particle word."
+      ],
+      [
+        8,
+        10.02,
+        "A point sphere changes into lobed/ring-like spatial forms, followed by a directional particle rush."
+      ],
+      [
+        10.02,
+        11.78,
+        "A dense poster combines repeated typography, orange radial marks and glossy fluid/iridescent objects on black."
+      ],
+      [
+        11.78,
+        13.48,
+        "A white card appears on orange with count-up typography, bars and small controls; a calm baseline transition removes it."
+      ],
+      [
+        13.48,
+        15,
+        "The heavy name returns on black with an orange punctuation loop and small supporting chips."
+      ]
+    ],
+    "mean_frame_delta": 0.027031,
+    "luma_range": [
+      0.0451,
+      0.7665
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.42583
+      },
+      {
+        "hex": "#fcfcfc",
+        "fraction": 0.08625
+      },
+      {
+        "hex": "#fc7424",
+        "fraction": 0.0556
+      },
+      {
+        "hex": "#344cfc",
+        "fraction": 0.04299
+      },
+      {
+        "hex": "#fc742c",
+        "fraction": 0.02468
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.02064
+      },
+      {
+        "hex": "#fc6c24",
+        "fraction": 0.01872
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.01775
+      },
+      {
+        "hex": "#3c4cfc",
+        "fraction": 0.01339
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.00957
+      },
+      {
+        "hex": "#140c14",
+        "fraction": 0.00914
+      },
+      {
+        "hex": "#4454fc",
+        "fraction": 0.00851
+      }
+    ],
+    "high_change_pts": [
+      1.45,
+      2.5,
+      3.25,
+      4.0,
+      5.9333,
+      9.9833,
+      11.0,
+      11.7667,
+      13.5,
+      14.5
+    ],
+    "audio_lufs": -13.67,
+    "audio_true_peak_dbtp": 0.16,
+    "audio_lra_lu": 2.4,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/23-ndhabarde11.md"
+  },
+  {
+    "id": "24-topi_003",
+    "author": "_topi_003",
+    "title": "Kinetic type motion showreel",
+    "gallery_url": "https://prompt-motion.com/topi-003-9ca6b5",
+    "original_post": "https://x.com/_topi_003/status/2104086342204592443",
+    "attribution": "A motion video made with Claude Opus 5.5 by @_topi_003. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "46042efab4c581c53f0cbd0e4ee81ad7f562c06a7c228373553bf8b492914f17",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "condensed-type",
+      "outline-type",
+      "letter-counter-portal",
+      "shape-lattice",
+      "point-cloud",
+      "halftone",
+      "kinetic-type",
+      "particle-type",
+      "logo-hold"
+    ],
+    "thesis": "A condensed editorial identity turns red circular letterforms into portals, carries a blue shape lattice into three-dimensional particles and uses a controlled high-speed typography/pattern climax.",
+    "chapter_map": [
+      [
+        0,
+        1.83,
+        "A small radial seed enlarges into orange, revealing a condensed greeting with a thin underline and technical microtype."
+      ],
+      [
+        1.83,
+        3.87,
+        "A cream field carries an exceptionally large word whose red circular letters are both type and shapes; fine outline repetitions extend behind it."
+      ],
+      [
+        3.87,
+        5.8,
+        "One circular letter becomes a blue portal onto a regular grid of circles, diamonds, crosses and radial dashes, with sparse accent cells."
+      ],
+      [
+        5.8,
+        7.9,
+        "A black radial opening compresses the grid into a point sphere and then more complex orbital/looping spatial structures."
+      ],
+      [
+        7.9,
+        10,
+        "A rapid montage contrasts large red type, lime halftone, multicolour words on striped borders and repeated time-themed type."
+      ],
+      [
+        10,
+        12.05,
+        "A bright reset exposes a swirling particle field, which converges into a tall particle word inside fine circular rings."
+      ],
+      [
+        12.05,
+        15,
+        "Solid condensed cream type, orange underline and a small set of primary shapes create a readable closing lockup; the very end reduces towards the seed."
+      ]
+    ],
+    "mean_frame_delta": 0.022619,
+    "luma_range": [
+      0.0373,
+      0.7229
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.30634
+      },
+      {
+        "hex": "#04040c",
+        "fraction": 0.03639
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.03248
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.02485
+      },
+      {
+        "hex": "#0c0c1c",
+        "fraction": 0.02003
+      },
+      {
+        "hex": "#2c2cf4",
+        "fraction": 0.01994
+      },
+      {
+        "hex": "#ec3c1c",
+        "fraction": 0.01843
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.01405
+      },
+      {
+        "hex": "#0c0c24",
+        "fraction": 0.01281
+      },
+      {
+        "hex": "#dc341c",
+        "fraction": 0.01136
+      },
+      {
+        "hex": "#2c2cec",
+        "fraction": 0.01086
+      },
+      {
+        "hex": "#2c34f4",
+        "fraction": 0.01037
+      }
+    ],
+    "high_change_pts": [
+      0.85,
+      1.8333,
+      3.85,
+      5.8,
+      7.9167,
+      8.5,
+      9.0667,
+      9.75,
+      12.0167,
+      14.4833
+    ],
+    "audio_lufs": -13.95,
+    "audio_true_peak_dbtp": -0.19,
+    "audio_lra_lu": 3.5,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/24-topi_003.md"
+  },
+  {
+    "id": "25-rendesr",
+    "author": "rendesr",
+    "title": "Claude motion design showreel",
+    "gallery_url": "https://prompt-motion.com/rendesr-86be44",
+    "original_post": "https://x.com/rendesr/status/2103395846578676116",
+    "attribution": "A motion video made with Claude Opus 5.5 by @rendesr. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "75cb8234acdfb28c47cadc7ac55ab21040bc00958d381cde938ff0d731879c5b",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "bounce",
+      "wide-type",
+      "shape-morph",
+      "shape-lattice",
+      "flow-field",
+      "point-cloud",
+      "squash-stretch",
+      "optical-pattern",
+      "stepped-wipe",
+      "logo-hold"
+    ],
+    "thesis": "A small ball and bold statement introduce a tour of procedural shape fields, vector flow, point topology, playful physical character and optical pattern, all controlled by a narrow palette and technical frame.",
+    "chapter_map": [
+      [
+        0,
+        1.85,
+        "An orange ball follows a visible bounce arc over a fine baseline and then grows into an orange field."
+      ],
+      [
+        1.85,
+        3.43,
+        "A heavy three-line statement builds with an off-white final word, then a stepped cream wipe covers it."
+      ],
+      [
+        3.43,
+        5.63,
+        "A central circle changes to square, triangle, star and rounded rosette, surrounded by a radial grid of related small shapes."
+      ],
+      [
+        5.63,
+        7.65,
+        "The light field flips to black and the grid becomes directional line segments. Their orientations form a wave field and briefly suggest striped outline lettering."
+      ],
+      [
+        7.65,
+        9.35,
+        "A point grid becomes a sphere, torus and infinity-like volume, then a blue circular expansion introduces a ring of lime seeds."
+      ],
+      [
+        9.35,
+        11.5,
+        "The seeds converge into a glossy lime ball that bounces and briefly carries a face, using squash and a soft grounded shadow."
+      ],
+      [
+        11.5,
+        13.2,
+        "A quick optical montage alternates halftone type, radial checker distortion, striped masks and an isometric cube tessellation."
+      ],
+      [
+        13.2,
+        15,
+        "Large mixed-case cream branding with orange punctuation resolves on black."
+      ]
+    ],
+    "mean_frame_delta": 0.023453,
+    "luma_range": [
+      0.0468,
+      0.8543
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.44424
+      },
+      {
+        "hex": "#2c2cf4",
+        "fraction": 0.12074
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.09595
+      },
+      {
+        "hex": "#ec3c24",
+        "fraction": 0.0875
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.01653
+      },
+      {
+        "hex": "#04041c",
+        "fraction": 0.00913
+      },
+      {
+        "hex": "#d4fc44",
+        "fraction": 0.00898
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.00881
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.00874
+      },
+      {
+        "hex": "#f4ecec",
+        "fraction": 0.00848
+      },
+      {
+        "hex": "#242424",
+        "fraction": 0.00758
+      },
+      {
+        "hex": "#f4f4e4",
+        "fraction": 0.00741
+      }
+    ],
+    "high_change_pts": [
+      1.85,
+      3.4167,
+      5.6333,
+      6.4667,
+      7.65,
+      9.35,
+      11.5,
+      12.1,
+      12.6667,
+      13.25
+    ],
+    "audio_lufs": -13.29,
+    "audio_true_peak_dbtp": -0.75,
+    "audio_lra_lu": 1.5,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/25-rendesr.md"
+  },
+  {
+    "id": "26-misbahsy",
+    "author": "MisbahSy",
+    "title": "LiteLLM promo reel",
+    "gallery_url": "https://prompt-motion.com/misbahsy-80eaec",
+    "original_post": "https://x.com/MisbahSy/status/2103831201114882277",
+    "attribution": "A motion video made with Claude Opus 5.5 by @MisbahSy. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "e715c8ae2f6810631debd431656283bdf5dd95ae24526a87bdcc02831eb89ab0",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "technical-brand",
+      "diagram",
+      "letter-counter-portal",
+      "code-scene",
+      "strip-wipe",
+      "state-colour",
+      "data-design",
+      "logo-hold"
+    ],
+    "thesis": "A violet technical product film turns many scattered interfaces into one routing system, then alternates dark diagrams and a light code scene before a large-statistics close.",
+    "chapter_map": [
+      [
+        0,
+        1.88,
+        "Small API/code chips float around a central numeric headline on a dark violet field."
+      ],
+      [
+        1.88,
+        3.65,
+        "A glowing square and radial ticks focus the scattered system into a very large short headline."
+      ],
+      [
+        3.65,
+        5.8,
+        "The camera passes through a letter counter to reveal a central routing node with input and output columns linked by curved lines."
+      ],
+      [
+        5.8,
+        8.93,
+        "A light card expands into a cream code layout; a large two-line claim at left balances a code window at right and a strip of small provider labels below."
+      ],
+      [
+        8.93,
+        11.28,
+        "Staggered vertical strips return to a dark failure/rerouting diagram, with red and green states differentiating branches."
+      ],
+      [
+        11.28,
+        12.82,
+        "A large violet field presents three numeric claims in rows, each paired with a smaller explanation."
+      ],
+      [
+        12.82,
+        15,
+        "The statistics collapse to a horizontal light line; a logo/name resolves on dark violet with a small supporting line."
+      ]
+    ],
+    "mean_frame_delta": 0.010266,
+    "luma_range": [
+      0.0552,
+      0.8627
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c1c",
+        "fraction": 0.10661
+      },
+      {
+        "hex": "#04040c",
+        "fraction": 0.10614
+      },
+      {
+        "hex": "#0c0414",
+        "fraction": 0.09227
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.07015
+      },
+      {
+        "hex": "#140c24",
+        "fraction": 0.04611
+      },
+      {
+        "hex": "#fcfcfc",
+        "fraction": 0.03344
+      },
+      {
+        "hex": "#140c2c",
+        "fraction": 0.03258
+      },
+      {
+        "hex": "#ececf4",
+        "fraction": 0.02154
+      },
+      {
+        "hex": "#f4ecf4",
+        "fraction": 0.02012
+      },
+      {
+        "hex": "#f4f4fc",
+        "fraction": 0.01785
+      },
+      {
+        "hex": "#5c34cc",
+        "fraction": 0.01701
+      },
+      {
+        "hex": "#0c040c",
+        "fraction": 0.01388
+      }
+    ],
+    "high_change_pts": [
+      1.8833,
+      2.4333,
+      3.6333,
+      5.7833,
+      8.9167,
+      9.6167,
+      10.3167,
+      11.2833,
+      12.2,
+      12.7667
+    ],
+    "audio_lufs": -16.33,
+    "audio_true_peak_dbtp": -1.04,
+    "audio_lra_lu": 0.9,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/26-misbahsy.md"
+  },
+  {
+    "id": "27-motiondsgnr",
+    "author": "motiondsgnr",
+    "title": "Bold typographic motion showreel",
+    "gallery_url": "https://prompt-motion.com/motiondsgnr-9dcfa6",
+    "original_post": "https://x.com/motiondsgnr/status/2103692944771313960",
+    "attribution": "A motion video made with Claude Opus 5.5 by @motiondsgnr. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "d28898615a09cedfe26de0a8bde2e69c6752258dbd19549b3c5e12d955fb7474",
+    "video_seconds": 15.016667,
+    "fps": 60.0,
+    "frames": 901,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 31,
+    "transition_tiles": 50,
+    "tags": [
+      "wide-type",
+      "outline-type",
+      "point-cloud",
+      "gradient-blob",
+      "circular-type",
+      "data-design",
+      "topographic-lines",
+      "panel-wall",
+      "logo-hold"
+    ],
+    "thesis": "The reel organises a broad capability tour with clear chapter framing, alternating type, particle topology, geometric morphs, fluid silhouette, concentric type, data cards and a closing wall of its own scenes.",
+    "chapter_map": [
+      [
+        0,
+        1.35,
+        "An orange line grows into a full orange card with heavy black title type."
+      ],
+      [
+        1.35,
+        2.9,
+        "A blue iris introduces a stacked cream/yellow statement over faint outline-text wallpaper."
+      ],
+      [
+        2.9,
+        4.52,
+        "A diagonal wipe exposes a particle sphere that reorganises into a word and then disperses towards a light field."
+      ],
+      [
+        4.52,
+        6.3,
+        "A central square and triangle turn within circular construction paths; a yellow field then introduces a blue fluid blob behind large type."
+      ],
+      [
+        6.3,
+        8.95,
+        "The blob gives way to multiple concentric text rings, with different radii, weights and colours, changing zoom and angular phase."
+      ],
+      [
+        8.95,
+        10.4,
+        "Three vertical data cards on cream demonstrate bars, an easing curve and a circular numeric indicator."
+      ],
+      [
+        10.4,
+        12.35,
+        "A coloured topographic line field bends on black, then splits into horizontal strips."
+      ],
+      [
+        12.35,
+        15,
+        "A wall of earlier scenes serves as a dense recap, recedes in depth, and resolves into a cream brand name with a few coloured geometric accents."
+      ]
+    ],
+    "mean_frame_delta": 0.018314,
+    "luma_range": [
+      0.0552,
+      0.8763
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.42191
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.13313
+      },
+      {
+        "hex": "#2c54fc",
+        "fraction": 0.08606
+      },
+      {
+        "hex": "#fcc41c",
+        "fraction": 0.06988
+      },
+      {
+        "hex": "#fc4c1c",
+        "fraction": 0.0569
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.00684
+      },
+      {
+        "hex": "#14141c",
+        "fraction": 0.00606
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.00576
+      },
+      {
+        "hex": "#0c1414",
+        "fraction": 0.00432
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.00427
+      },
+      {
+        "hex": "#4c4c4c",
+        "fraction": 0.0039
+      },
+      {
+        "hex": "#f4f4e4",
+        "fraction": 0.00357
+      }
+    ],
+    "high_change_pts": [
+      0.5667,
+      1.35,
+      2.9,
+      4.5167,
+      7.6833,
+      8.25,
+      8.8833,
+      10.4,
+      12.4,
+      13.2333
+    ],
+    "audio_lufs": -13.03,
+    "audio_true_peak_dbtp": -1.77,
+    "audio_lra_lu": 0.8,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/27-motiondsgnr.md"
+  },
+  {
+    "id": "28-astrodevil",
+    "author": "Astrodevil_",
+    "title": "Studio1 intro showreel",
+    "gallery_url": "https://prompt-motion.com/astrodevil-3f2054",
+    "original_post": "https://x.com/Astrodevil_/status/2103600734017392708",
+    "attribution": "A motion video made with Claude Opus 5.5 by @Astrodevil_. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "377b405a0e591fa1f96648ed8d92cef7d9969ea0777751850c6c34667123a517",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "technical-brand",
+      "heavy-type",
+      "data-design",
+      "count-up",
+      "outline-type",
+      "diagonal-wipe",
+      "warm-glow",
+      "type-wall",
+      "logo-hold"
+    ],
+    "thesis": "An orange/ink agency film builds confidence through a consistent type and data hierarchy, using bright diagonals and exposure-like resets to connect claims rather than relying on constant geometric spectacle.",
+    "chapter_map": [
+      [
+        0,
+        1.88,
+        "A compact terminal window types a launch command and checklist-like lines on a dark warm field."
+      ],
+      [
+        1.88,
+        3.7,
+        "A large left-aligned proposition builds line by line; the final phrase changes to orange and receives an underline."
+      ],
+      [
+        3.7,
+        5.63,
+        "A diagonal orange sweep introduces a large count and rising line chart, with small supporting claim chips."
+      ],
+      [
+        5.63,
+        7.45,
+        "A bright reset moves to an orange star and another growing figure; small square cells gather above the number."
+      ],
+      [
+        7.45,
+        9.6,
+        "Further proof-style cards contrast orange and black, using large numerals, a circular badge and a search-field-like element."
+      ],
+      [
+        9.6,
+        11.2,
+        "A short capability montage alternates solid and outline oversized words over subtle repeated star geometry."
+      ],
+      [
+        11.2,
+        13.45,
+        "Rows of client-like names move behind a prominent lower numeric claim, producing density while keeping one foreground hierarchy."
+      ],
+      [
+        13.45,
+        15,
+        "The final studio name builds on black with a warm halo, orange numeral and thin horizontal rule."
+      ]
+    ],
+    "mean_frame_delta": 0.016324,
+    "luma_range": [
+      0.033,
+      0.3978
+    ],
+    "palette": [
+      {
+        "hex": "#040404",
+        "fraction": 0.22497
+      },
+      {
+        "hex": "#140c0c",
+        "fraction": 0.13626
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.1238
+      },
+      {
+        "hex": "#04040c",
+        "fraction": 0.05433
+      },
+      {
+        "hex": "#1c140c",
+        "fraction": 0.03237
+      },
+      {
+        "hex": "#0c040c",
+        "fraction": 0.0305
+      },
+      {
+        "hex": "#0c0404",
+        "fraction": 0.02726
+      },
+      {
+        "hex": "#24140c",
+        "fraction": 0.02329
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.01897
+      },
+      {
+        "hex": "#1c0c0c",
+        "fraction": 0.01853
+      },
+      {
+        "hex": "#2c1414",
+        "fraction": 0.01835
+      },
+      {
+        "hex": "#241414",
+        "fraction": 0.01399
+      }
+    ],
+    "high_change_pts": [
+      1.8833,
+      3.7,
+      4.3333,
+      5.6333,
+      7.45,
+      8.9167,
+      9.6167,
+      10.55,
+      11.2,
+      13.6
+    ],
+    "audio_lufs": -9.38,
+    "audio_true_peak_dbtp": 1.23,
+    "audio_lra_lu": 2.2,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/28-astrodevil.md"
+  },
+  {
+    "id": "29-manuelogomigo",
+    "author": "manuelogomigo",
+    "title": "Flowdrive motion showreel",
+    "gallery_url": "https://prompt-motion.com/manuelogomigo-f33ca9",
+    "original_post": "https://x.com/manuelogomigo/status/2103614667038052364",
+    "attribution": "A motion video made with Claude Opus 5.5 by @manuelogomigo. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "26f4c891c94906bde5b459e00e270ab507429ef6e3aa5000b09fcb4210eb3d59",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "serif-led",
+      "seed-continuity",
+      "halftone",
+      "progress-wipe",
+      "perspective-plane",
+      "particle-globe",
+      "infinity-flow",
+      "product-motion",
+      "logo-hold"
+    ],
+    "thesis": "An elegant serif product film uses one orange dotted file/seed system to connect upload, layered media, global delivery, a secure-domain UI, an infinity-like particle flow and a final mark.",
+    "chapter_map": [
+      [
+        0,
+        2.1,
+        "A dotted ring becomes an orange file/play icon, then enters a small upload zone on white."
+      ],
+      [
+        2.1,
+        3.73,
+        "A large serif upload statement sits above a dotted progress bar that fills and becomes a solid rounded orange line."
+      ],
+      [
+        3.73,
+        5.75,
+        "The bar expands into orange strips and a dark chapter with layered perspective media planes and a warm particle cloud."
+      ],
+      [
+        5.75,
+        7.45,
+        "Particles settle into an orange point globe beside a large serif delivery statement; thin arcs and bright hubs suggest connections."
+      ],
+      [
+        7.45,
+        9.3,
+        "A light vertical wipe reveals a domain/address pill and a restrained hierarchy of security-like chips."
+      ],
+      [
+        9.3,
+        11.12,
+        "An orange disc expands into a full orange field, where points trace an infinity-like flowing path above a serif statement."
+      ],
+      [
+        11.12,
+        13.2,
+        "Offset light strips reveal a small website/portfolio view beside an editorial heading; the whole view dissolves towards a small seed."
+      ],
+      [
+        13.2,
+        15,
+        "Dotted rings surround an orange rounded-square logo; the final name and supporting line hold on white."
+      ]
+    ],
+    "mean_frame_delta": 0.006864,
+    "luma_range": [
+      0.0523,
+      0.9483
+    ],
+    "palette": [
+      {
+        "hex": "#f4f4f4",
+        "fraction": 0.23991
+      },
+      {
+        "hex": "#ececec",
+        "fraction": 0.12246
+      },
+      {
+        "hex": "#fcf4f4",
+        "fraction": 0.09969
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.0636
+      },
+      {
+        "hex": "#f4f4ec",
+        "fraction": 0.03983
+      },
+      {
+        "hex": "#f4ecec",
+        "fraction": 0.03688
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.03356
+      },
+      {
+        "hex": "#0c0c04",
+        "fraction": 0.03019
+      },
+      {
+        "hex": "#0c0404",
+        "fraction": 0.02957
+      },
+      {
+        "hex": "#fcfcfc",
+        "fraction": 0.02052
+      },
+      {
+        "hex": "#1c0c0c",
+        "fraction": 0.01661
+      },
+      {
+        "hex": "#cc440c",
+        "fraction": 0.01587
+      }
+    ],
+    "high_change_pts": [
+      0.4333,
+      1.0167,
+      3.7333,
+      5.75,
+      7.4167,
+      9.2833,
+      11.1,
+      11.6833,
+      12.5333,
+      13.5667
+    ],
+    "audio_lufs": -13.25,
+    "audio_true_peak_dbtp": 0.29,
+    "audio_lra_lu": 1.5,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/29-manuelogomigo.md"
+  },
+  {
+    "id": "30-web3wesley",
+    "author": "Web3Wesley",
+    "title": "Type, form, space showreel",
+    "gallery_url": "https://prompt-motion.com/web3wesley-7bb108",
+    "original_post": "https://x.com/Web3Wesley/status/2103644329294365164",
+    "attribution": "A motion video made with Claude Opus 5.5 by @Web3Wesley. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "a84a8281a922e97691a0e8083d2a464afadfa93d0e205933b116af140141c275",
+    "video_seconds": 15.0,
+    "fps": 30.0,
+    "frames": 450,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "editorial-card",
+      "serif-contrast",
+      "wide-type",
+      "quarter-circle-tiles",
+      "isometric-extrusion",
+      "particle-type",
+      "ribbon",
+      "radial-mask",
+      "logo-hold"
+    ],
+    "thesis": "A résumé-like editorial card establishes four visual themes, then the film demonstrates type, form, space and time through a particularly coherent flat-grid-to-extruded-world transformation.",
+    "chapter_map": [
+      [
+        0,
+        1.83,
+        "A cream editorial card rotates/settles into view, with a large serif name at left and ruled capability rows at right."
+      ],
+      [
+        1.83,
+        4.53,
+        "An orange radial wipe introduces huge black display type, outline echoes and a cream italic serif variant with a bold dimensional-looking black shadow."
+      ],
+      [
+        4.53,
+        6.7,
+        "A cream field and bold form word break into colourful modular circles, arcs, squares and triangles arranged on a precise grid."
+      ],
+      [
+        6.7,
+        10.22,
+        "The grid tilts into perspective and extrudes into coloured geometric solids. An orange ball moves among different heights, making the spatial change tangible."
+      ],
+      [
+        10.22,
+        12.98,
+        "A radial orange transition exposes a dark particle field that gathers into a word and then becomes curling orange/cream orbital ribbons."
+      ],
+      [
+        12.98,
+        15,
+        "The original editorial card returns, with a small orange punctuation dot and a restrained availability-style accent."
+      ]
+    ],
+    "mean_frame_delta": 0.020535,
+    "luma_range": [
+      0.0703,
+      0.7859
+    ],
+    "palette": [
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.32862
+      },
+      {
+        "hex": "#fc4c1c",
+        "fraction": 0.15961
+      },
+      {
+        "hex": "#140c14",
+        "fraction": 0.1026
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.07047
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.05533
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.01634
+      },
+      {
+        "hex": "#e4dcd4",
+        "fraction": 0.01019
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.00978
+      },
+      {
+        "hex": "#140c0c",
+        "fraction": 0.00964
+      },
+      {
+        "hex": "#1c1414",
+        "fraction": 0.00957
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.00952
+      },
+      {
+        "hex": "#f4b41c",
+        "fraction": 0.00783
+      }
+    ],
+    "high_change_pts": [
+      0.1667,
+      1.8333,
+      4.5333,
+      5.4333,
+      6.7,
+      7.3667,
+      10.2333,
+      10.9667,
+      12.2,
+      13.1
+    ],
+    "audio_lufs": -12.58,
+    "audio_true_peak_dbtp": 0.41,
+    "audio_lra_lu": 0.7,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/30-web3wesley.md"
+  },
+  {
+    "id": "31-reflex_cloud",
+    "author": "reflex_cloud",
+    "title": "Reflex brand motion reel",
+    "gallery_url": "https://prompt-motion.com/reflex-cloud-72ffe5",
+    "original_post": "https://x.com/reflex_cloud/status/2103552840027304046",
+    "attribution": "A motion video made with Claude Opus 5.5 by @reflex_cloud. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "48efec9b3c5b2a4b1eba86aba31435340afe361273f740ff1a14ff9bf1a78306",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "serif-led",
+      "photographic-opening",
+      "path-simplification",
+      "perspective-corridor",
+      "spectral-colour",
+      "glyph-study",
+      "halftone",
+      "logo-hold"
+    ],
+    "thesis": "A monochrome/violet brand film links seeing, interpreting and acting through an eye, a simplified path diagram, a depth corridor of image planes, spectral colour studies and individual expressive letterforms.",
+    "chapter_map": [
+      [
+        0,
+        1.83,
+        "A photographic iris fills the frame with a bracketed pupil and small technical label; its aperture changes before the camera moves inward."
+      ],
+      [
+        1.83,
+        3.5,
+        "Black/white title cards alternate serif and broad letter treatments, with a short phrase assembling character by character."
+      ],
+      [
+        3.5,
+        5.8,
+        "A circle and square are joined by an initially looping line that straightens, turning a complex route into a direct connection."
+      ],
+      [
+        5.8,
+        9.38,
+        "The endpoint becomes an angled image plane among many frames in a depth corridor; camera travel, roll and sequential planes imply large spatial extent."
+      ],
+      [
+        9.38,
+        11.3,
+        "Red, yellow, green, cyan and blue fields carry sinusoidal curves and a narrow spectral indicator, providing a deliberate colour-study interval."
+      ],
+      [
+        11.3,
+        13.1,
+        "Individual serif letters appear in several treatments: blur, point sampling, concentric outline and irregular solid form."
+      ],
+      [
+        13.1,
+        15,
+        "A small serif wordmark and bracketed symbol settle on black, with violet orbital framing and a restrained supporting line."
+      ]
+    ],
+    "mean_frame_delta": 0.026828,
+    "luma_range": [
+      0.0692,
+      0.7841
+    ],
+    "palette": [
+      {
+        "hex": "#141414",
+        "fraction": 0.37245
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.09606
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.07404
+      },
+      {
+        "hex": "#242424",
+        "fraction": 0.02082
+      },
+      {
+        "hex": "#2c2c2c",
+        "fraction": 0.0153
+      },
+      {
+        "hex": "#5c5c5c",
+        "fraction": 0.01334
+      },
+      {
+        "hex": "#444444",
+        "fraction": 0.01225
+      },
+      {
+        "hex": "#343434",
+        "fraction": 0.01217
+      },
+      {
+        "hex": "#4c4c4c",
+        "fraction": 0.01206
+      },
+      {
+        "hex": "#545454",
+        "fraction": 0.01169
+      },
+      {
+        "hex": "#ececec",
+        "fraction": 0.01162
+      },
+      {
+        "hex": "#3c3c3c",
+        "fraction": 0.01074
+      }
+    ],
+    "high_change_pts": [
+      0.25,
+      1.8333,
+      3.35,
+      4.8167,
+      5.85,
+      9.3833,
+      10.8,
+      11.5,
+      12.4333,
+      13.1333
+    ],
+    "audio_lufs": -12.86,
+    "audio_true_peak_dbtp": -1.49,
+    "audio_lra_lu": 1.8,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/31-reflex_cloud.md"
+  },
+  {
+    "id": "32-andginja",
+    "author": "andginja",
+    "title": "Studio website showreel",
+    "gallery_url": "https://prompt-motion.com/andginja-333d32",
+    "original_post": "https://x.com/andginja/status/2103492000733618685",
+    "attribution": "A motion video made with Claude Opus 5.5 by @andginja. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "c994005fb70b0a7edc6581adcc1fd708cb54dca01289ca6c064473e88405ddab",
+    "video_seconds": 15.033333,
+    "fps": 30.0,
+    "frames": 451,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 31,
+    "transition_tiles": 50,
+    "tags": [
+      "portfolio-motion",
+      "monogram-mask",
+      "serif-contrast",
+      "image-panels",
+      "strip-wipe",
+      "perspective-plane",
+      "data-design",
+      "logo-hold"
+    ],
+    "thesis": "A studio film uses an elegant monogram as an image window, then connects location imagery, project cards, a website build and claim graphics with a calm blue/teal editorial identity.",
+    "chapter_map": [
+      [
+        0,
+        1.47,
+        "A tiny light draws a thin monogram outline, which fills with warm imagery and enlarges into a location scene."
+      ],
+      [
+        1.47,
+        4.1,
+        "A large left-aligned sentence builds over a sunset photograph while additional narrow image panels slide in from the right."
+      ],
+      [
+        4.1,
+        7.1,
+        "Muted vertical colour strips reveal a short title and a sequence of numbered image/project cards, with portrait imagery balanced against dark text columns."
+      ],
+      [
+        7.1,
+        8.7,
+        "A light grid stage frames an emerging browser-style website panel next to a short editorial proposition."
+      ],
+      [
+        8.7,
+        10.5,
+        "The website tilts into perspective and gives way to a large count and two-column proof-style cards."
+      ],
+      [
+        10.5,
+        13.35,
+        "Vertical blurred image strips clear into a dark teal studio statement, combining solid sans and italic serif text."
+      ],
+      [
+        13.35,
+        15,
+        "The monogram returns above a compact name and small call-to-action-style button."
+      ]
+    ],
+    "mean_frame_delta": 0.028255,
+    "luma_range": [
+      0.0804,
+      0.8373
+    ],
+    "palette": [
+      {
+        "hex": "#0c141c",
+        "fraction": 0.216
+      },
+      {
+        "hex": "#f4f4f4",
+        "fraction": 0.09274
+      },
+      {
+        "hex": "#fcfcfc",
+        "fraction": 0.02788
+      },
+      {
+        "hex": "#0c242c",
+        "fraction": 0.02581
+      },
+      {
+        "hex": "#0c1c24",
+        "fraction": 0.02496
+      },
+      {
+        "hex": "#0c1c1c",
+        "fraction": 0.02352
+      },
+      {
+        "hex": "#142c34",
+        "fraction": 0.01889
+      },
+      {
+        "hex": "#ecf4f4",
+        "fraction": 0.01591
+      },
+      {
+        "hex": "#ececec",
+        "fraction": 0.01328
+      },
+      {
+        "hex": "#0c1414",
+        "fraction": 0.01155
+      },
+      {
+        "hex": "#1c2424",
+        "fraction": 0.01113
+      },
+      {
+        "hex": "#141c24",
+        "fraction": 0.00947
+      }
+    ],
+    "high_change_pts": [
+      1.4667,
+      3.2333,
+      4.1,
+      5.0,
+      5.9667,
+      6.5333,
+      7.1,
+      8.7,
+      10.5333,
+      11.9667
+    ],
+    "audio_lufs": -14.3,
+    "audio_true_peak_dbtp": -0.99,
+    "audio_lra_lu": 1.6,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/32-andginja.md"
+  },
+  {
+    "id": "33-m1n9_k7",
+    "author": "m1n9_k7",
+    "title": "Kinetic type and particle showreel",
+    "gallery_url": "https://prompt-motion.com/m1n9-k7-ff9ab9",
+    "original_post": "https://x.com/m1n9_k7/status/2103580011882295601",
+    "attribution": "A motion video made with Claude Opus 5.5 by @m1n9_k7. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "ae14f7e145a30840c368b9a9ac295e2c8ce68bb00822f29f5329dd99445d9d41",
+    "video_seconds": 14.95,
+    "fps": 60.0,
+    "frames": 897,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "serif-contrast",
+      "shape-lattice",
+      "point-cloud",
+      "gradient-blob",
+      "glossy-3d",
+      "particle-type",
+      "tunnel",
+      "optical-pattern",
+      "logo-hold"
+    ],
+    "thesis": "A neutral technical frame supports an ambitious material progression: restrained point/line, headline rhythm, deforming cells, a particle sphere/torus, glossy fluid form and a typographic optical climax.",
+    "chapter_map": [
+      [
+        0,
+        1.72,
+        "A small pale ball, ellipse and line establish a sparse motion-lab setting before the line expands into a coloured field."
+      ],
+      [
+        1.72,
+        3.77,
+        "Short large words alternate orange, black, cream and cobalt; one italic blue serif connector creates an editorial pause."
+      ],
+      [
+        3.77,
+        5.4,
+        "A white cell lattice on black rotates and changes shape in a wave, then gains warm accent colours around a central region."
+      ],
+      [
+        5.4,
+        7.5,
+        "Blue grows through the grid; a point sphere becomes a torus and a floating wave surface, with a tiny axis marker outside the form."
+      ],
+      [
+        7.5,
+        9.33,
+        "Cream frames a multicolour glossy blob over large italic lettering; highlights move with the surface and small rounded protrusions suggest fluid merging."
+      ],
+      [
+        9.33,
+        11.5,
+        "A black iris opens onto particles that gather into a heavy word and release through a nested rectangular tunnel."
+      ],
+      [
+        11.5,
+        13.1,
+        "Halftone rings, a large tempo-like figure, radial stripes, a channel-offset word and repeated text form a rapid montage."
+      ],
+      [
+        13.1,
+        15,
+        "A heavy cream name, orange punctuation and italic role line hold on black."
+      ]
+    ],
+    "mean_frame_delta": 0.031657,
+    "luma_range": [
+      0.0413,
+      0.7757
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.4471
+      },
+      {
+        "hex": "#2c3cfc",
+        "fraction": 0.05717
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.04715
+      },
+      {
+        "hex": "#fc3c1c",
+        "fraction": 0.01596
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.01374
+      },
+      {
+        "hex": "#2434e4",
+        "fraction": 0.0134
+      },
+      {
+        "hex": "#2434dc",
+        "fraction": 0.01279
+      },
+      {
+        "hex": "#2434d4",
+        "fraction": 0.01249
+      },
+      {
+        "hex": "#e4e4dc",
+        "fraction": 0.01107
+      },
+      {
+        "hex": "#2c3cf4",
+        "fraction": 0.01104
+      },
+      {
+        "hex": "#d4d4cc",
+        "fraction": 0.00965
+      },
+      {
+        "hex": "#dcdcd4",
+        "fraction": 0.00961
+      }
+    ],
+    "high_change_pts": [
+      1.7167,
+      2.8,
+      3.7667,
+      5.4,
+      7.5167,
+      8.45,
+      9.35,
+      11.5,
+      12.15,
+      13.0833
+    ],
+    "audio_lufs": -15.93,
+    "audio_true_peak_dbtp": -2.54,
+    "audio_lra_lu": 1.6,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/33-m1n9_k7.md"
+  },
+  {
+    "id": "34-levabashidze",
+    "author": "levabashidze",
+    "title": "Swiss-style motion showreel",
+    "gallery_url": "https://prompt-motion.com/levabashidze-2d713a",
+    "original_post": "https://x.com/levabashidze/status/2103786742520184909",
+    "attribution": "A motion video made with Claude Opus 5.5 by @levabashidze. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "1f36d84d3c5e0a4333d68c180619d9c04a1ec66548d6fc6ade1601d4f7e4c538",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "swiss-editorial",
+      "easing-diagram",
+      "serif-contrast",
+      "shape-morph",
+      "isometric-extrusion",
+      "radial-wave",
+      "tessellation",
+      "letter-counter-portal",
+      "logo-hold"
+    ],
+    "thesis": "A Swiss-inspired warm graphic system demonstrates motion mechanics, restrained geometric morphs, an isometric tile wave, squiggle tessellation and editorial type before a render-progress metaphor closes the loop.",
+    "chapter_map": [
+      [
+        0,
+        1.87,
+        "An orange bouncing ball follows visible ghost arcs and a measurement-like baseline on black."
+      ],
+      [
+        1.87,
+        3.55,
+        "An orange expansion reveals a left-aligned easing statement paired with a small curve editor; an italic serif line changes the typographic rhythm."
+      ],
+      [
+        3.55,
+        5.63,
+        "Cream carries a central circle, blue rounded diamond and orange star with thin concentric silhouette echoes, followed by an isometric cube."
+      ],
+      [
+        5.63,
+        7.28,
+        "The cube reduces into a large isometric tile plane. Heights propagate in rings, with orange cells identifying the moving wave."
+      ],
+      [
+        7.28,
+        9.37,
+        "The plane moves front-on and becomes a cream/black squiggle tessellation; selected orange regions provide a secondary wave."
+      ],
+      [
+        9.37,
+        11.15,
+        "Repeated cream/orange type scrolls over black, then a large circular letter counter opens into cobalt."
+      ],
+      [
+        11.15,
+        13.13,
+        "A large progress percentage grows on blue above a miniature strip of earlier scenes."
+      ],
+      [
+        13.13,
+        15,
+        "A light horizontal wipe reveals a wide mixed-case black name on cream with orange punctuation and small editorial details."
+      ]
+    ],
+    "mean_frame_delta": 0.021529,
+    "luma_range": [
+      0.0613,
+      0.8896
+    ],
+    "palette": [
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.26115
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.25299
+      },
+      {
+        "hex": "#dc5434",
+        "fraction": 0.10308
+      },
+      {
+        "hex": "#2c34ec",
+        "fraction": 0.09533
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.01904
+      },
+      {
+        "hex": "#140c0c",
+        "fraction": 0.01507
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.01197
+      },
+      {
+        "hex": "#0c140c",
+        "fraction": 0.01067
+      },
+      {
+        "hex": "#3434ec",
+        "fraction": 0.00981
+      },
+      {
+        "hex": "#f4ecec",
+        "fraction": 0.00874
+      },
+      {
+        "hex": "#14140c",
+        "fraction": 0.00754
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.00732
+      }
+    ],
+    "high_change_pts": [
+      1.8667,
+      3.55,
+      5.6333,
+      7.2833,
+      8.0833,
+      8.6333,
+      9.3833,
+      9.95,
+      11.15,
+      13.1333
+    ],
+    "audio_lufs": -12.42,
+    "audio_true_peak_dbtp": -0.88,
+    "audio_lra_lu": 0.8,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/34-levabashidze.md"
+  },
+  {
+    "id": "35-zaqailo",
+    "author": "zaqailo",
+    "title": "Motion designer showreel",
+    "gallery_url": "https://prompt-motion.com/zaqailo-212ad3",
+    "original_post": "https://x.com/zaqailo/status/2103768009017835623",
+    "attribution": "A motion video made with Claude Opus 5.5 by @zaqailo. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "ea02cc62794a4bfa850c107da93902b92533a3bbd348753a650f40cb4267b67b",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "wide-type",
+      "outline-type",
+      "letter-counter-portal",
+      "quarter-circle-tiles",
+      "particle-topology",
+      "facet-explosion",
+      "glossy-3d",
+      "metaball",
+      "audio-visualisation",
+      "logo-hold"
+    ],
+    "thesis": "A clean editorial opening becomes a modular colour field, then a particle volume, triangulated mesh, smooth fluid body and typography/audio-themed closing sequence—an explicit progression through representations of form.",
+    "chapter_map": [
+      [
+        0,
+        1.85,
+        "A warm horizontal line and technical grid establish an axis, then a layered orange/cream radial expansion fills the screen."
+      ],
+      [
+        1.85,
+        3.65,
+        "A heavy black word on cream gains a red initial and large outline echoes; its circular counter contains the incoming pattern."
+      ],
+      [
+        3.65,
+        5.48,
+        "The camera passes through the counter into a colourful grid of geometric tiles; columns flip and the whole field breaks apart towards a seed."
+      ],
+      [
+        5.48,
+        7.98,
+        "A warm particle cloud forms an annular volume, curls into several lobes and settles into a bright sphere."
+      ],
+      [
+        7.98,
+        9.35,
+        "A low-poly sphere separates into triangular facets around a luminous core, then reassembles into a spiked solid and a smoother shaded sphere."
+      ],
+      [
+        9.35,
+        11.15,
+        "The smooth warm/cool sphere splits into merging fluid bodies with small satellites, then grows to cover the frame."
+      ],
+      [
+        11.15,
+        13.2,
+        "Short type cards contrast construction geometry, staggered animation, serif typography, a bar/sound-like display and code-like text."
+      ],
+      [
+        13.2,
+        15,
+        "Concentric orange/cream rings introduce a heavy cream name and small role line on a dark technical grid."
+      ]
+    ],
+    "mean_frame_delta": 0.02226,
+    "luma_range": [
+      0.0682,
+      0.8244
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.21788
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.14301
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.07314
+      },
+      {
+        "hex": "#14141c",
+        "fraction": 0.05962
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.03162
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.02434
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.02165
+      },
+      {
+        "hex": "#140c14",
+        "fraction": 0.02095
+      },
+      {
+        "hex": "#140c1c",
+        "fraction": 0.01738
+      },
+      {
+        "hex": "#e4e4dc",
+        "fraction": 0.01542
+      },
+      {
+        "hex": "#140c0c",
+        "fraction": 0.01491
+      },
+      {
+        "hex": "#e44c2c",
+        "fraction": 0.01408
+      }
+    ],
+    "high_change_pts": [
+      1.85,
+      3.65,
+      4.5167,
+      5.4833,
+      8.0167,
+      8.6167,
+      11.1167,
+      11.7333,
+      12.6667,
+      13.25
+    ],
+    "audio_lufs": -12.25,
+    "audio_true_peak_dbtp": 0.65,
+    "audio_lra_lu": 2.1,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/35-zaqailo.md"
+  },
+  {
+    "id": "36-crazyalphaaa",
+    "author": "CrazyAlphaaa",
+    "title": "Claude motion designer showreel",
+    "gallery_url": "https://prompt-motion.com/crazyalphaaa-bc7e75",
+    "original_post": "https://x.com/CrazyAlphaaa/status/2103568486249480622",
+    "attribution": "A motion video made with Claude Opus 5.5 by @CrazyAlphaaa. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "38855f33bc4a5599784b2883f90a445449b0507eb97e18d5ab562182a3f88ec8",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "grain",
+      "wide-type",
+      "shape-lattice",
+      "easing-diagram",
+      "polygon-tunnel",
+      "point-cloud",
+      "posterised-blob",
+      "iris",
+      "logo-hold"
+    ],
+    "thesis": "A deliberately textured technical reel mixes saturated title cards, a shape matrix, an easing comparison, polygonal depth, particles and a posterised fluid blob before returning to a ring-and-name identity.",
+    "chapter_map": [
+      [
+        0,
+        1,
+        "A warm seed drops onto a line in a grainy dark field; concentric circles and a bright reset establish scale."
+      ],
+      [
+        1,
+        4,
+        "Orange, cobalt, lime and magenta headline cards alternate, with outline wallpaper and short directional word arrivals."
+      ],
+      [
+        4,
+        6,
+        "A cobalt field carries a large regular matrix that rotates between square and circle states, with lime and orange accent cells."
+      ],
+      [
+        6,
+        8,
+        "A dark curve-editor diagram compares several moving dot lanes; a radial/semicircular wipe introduces a new depth section."
+      ],
+      [
+        8,
+        10.5,
+        "Nested coloured polygons create a rotating tunnel, followed by a point volume inside the same framing."
+      ],
+      [
+        10.5,
+        12.5,
+        "A pink/red fluid blob deforms and divides. Broad flat highlight regions give it a posterised material rather than photoreal chrome."
+      ],
+      [
+        12.5,
+        15,
+        "The blob reduces to an orange disc; a wide cream name, orbital rings and small supporting lines resolve on black."
+      ]
+    ],
+    "mean_frame_delta": 0.021178,
+    "luma_range": [
+      0.0542,
+      0.526
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.30614
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.14773
+      },
+      {
+        "hex": "#140c14",
+        "fraction": 0.0616
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.0326
+      },
+      {
+        "hex": "#140c1c",
+        "fraction": 0.01723
+      },
+      {
+        "hex": "#f44c24",
+        "fraction": 0.0113
+      },
+      {
+        "hex": "#14141c",
+        "fraction": 0.01038
+      },
+      {
+        "hex": "#0c040c",
+        "fraction": 0.00954
+      },
+      {
+        "hex": "#243ce4",
+        "fraction": 0.00715
+      },
+      {
+        "hex": "#ccf43c",
+        "fraction": 0.00707
+      },
+      {
+        "hex": "#2444f4",
+        "fraction": 0.00686
+      },
+      {
+        "hex": "#243cdc",
+        "fraction": 0.00646
+      }
+    ],
+    "high_change_pts": [
+      1.0,
+      2.5,
+      3.25,
+      4.3833,
+      5.9833,
+      8.0167,
+      8.6833,
+      10.5,
+      12.5,
+      14.0
+    ],
+    "audio_lufs": -13.01,
+    "audio_true_peak_dbtp": -0.43,
+    "audio_lra_lu": 2.3,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/36-crazyalphaaa.md"
+  },
+  {
+    "id": "37-fionntobin",
+    "author": "fionntobin",
+    "title": "Blue editorial motion showreel",
+    "gallery_url": "https://prompt-motion.com/fionntobin-97b7af",
+    "original_post": "https://x.com/fionntobin/status/2103510776690479597",
+    "attribution": "A motion video made with Claude Opus 5.5 by @fionntobin. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "6ed15d4c0e12f1d3222f68c303b15ae134e77f78683608fff51cd625592f5415",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "blue-editorial",
+      "serif-led",
+      "condensed-type",
+      "cell-grid",
+      "data-design",
+      "pictogram-motion",
+      "isometric-extrusion",
+      "halftone",
+      "branching-diagram",
+      "logo-hold"
+    ],
+    "thesis": "A strict cobalt/cream editorial system demonstrates how a film can feel sophisticated through counts, grids, typography and transformations without a broad palette or continuous neon spectacle.",
+    "chapter_map": [
+      [
+        0,
+        1.7,
+        "A blue square multiplies into increasingly dense square arrays, paired with large serif figures on cream."
+      ],
+      [
+        1.7,
+        3.77,
+        "A cobalt field carries a composition of condensed sans, italic serif and large bold text, with words arriving in different positions and hierarchies."
+      ],
+      [
+        3.77,
+        5.95,
+        "Cream presents a large tempo-style figure above a sparse bar/step diagram; successive blue bars and small marked points establish a time-based graphic."
+      ],
+      [
+        5.95,
+        7.62,
+        "A minimal blue running pictogram crosses a baseline and hurdles, using recognisable changing poses rather than a narrative scene."
+      ],
+      [
+        7.62,
+        9.55,
+        "The baseline becomes an isometric grid with rising blue cells, then rotates front-on into a regular square array and circular dot field."
+      ],
+      [
+        9.55,
+        11.1,
+        "Increasing dot density creates a halftone optical field with large overlapping circular waves."
+      ],
+      [
+        11.1,
+        13.1,
+        "A branching grid of small graphic choices is connected by thin lines to a selected large geometric symbol."
+      ],
+      [
+        13.1,
+        15,
+        "Cream returns with a very large elegant blue serif name along the lower field and restrained explanatory text above."
+      ]
+    ],
+    "mean_frame_delta": 0.01551,
+    "luma_range": [
+      0.2161,
+      0.9039
+    ],
+    "palette": [
+      {
+        "hex": "#ececdc",
+        "fraction": 0.50477
+      },
+      {
+        "hex": "#2c24c4",
+        "fraction": 0.23784
+      },
+      {
+        "hex": "#0c0c1c",
+        "fraction": 0.03012
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.02732
+      },
+      {
+        "hex": "#e4e4dc",
+        "fraction": 0.01727
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.01005
+      },
+      {
+        "hex": "#342cc4",
+        "fraction": 0.00934
+      },
+      {
+        "hex": "#dcdcdc",
+        "fraction": 0.00615
+      },
+      {
+        "hex": "#2424c4",
+        "fraction": 0.00538
+      },
+      {
+        "hex": "#e4dcdc",
+        "fraction": 0.00445
+      },
+      {
+        "hex": "#ccccdc",
+        "fraction": 0.00398
+      },
+      {
+        "hex": "#ece4e4",
+        "fraction": 0.00321
+      }
+    ],
+    "high_change_pts": [
+      1.65,
+      2.35,
+      3.7667,
+      7.6833,
+      8.9,
+      9.5333,
+      11.1333,
+      11.85,
+      12.4333,
+      13.1333
+    ],
+    "audio_lufs": -14.67,
+    "audio_true_peak_dbtp": -4.12,
+    "audio_lra_lu": 4.6,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/37-fionntobin.md"
+  },
+  {
+    "id": "38-itsuki_dev",
+    "author": "itsuki_dev",
+    "title": "Kinetic type showreel",
+    "gallery_url": "https://prompt-motion.com/itsuki-dev-10942d",
+    "original_post": "https://x.com/itsuki_dev/status/2103438087204618392",
+    "attribution": "A motion video made with Claude Opus 5.5 by @itsuki_dev. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "f2a122b6298405006b892d3bbc2d25018e02011871d501fd6c4a2c77537109ed",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "wide-type",
+      "outline-type",
+      "shape-morph",
+      "quarter-circle-tiles",
+      "particle-burst",
+      "tunnel",
+      "serif-contrast",
+      "line-sculpture",
+      "stepped-wipe",
+      "logo-hold"
+    ],
+    "thesis": "A confident graphic system changes between oversized type, a constructed shape study, quarter-circle tessellation, particles, a rotating depth tunnel and fine mathematical line art, with consistent orange/blue identity cues.",
+    "chapter_map": [
+      [
+        0,
+        1.13,
+        "A pale seed, circle and horizontal orange line set a centre before the line expands into orange."
+      ],
+      [
+        1.13,
+        3.97,
+        "Large words alternate orange, blue, black and pale violet, with outline repetitions, selective yellow emphasis and brief slice/glitch departures."
+      ],
+      [
+        3.97,
+        5.85,
+        "A central orange square becomes triangle, star and polygon inside circular construction paths, with a small easing-like graph at right."
+      ],
+      [
+        5.85,
+        7.7,
+        "The shape grows into a dense quarter-circle tile field. Cell rotations create local pattern changes while the regular grid remains visible."
+      ],
+      [
+        7.7,
+        9.4,
+        "A diagonal wipe exposes particles forming a numerical word, which bursts into depth and a nested rectangle tunnel."
+      ],
+      [
+        9.4,
+        11.43,
+        "The camera moves through rotating wire rectangles with a deep blue centre and thin coloured lines."
+      ],
+      [
+        11.43,
+        13.12,
+        "Stepped blocks reveal a yellow editorial card with an italic serif phrase and a thin looping line sculpture."
+      ],
+      [
+        13.12,
+        15,
+        "Coloured stepped fields recede into a quiet cream wordmark and orange punctuation on black."
+      ]
+    ],
+    "mean_frame_delta": 0.022168,
+    "luma_range": [
+      0.0398,
+      0.7729
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.39177
+      },
+      {
+        "hex": "#fcd43c",
+        "fraction": 0.07892
+      },
+      {
+        "hex": "#fc4c1c",
+        "fraction": 0.07837
+      },
+      {
+        "hex": "#2c34fc",
+        "fraction": 0.04627
+      },
+      {
+        "hex": "#0c143c",
+        "fraction": 0.03337
+      },
+      {
+        "hex": "#c4b4fc",
+        "fraction": 0.02797
+      },
+      {
+        "hex": "#0c0c24",
+        "fraction": 0.01879
+      },
+      {
+        "hex": "#0c0c1c",
+        "fraction": 0.01687
+      },
+      {
+        "hex": "#ececf4",
+        "fraction": 0.01164
+      },
+      {
+        "hex": "#0c0c2c",
+        "fraction": 0.01164
+      },
+      {
+        "hex": "#0c1434",
+        "fraction": 0.01005
+      },
+      {
+        "hex": "#fc4c24",
+        "fraction": 0.0073
+      }
+    ],
+    "high_change_pts": [
+      1.1333,
+      2.35,
+      3.2833,
+      3.9667,
+      5.8167,
+      6.5667,
+      7.7,
+      9.3833,
+      11.4167,
+      13.0167
+    ],
+    "audio_lufs": -11.69,
+    "audio_true_peak_dbtp": -0.16,
+    "audio_lra_lu": 1.7,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/38-itsuki_dev.md"
+  },
+  {
+    "id": "39-tolgayhickiran",
+    "author": "tolgayhickiran",
+    "title": "Motion design principles reel",
+    "gallery_url": "https://prompt-motion.com/tolgayhickiran-e90799",
+    "original_post": "https://x.com/tolgayhickiran/status/2103619422128935120",
+    "attribution": "A motion video made with Claude Opus 5.5 by @tolgayhickiran. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "899f0d51eab60bad4133313511a8b2cf6c056c99c46d691f767f3640338f0a31",
+    "video_seconds": 14.966666,
+    "fps": 30.0,
+    "frames": 449,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "orbital-mark",
+      "condensed-type",
+      "slice-type",
+      "shape-lattice",
+      "shape-morph",
+      "particle-galaxy",
+      "wireframe-torus",
+      "stepped-wipe",
+      "logo-hold"
+    ],
+    "thesis": "An orbital identity introduces condensed type, a bright shape grid, a lime silhouette study, a particle galaxy, principle cards and a wireframe torus before the final name.",
+    "chapter_map": [
+      [
+        0,
+        1.8,
+        "Concentric circles and coloured radial ticks rotate and simplify around a small seed on black."
+      ],
+      [
+        1.8,
+        3.6,
+        "A horizontal line becomes a baseline for condensed cream/orange letters; brief horizontal slicing and channel offsets create an energetic exit."
+      ],
+      [
+        3.6,
+        5.55,
+        "A regular matrix of circles and rounded squares fills black, with coloured rings/regions moving across cells."
+      ],
+      [
+        5.55,
+        7.5,
+        "The field transitions to lime and a central black square, triangle and star inside a thin orbit, with faint outline type behind it."
+      ],
+      [
+        7.5,
+        9.43,
+        "An iris exposes a luminous flattened particle galaxy, whose spiral/rotation is readable against a dark blue field."
+      ],
+      [
+        9.43,
+        11.23,
+        "Stepped vertical bars introduce short principle cards on orange, violet, lime and cream, including a bar-like rhythm graphic."
+      ],
+      [
+        11.23,
+        13.17,
+        "A wireframe torus/elliptical volume rotates in perspective, with orbital lines and a few coloured markers indicating depth."
+      ],
+      [
+        13.17,
+        15,
+        "A pale radial reset becomes an orange ring around a tall cream name; residual particles dissipate during the hold."
+      ]
+    ],
+    "mean_frame_delta": 0.026143,
+    "luma_range": [
+      0.0543,
+      0.6343
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.47474
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.08134
+      },
+      {
+        "hex": "#14141c",
+        "fraction": 0.01335
+      },
+      {
+        "hex": "#0c1414",
+        "fraction": 0.01239
+      },
+      {
+        "hex": "#d4fc3c",
+        "fraction": 0.00956
+      },
+      {
+        "hex": "#b4dc34",
+        "fraction": 0.00928
+      },
+      {
+        "hex": "#bce434",
+        "fraction": 0.00858
+      },
+      {
+        "hex": "#94b42c",
+        "fraction": 0.00824
+      },
+      {
+        "hex": "#9cbc2c",
+        "fraction": 0.00786
+      },
+      {
+        "hex": "#acd434",
+        "fraction": 0.00688
+      },
+      {
+        "hex": "#7c9424",
+        "fraction": 0.00681
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.00641
+      }
+    ],
+    "high_change_pts": [
+      3.5,
+      4.6667,
+      5.4667,
+      7.4667,
+      9.4333,
+      10.4,
+      11.2,
+      11.8667,
+      12.5,
+      13.0667
+    ],
+    "audio_lufs": -14.32,
+    "audio_true_peak_dbtp": -0.6,
+    "audio_lra_lu": 1.7,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/39-tolgayhickiran.md"
+  },
+  {
+    "id": "40-danilowm",
+    "author": "danilowm",
+    "title": "Motion designer showreel",
+    "gallery_url": "https://prompt-motion.com/danilowm-d3720d",
+    "original_post": "https://x.com/danilowm/status/2103661844661412022",
+    "attribution": "A motion video made with Claude Opus 5.5 and HyperFrames by @danilowm. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "682d00f833595bd578e005f5be8e78fda556d5c72a19b83564e18aeb3e8c42c1",
+    "video_seconds": 14.966666,
+    "fps": 30.0,
+    "frames": 449,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "product-motion",
+      "friendly-type",
+      "map-pins",
+      "data-design",
+      "perspective-cards",
+      "selective-focus",
+      "shape-to-logo",
+      "logo-hold"
+    ],
+    "thesis": "A light teal product film uses simple type, map pins, counted data and a camera move over repeated cards to demonstrate an approachable motion system rather than a high-density abstract spectacle.",
+    "chapter_map": [
+      [
+        0,
+        2.57,
+        "A bold black sentence builds word by word on white, with a teal underline, small paw motif and location-pin punctuation."
+      ],
+      [
+        2.57,
+        5.1,
+        "A large teal/white reveal introduces a simplified map at right and explanatory title at left; pins appear in staggered clusters."
+      ],
+      [
+        5.1,
+        7.4,
+        "Teal stepped fields introduce a large count and a clean horizontal category-bar chart on white."
+      ],
+      [
+        7.4,
+        9.2,
+        "The chart dissolves into a perspective field of repeated place cards; the camera flies lower across rows."
+      ],
+      [
+        9.2,
+        10.6,
+        "The card field moves front-on, one card is selected and lifted, then the composition clears."
+      ],
+      [
+        10.6,
+        12.6,
+        "A compact search/address control types a location and changes a small category state."
+      ],
+      [
+        12.6,
+        15,
+        "A large teal form contracts into a rounded-square paw icon; the brand name and small supporting line hold beside it."
+      ]
+    ],
+    "mean_frame_delta": 0.010989,
+    "luma_range": [
+      0.838,
+      0.9485
+    ],
+    "palette": [
+      {
+        "hex": "#f4f4f4",
+        "fraction": 0.58488
+      },
+      {
+        "hex": "#fcfcfc",
+        "fraction": 0.10502
+      },
+      {
+        "hex": "#e4ecec",
+        "fraction": 0.05592
+      },
+      {
+        "hex": "#ececec",
+        "fraction": 0.03066
+      },
+      {
+        "hex": "#14b4a4",
+        "fraction": 0.029
+      },
+      {
+        "hex": "#ccfcf4",
+        "fraction": 0.02253
+      },
+      {
+        "hex": "#e4f4ec",
+        "fraction": 0.01878
+      },
+      {
+        "hex": "#ecf4f4",
+        "fraction": 0.01584
+      },
+      {
+        "hex": "#0c746c",
+        "fraction": 0.00899
+      },
+      {
+        "hex": "#242424",
+        "fraction": 0.00636
+      },
+      {
+        "hex": "#e4e4e4",
+        "fraction": 0.00607
+      },
+      {
+        "hex": "#e4f4f4",
+        "fraction": 0.00559
+      }
+    ],
+    "high_change_pts": [
+      0.5,
+      1.1,
+      2.5667,
+      5.1,
+      5.7333,
+      7.4333,
+      8.1,
+      8.7667,
+      10.4667,
+      12.5667
+    ],
+    "audio_lufs": -14.31,
+    "audio_true_peak_dbtp": -1.61,
+    "audio_lra_lu": 2.9,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/40-danilowm.md"
+  },
+  {
+    "id": "41-3xtihor",
+    "author": "3xtihor",
+    "title": "Claude motion designer showreel",
+    "gallery_url": "https://prompt-motion.com/3xtihor-0f6911",
+    "original_post": "https://x.com/3xtihor/status/2103551886272159839",
+    "attribution": "A motion video made with Claude Opus 5.5 by @3xtihor. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "12acf3ac6da26863ef4e7637a50d01c6434e0c1bc919ec83d43c06f94a35b43e",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "bounce",
+      "wide-type",
+      "letter-counter-portal",
+      "shape-morph",
+      "shape-lattice",
+      "cylindrical-type",
+      "panel-wall",
+      "particle-type",
+      "logo-hold"
+    ],
+    "thesis": "A bounce and bold title become shape construction, a regular cell field, a cylindrical tower of type, a wall of demonstrations and finally a particle-to-solid identity. The type tower is the distinctive spatial centrepiece.",
+    "chapter_map": [
+      [
+        0,
+        1.85,
+        "An orange bouncing seed and ghost arcs establish timing above a fine baseline, then the seed expands into orange."
+      ],
+      [
+        1.85,
+        3.58,
+        "Short heavy words alternate orange and black; a large circular letter counter becomes the next portal."
+      ],
+      [
+        3.58,
+        5.67,
+        "Blue frames a cream square, triangle and star with selection handles and orbital satellites, then a square enlarges into a full cell grid."
+      ],
+      [
+        5.67,
+        7.13,
+        "The grid changes from cream rounded squares to coloured circles around a travelling region, then opens diagonally."
+      ],
+      [
+        7.13,
+        9.15,
+        "Multiple horizontal bands of type wrap a rotating cylinder, with coloured front faces and dim/reversed rear text."
+      ],
+      [
+        9.15,
+        10.85,
+        "Stepped colour fields reveal a multi-panel wall of fluid, bar, toggle, curve and tunnel studies."
+      ],
+      [
+        10.85,
+        13.2,
+        "The wall disperses into particles, which sweep through a torus-like form and converge into a large word."
+      ],
+      [
+        13.2,
+        15,
+        "The particle word becomes solid cream text with an orange rule, a small italic date-like accent and punctuation."
+      ]
+    ],
+    "mean_frame_delta": 0.029005,
+    "luma_range": [
+      0.0523,
+      0.6625
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.46456
+      },
+      {
+        "hex": "#2c34f4",
+        "fraction": 0.09693
+      },
+      {
+        "hex": "#ec3c24",
+        "fraction": 0.08452
+      },
+      {
+        "hex": "#f4f4e4",
+        "fraction": 0.03898
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.03338
+      },
+      {
+        "hex": "#140c14",
+        "fraction": 0.02303
+      },
+      {
+        "hex": "#d4fc3c",
+        "fraction": 0.02161
+      },
+      {
+        "hex": "#2c2cf4",
+        "fraction": 0.01815
+      },
+      {
+        "hex": "#f4f4ec",
+        "fraction": 0.01134
+      },
+      {
+        "hex": "#d4fc44",
+        "fraction": 0.00932
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.00764
+      },
+      {
+        "hex": "#f4ecec",
+        "fraction": 0.00558
+      }
+    ],
+    "high_change_pts": [
+      1.85,
+      2.8167,
+      3.5833,
+      5.6667,
+      6.25,
+      7.1333,
+      8.1,
+      9.15,
+      10.8167,
+      13.1333
+    ],
+    "audio_lufs": -15.26,
+    "audio_true_peak_dbtp": -1.33,
+    "audio_lra_lu": 0.9,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/41-3xtihor.md"
+  },
+  {
+    "id": "42-ghinaiya_nirmal",
+    "author": "ghinaiya_nirmal",
+    "title": "Claude motion design reel",
+    "gallery_url": "https://prompt-motion.com/ghinaiya-nirmal-5d8fec",
+    "original_post": "https://x.com/ghinaiya_nirmal/status/2103540656182308943",
+    "attribution": "A motion video made with Claude Opus 5.5 by @ghinaiya_nirmal. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "7a5a9f820f9a9b589c4c1b6318b3eb2e8e533c7af953aadd3aca7ad6a43eee92",
+    "video_seconds": 15.066667,
+    "fps": 60.0,
+    "frames": 904,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 31,
+    "transition_tiles": 50,
+    "tags": [
+      "wide-type",
+      "serif-contrast",
+      "shape-morph",
+      "shape-lattice",
+      "point-cloud",
+      "flat-fluid",
+      "drip-wipe",
+      "line-sculpture",
+      "data-design",
+      "logo-hold"
+    ],
+    "thesis": "A highly structured technical reel connects bouncing punctuation, typographic verb cards, bounded shape morphs, moving colour bands through a dot field, spatial particles and a playful fluid/drip passage.",
+    "chapter_map": [
+      [
+        0,
+        1.9,
+        "An orange seed bounces on a line, accompanied by a small timing curve near the lower-right."
+      ],
+      [
+        1.9,
+        3.8,
+        "Short title cards alternate orange, black, blue and cream. A red underline and red circular letter create continuity."
+      ],
+      [
+        3.8,
+        5.75,
+        "An orange rosette, rounded diamond, triangle and star share a selection box and layered coloured outline trails."
+      ],
+      [
+        5.75,
+        7.35,
+        "A dense dim dot field carries moving orange, blue and pink wave/ring regions, changing cell scale and colour with distance."
+      ],
+      [
+        7.35,
+        9.4,
+        "A point sphere becomes a torus and disperses into a dark cloud, then a cream iris reveals large italic type with clusters of orange and blue circles."
+      ],
+      [
+        9.4,
+        11.17,
+        "The circle clusters move across the italic word; a black dripping matte descends to reveal a lime flowing curve on black."
+      ],
+      [
+        11.17,
+        13.2,
+        "A brief montage adds coloured isometric blocks, count/bar typography, a channel-offset word and a lime donut-chart-like graphic."
+      ],
+      [
+        13.2,
+        15,
+        "A warm orange ring introduces a broad cream wordmark and small italic role on black."
+      ]
+    ],
+    "mean_frame_delta": 0.018423,
+    "luma_range": [
+      0.0518,
+      0.7772
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.46473
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.07342
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.06306
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.06176
+      },
+      {
+        "hex": "#ec441c",
+        "fraction": 0.03318
+      },
+      {
+        "hex": "#3444f4",
+        "fraction": 0.01312
+      },
+      {
+        "hex": "#04040c",
+        "fraction": 0.01189
+      },
+      {
+        "hex": "#14141c",
+        "fraction": 0.00941
+      },
+      {
+        "hex": "#dcdccc",
+        "fraction": 0.00772
+      },
+      {
+        "hex": "#d4fc44",
+        "fraction": 0.00721
+      },
+      {
+        "hex": "#e4e4d4",
+        "fraction": 0.00717
+      },
+      {
+        "hex": "#2c44dc",
+        "fraction": 0.00641
+      }
+    ],
+    "high_change_pts": [
+      2.3333,
+      3.2833,
+      5.1833,
+      5.7667,
+      7.2833,
+      9.3667,
+      11.15,
+      11.7167,
+      12.4167,
+      13.2
+    ],
+    "audio_lufs": -12.59,
+    "audio_true_peak_dbtp": 1.15,
+    "audio_lra_lu": 1.3,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/42-ghinaiya_nirmal.md"
+  },
+  {
+    "id": "43-johnsavage_ai",
+    "author": "johnsavage_ai",
+    "title": "Code-only motion design reel",
+    "gallery_url": "https://prompt-motion.com/johnsavage-ai-b091c0",
+    "original_post": "https://x.com/johnsavage_ai/status/2103600308010041677",
+    "attribution": "A motion video made with Claude Opus 5.5 by @johnsavage_ai. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "80a2aa341d0b10e1e7dca0bbfbc73a9ede39675ce50b8dd2ccdc0a8c0baaf260",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "easing-diagram",
+      "wide-type",
+      "serif-contrast",
+      "letter-counter-portal",
+      "glossy-3d",
+      "shape-lattice",
+      "particle-type",
+      "topographic-lines",
+      "circular-type",
+      "logo-hold"
+    ],
+    "thesis": "The reel combines a motion-curve premise with heavy/italic typography, a luminous glossy object, a deforming grid, particle text, line topography and concentric typographic acceleration.",
+    "chapter_map": [
+      [
+        0,
+        1.9,
+        "A pale seed and sparse axes resolve into an orange easing curve with a bright moving point."
+      ],
+      [
+        1.9,
+        3.62,
+        "An orange radial burst reveals a heavy title paired with a large cream italic serif word; weight and width visibly change."
+      ],
+      [
+        3.62,
+        5.63,
+        "The camera passes through a letter counter into a dark scene with a glossy irregular sphere, bright coloured reflections and wide background type bands."
+      ],
+      [
+        5.63,
+        7.53,
+        "A light field carries a dense regular grid of circles, squares and crosses, with coloured cells and a travelling deformation."
+      ],
+      [
+        7.53,
+        9.38,
+        "A warm radial particle burst forms a large code-themed word; the resolved point letters hold briefly."
+      ],
+      [
+        9.38,
+        10.57,
+        "A blue field carries many pale topographic lines that rise into a central surface."
+      ],
+      [
+        10.57,
+        11.32,
+        "A cream skills-style bar chart animates, using a single orange highlight among neutral bars."
+      ],
+      [
+        11.32,
+        13.12,
+        "Concentric type rings and radial speed lines zoom/rotate through alternating fields, then reduce to a seed."
+      ],
+      [
+        13.12,
+        15,
+        "A wide cream name and italic role return on black with orange punctuation."
+      ]
+    ],
+    "mean_frame_delta": 0.035777,
+    "luma_range": [
+      0.038,
+      0.8618
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.27282
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.09245
+      },
+      {
+        "hex": "#ec3c1c",
+        "fraction": 0.084
+      },
+      {
+        "hex": "#140c0c",
+        "fraction": 0.03249
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.02707
+      },
+      {
+        "hex": "#1c0c0c",
+        "fraction": 0.01831
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.01697
+      },
+      {
+        "hex": "#2c2cf4",
+        "fraction": 0.01453
+      },
+      {
+        "hex": "#1c0c14",
+        "fraction": 0.01371
+      },
+      {
+        "hex": "#140c14",
+        "fraction": 0.01318
+      },
+      {
+        "hex": "#e43c1c",
+        "fraction": 0.01206
+      },
+      {
+        "hex": "#2c2cec",
+        "fraction": 0.0099
+      }
+    ],
+    "high_change_pts": [
+      1.9,
+      3.6167,
+      5.6333,
+      7.5167,
+      9.3833,
+      10.3167,
+      11.3,
+      11.9,
+      12.4667,
+      13.1333
+    ],
+    "audio_lufs": -14.17,
+    "audio_true_peak_dbtp": -1.2,
+    "audio_lra_lu": 1.8,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/43-johnsavage_ai.md"
+  },
+  {
+    "id": "44-leonkohli",
+    "author": "LeonKohli",
+    "title": "Geometric motion designer showreel",
+    "gallery_url": "https://prompt-motion.com/leonkohli-6dc01b",
+    "original_post": "https://x.com/LeonKohli/status/2103517696038191220",
+    "attribution": "A motion video made with Claude Opus 5.5 by @LeonKohli. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "f651ff78aa4cb2d1fd97326fab2aaa2874ef4ded702a907cb858cf927b230bf4",
+    "video_seconds": 15.033333,
+    "fps": 30.0,
+    "frames": 451,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 31,
+    "transition_tiles": 50,
+    "tags": [
+      "rounded-type",
+      "bounce",
+      "quarter-circle-tiles",
+      "isometric-extrusion",
+      "radial-wave",
+      "metaball",
+      "particle-burst",
+      "ring-match",
+      "tunnel",
+      "logo-hold"
+    ],
+    "thesis": "A bright cobalt/white/lime system uses a persistent orange ball to connect type, modular geometry, an isometric tile wave, particle rings and circular numerical graphics before an unusually restrained lowercase close.",
+    "chapter_map": [
+      [
+        0,
+        1.9,
+        "An orange ball bounces across a dark baseline, with ghost arcs and a small lower spacing strip."
+      ],
+      [
+        1.9,
+        4,
+        "An orange radial flash introduces a blue field with a white lowercase word, then white with black lowercase type; the dot becomes the letter's punctuation."
+      ],
+      [
+        4,
+        4.82,
+        "A small seed expands into a colourful grid of arches, quarters, circles, triangles and stripes."
+      ],
+      [
+        4.82,
+        6.7,
+        "The graphic grid tilts into a blue isometric tile plane with white/black/lime accents and an orange ball. Height waves propagate from its contact region."
+      ],
+      [
+        6.7,
+        8.03,
+        "On blue, orange shapes merge into a rosette and split into a ring of small spheres; they gather before a particle release."
+      ],
+      [
+        8.03,
+        9.03,
+        "A warm radial particle burst becomes a tilted annular volume and contracts to a ring."
+      ],
+      [
+        9.03,
+        12.03,
+        "White carries a circular numeric indicator and repeated coloured rings that recede towards a vanishing point, then darken into a ring tunnel."
+      ],
+      [
+        12.03,
+        15,
+        "A tiny word grows into a compact lowercase cream name with orange punctuation on black; the very end returns to a seed."
+      ]
+    ],
+    "mean_frame_delta": 0.047434,
+    "luma_range": [
+      0.0399,
+      0.9445
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.3339
+      },
+      {
+        "hex": "#fcfcfc",
+        "fraction": 0.15065
+      },
+      {
+        "hex": "#3454fc",
+        "fraction": 0.12398
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.03889
+      },
+      {
+        "hex": "#042cb4",
+        "fraction": 0.01631
+      },
+      {
+        "hex": "#040c14",
+        "fraction": 0.01551
+      },
+      {
+        "hex": "#e4e4ec",
+        "fraction": 0.01069
+      },
+      {
+        "hex": "#ececf4",
+        "fraction": 0.01015
+      },
+      {
+        "hex": "#042cbc",
+        "fraction": 0.0087
+      },
+      {
+        "hex": "#fc5c1c",
+        "fraction": 0.00867
+      },
+      {
+        "hex": "#dcfc3c",
+        "fraction": 0.00864
+      },
+      {
+        "hex": "#04040c",
+        "fraction": 0.00763
+      }
+    ],
+    "high_change_pts": [
+      1.9,
+      3.0,
+      3.9667,
+      4.8,
+      5.6333,
+      6.6333,
+      7.9667,
+      8.9667,
+      10.3667,
+      11.9667
+    ],
+    "audio_lufs": -17.06,
+    "audio_true_peak_dbtp": -1.05,
+    "audio_lra_lu": 2.9,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/44-leonkohli.md"
+  },
+  {
+    "id": "45-marouanegazouzi",
+    "author": "marouanegazouzi",
+    "title": "Crux motion design showreel",
+    "gallery_url": "https://prompt-motion.com/marouanegazouzi-6071d5",
+    "original_post": "https://x.com/marouanegazouzi/status/2103608571435131257",
+    "attribution": "A motion video made with Claude Opus 5.5 by @marouanegazouzi. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "1b5f0fb1de66c4ec19ca56e34dfc1b044deeac3dad0c51bcc89c77716a22fa0f",
+    "video_seconds": 14.966666,
+    "fps": 30.0,
+    "frames": 449,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "serif-led",
+      "technical-brand",
+      "particle-data",
+      "histogram",
+      "local-glow",
+      "radar",
+      "flip-type",
+      "line-wipe",
+      "logo-hold"
+    ],
+    "thesis": "A dark blue editorial product film uses serif headlines, an analytical distribution, a restrained UI, radar geometry and split-flap-like lettering to communicate a sequence of propositions.",
+    "chapter_map": [
+      [
+        0,
+        1.03,
+        "A luminous blue path draws a pulse-like curve and becomes a bright horizontal line."
+      ],
+      [
+        1.03,
+        2.5,
+        "Large cream serif statements alternate over faint outline-text wallpaper, with selected blue words and a short underline."
+      ],
+      [
+        2.5,
+        4.47,
+        "Small particles settle into a histogram/distribution at right, paired with a large growing count and a highlighted observation line."
+      ],
+      [
+        4.47,
+        5.8,
+        "A blue/white flare expands, then contracts into the product icon and a serif name."
+      ],
+      [
+        5.8,
+        8.5,
+        "A compact analysis interface appears beside a stacked serif list; rows and coloured multipliers reveal in sequence."
+      ],
+      [
+        8.5,
+        10.6,
+        "A radar-like ellipse and scanning wedge accompany a count and a rising small line chart on black."
+      ],
+      [
+        10.6,
+        12.97,
+        "A short large serif card is followed by individually flipping/scrambling dark letter tiles and a blue editorial statement."
+      ],
+      [
+        12.97,
+        15,
+        "A blue line wipes away the statement; the icon and serif name return with a small supporting line and URL-style pill."
+      ]
+    ],
+    "mean_frame_delta": 0.012953,
+    "luma_range": [
+      0.0633,
+      0.5294
+    ],
+    "palette": [
+      {
+        "hex": "#0c1414",
+        "fraction": 0.4704
+      },
+      {
+        "hex": "#0c141c",
+        "fraction": 0.09031
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.06973
+      },
+      {
+        "hex": "#0c1c24",
+        "fraction": 0.03758
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.03105
+      },
+      {
+        "hex": "#141c1c",
+        "fraction": 0.02735
+      },
+      {
+        "hex": "#549cf4",
+        "fraction": 0.02691
+      },
+      {
+        "hex": "#0c1c1c",
+        "fraction": 0.01192
+      },
+      {
+        "hex": "#14242c",
+        "fraction": 0.01154
+      },
+      {
+        "hex": "#040c0c",
+        "fraction": 0.01146
+      },
+      {
+        "hex": "#141c24",
+        "fraction": 0.01011
+      },
+      {
+        "hex": "#142434",
+        "fraction": 0.00999
+      }
+    ],
+    "high_change_pts": [
+      1.0333,
+      1.7333,
+      2.4667,
+      4.4667,
+      5.0333,
+      5.9667,
+      8.4667,
+      11.2333,
+      12.2333,
+      12.9667
+    ],
+    "audio_lufs": -14.29,
+    "audio_true_peak_dbtp": -3.41,
+    "audio_lra_lu": 1.9,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/45-marouanegazouzi.md"
+  },
+  {
+    "id": "46-safarkhanshuvo",
+    "author": "safarkhanshuvo",
+    "title": "Motion design showreel",
+    "gallery_url": "https://prompt-motion.com/safarkhanshuvo-ffd52d",
+    "original_post": "https://x.com/safarkhanshuvo/status/2103520091552059752",
+    "attribution": "A motion video made with Claude Opus 5.5 by @safarkhanshuvo. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "f7b0ef9ebd573ae88d08bc3a33c1cc7cd6a67b0897d3e6b5a0f63ae5c7798ebe",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "condensed-type",
+      "bounce",
+      "shape-lattice",
+      "point-cloud",
+      "particle-type",
+      "data-design",
+      "optical-pattern",
+      "tunnel",
+      "geometric-mark",
+      "logo-hold"
+    ],
+    "thesis": "A physical seed and condensed type introduce a wave-like matrix, spatial particles, a blue data chapter and a brisk set of optical/typographic contrasts before a custom geometric closing mark.",
+    "chapter_map": [
+      [
+        0,
+        1.65,
+        "A pale bouncing seed changes to orange while large dim figures count in the background; a baseline and impact strokes establish physical contact."
+      ],
+      [
+        1.65,
+        3.63,
+        "An orange expansion reveals short condensed statements and a large moving word, with underline and slice/glitch departures."
+      ],
+      [
+        3.63,
+        5.45,
+        "Cream supports a grid of blue/orange circles and black squares. A travelling deformation changes shape, orientation and local density before the field turns dark."
+      ],
+      [
+        5.45,
+        7.35,
+        "A point sphere morphs into a torus and a condensed particle word on black."
+      ],
+      [
+        7.35,
+        9.65,
+        "Blue fills through the word's centre and presents a large percentage, bars and a small ring/line chart."
+      ],
+      [
+        9.65,
+        11.02,
+        "Short cards contrast halftone, striped speed, a softly lit gradient field, radial burst and a brief glitch."
+      ],
+      [
+        11.02,
+        13.15,
+        "Nested wire rectangles rotate in depth around a sequence of condensed words."
+      ],
+      [
+        13.15,
+        15,
+        "A cream reset reveals three small primary shapes arranging into an original-looking mark beside a condensed black name."
+      ]
+    ],
+    "mean_frame_delta": 0.026294,
+    "luma_range": [
+      0.0361,
+      0.7626
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.16833
+      },
+      {
+        "hex": "#04040c",
+        "fraction": 0.0947
+      },
+      {
+        "hex": "#2c3cfc",
+        "fraction": 0.02744
+      },
+      {
+        "hex": "#fc4c1c",
+        "fraction": 0.02373
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.02369
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.02338
+      },
+      {
+        "hex": "#0c040c",
+        "fraction": 0.01564
+      },
+      {
+        "hex": "#f4ecec",
+        "fraction": 0.01489
+      },
+      {
+        "hex": "#2c34ec",
+        "fraction": 0.01157
+      },
+      {
+        "hex": "#e4441c",
+        "fraction": 0.01109
+      },
+      {
+        "hex": "#dcdcd4",
+        "fraction": 0.01106
+      },
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.01098
+      }
+    ],
+    "high_change_pts": [
+      1.65,
+      3.6333,
+      5.4333,
+      7.35,
+      9.6167,
+      10.3167,
+      11.0167,
+      11.5833,
+      12.5,
+      13.1333
+    ],
+    "audio_lufs": -9.34,
+    "audio_true_peak_dbtp": 0.25,
+    "audio_lra_lu": 0.9,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/46-safarkhanshuvo.md"
+  },
+  {
+    "id": "47-sahildesigner23",
+    "author": "sahildesigner23",
+    "title": "3D motion design showreel",
+    "gallery_url": "https://prompt-motion.com/sahildesigner23-ee3155",
+    "original_post": "https://x.com/sahildesigner23/status/2103536115563307120",
+    "attribution": "A motion video made with Claude Opus 5.5 by @sahildesigner23. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "0eb338992d8f9c6dabad8797b46926905eda978501a87af4a16efbbfdaf4236a",
+    "video_seconds": 14.866667,
+    "fps": 60.0,
+    "frames": 892,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "font-axes",
+      "outline-type",
+      "extruded-type",
+      "chrome-material",
+      "metaball",
+      "device-match",
+      "isometric-extrusion",
+      "radial-wave",
+      "logo-hold"
+    ],
+    "thesis": "A restrained orange/cream/black material film turns flat typography into extruded letterforms, chrome fluid shapes, a phone render panel and an isometric tile field, then returns through a staged editor-like view to a clean final name.",
+    "chapter_map": [
+      [
+        0,
+        1.9,
+        "A seed/ring introduces a thin uppercase word that gains weight, with two fine horizontal rules defining its band."
+      ],
+      [
+        1.9,
+        3.7,
+        "Solid cream type sits over orange outline repetitions, then the surrounding field clears."
+      ],
+      [
+        3.7,
+        5.47,
+        "The word gains orange extruded sides and tilts into perspective; individual letters rotate and move along a curved line."
+      ],
+      [
+        5.47,
+        7.37,
+        "A counter zoom reveals small chrome/cream-red fluid bodies on orange. They merge and separate before elongating into a device silhouette."
+      ],
+      [
+        7.37,
+        9.17,
+        "A black phone on cream shows a render-style progress panel; the camera enlarges its orange cell icon into a full tiled surface."
+      ],
+      [
+        9.17,
+        11.7,
+        "A dark isometric tile plane carries an orange centre and a white height ring, with contact-like waves and camera motion."
+      ],
+      [
+        11.7,
+        13.05,
+        "The tiled scene appears within an editor-like frame and reduces towards a seed, with charts/timeline furniture visible around it."
+      ],
+      [
+        13.05,
+        14.93,
+        "A cream radial expansion reveals a wide black mixed-case name, orange punctuation and small role text."
+      ]
+    ],
+    "mean_frame_delta": 0.014575,
+    "luma_range": [
+      0.058,
+      0.8711
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.28674
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.14527
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.11591
+      },
+      {
+        "hex": "#fc4c1c",
+        "fraction": 0.11438
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.05771
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.03463
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.0288
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.02047
+      },
+      {
+        "hex": "#140c0c",
+        "fraction": 0.01098
+      },
+      {
+        "hex": "#f44c1c",
+        "fraction": 0.00886
+      },
+      {
+        "hex": "#1c1414",
+        "fraction": 0.00806
+      },
+      {
+        "hex": "#e4e4dc",
+        "fraction": 0.00725
+      }
+    ],
+    "high_change_pts": [
+      2.0167,
+      2.7,
+      3.6167,
+      4.8167,
+      5.4667,
+      7.3667,
+      9.1667,
+      10.0,
+      11.6667,
+      13.0333
+    ],
+    "audio_lufs": -9.9,
+    "audio_true_peak_dbtp": -0.47,
+    "audio_lra_lu": 2.4,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/47-sahildesigner23.md"
+  },
+  {
+    "id": "48-grace_sunnyy",
+    "author": "Grace_sunnyy",
+    "title": "Keyframe motion design reel",
+    "gallery_url": "https://prompt-motion.com/grace-sunnyy-29bc61",
+    "original_post": "https://x.com/Grace_sunnyy/status/2106532575712022677",
+    "attribution": "A motion video made with Claude Opus 5.5 by @Grace_sunnyy. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "edd308a6dcd9ff9c414141dd114ee5c663423234560231d22bda42bdc6b246ba",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "keyframe-identity",
+      "easing-diagram",
+      "wide-type",
+      "facet-explosion",
+      "particle-type",
+      "panel-wall",
+      "transition-catalogue",
+      "diamond-carrier",
+      "logo-hold"
+    ],
+    "thesis": "A red diamond/keyframe identity connects a graph-editor opening, a short typographic proposition, a faceted 3D solid, particle order, dashboard panels and a set of explicitly demonstrated transitions.",
+    "chapter_map": [
+      [
+        0,
+        1.9,
+        "A red diamond moves along a line that becomes a large easing curve; the bottom keyframe timeline remains visible."
+      ],
+      [
+        1.9,
+        3.75,
+        "Short heavy words alternate orange, black and cream, then assemble into a two-line proposition with one red word."
+      ],
+      [
+        3.75,
+        5.95,
+        "A red faceted solid rotates within orbital guides, explodes into triangles and reassembles into a planar diamond."
+      ],
+      [
+        5.95,
+        7.5,
+        "The diamond becomes a particle field, deforms in space and gathers into a large word."
+      ],
+      [
+        7.5,
+        9.4,
+        "A multi-panel technical composition shows a large frame-like count, type specimen, bars, curves and a tempo-like figure."
+      ],
+      [
+        9.4,
+        11.85,
+        "Brief cards demonstrate circular reveal, turn, glitch, wipe, spin and outline echo, using consistent type and timeline furniture."
+      ],
+      [
+        11.85,
+        15,
+        "The red diamond returns beside a heavy cream name; small particles clear and a supporting statement settles beneath it."
+      ]
+    ],
+    "mean_frame_delta": 0.013168,
+    "luma_range": [
+      0.073,
+      0.7085
+    ],
+    "palette": [
+      {
+        "hex": "#141414",
+        "fraction": 0.51721
+      },
+      {
+        "hex": "#14140c",
+        "fraction": 0.10306
+      },
+      {
+        "hex": "#e43c24",
+        "fraction": 0.06295
+      },
+      {
+        "hex": "#1c1414",
+        "fraction": 0.04509
+      },
+      {
+        "hex": "#e4e4dc",
+        "fraction": 0.04039
+      },
+      {
+        "hex": "#1c1c1c",
+        "fraction": 0.01512
+      },
+      {
+        "hex": "#140c14",
+        "fraction": 0.01316
+      },
+      {
+        "hex": "#dc3c24",
+        "fraction": 0.00806
+      },
+      {
+        "hex": "#242424",
+        "fraction": 0.00742
+      },
+      {
+        "hex": "#140c0c",
+        "fraction": 0.00723
+      },
+      {
+        "hex": "#241c1c",
+        "fraction": 0.00683
+      },
+      {
+        "hex": "#241414",
+        "fraction": 0.00594
+      }
+    ],
+    "high_change_pts": [
+      1.8833,
+      2.8167,
+      3.7167,
+      5.2,
+      6.7667,
+      7.5,
+      9.4,
+      10.0833,
+      10.7833,
+      11.8833
+    ],
+    "audio_lufs": -14.7,
+    "audio_true_peak_dbtp": -0.03,
+    "audio_lra_lu": 7.7,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/48-grace_sunnyy.md"
+  },
+  {
+    "id": "49-teslachartz",
+    "author": "TeslaChartz",
+    "title": "Motion designer showreel",
+    "gallery_url": "https://prompt-motion.com/teslachartz-c58b32",
+    "original_post": "https://x.com/TeslaChartz/status/2103746486978887985",
+    "attribution": "A motion video made with Claude Opus 5.5 by @TeslaChartz. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "458cf0200505fe7840e2730101f239ee229a8b097c36dec84d0e8e9ae8f0c4d7",
+    "video_seconds": 15.033334,
+    "fps": 60.0,
+    "frames": 902,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 31,
+    "transition_tiles": 50,
+    "tags": [
+      "radial-fan",
+      "condensed-type",
+      "shape-lattice",
+      "wireframe-solid",
+      "torus",
+      "flat-fluid",
+      "easing-diagram",
+      "extruded-type",
+      "logo-hold"
+    ],
+    "thesis": "A radial opening and condensed proposition lead into a clean primary-shape array, a partially wireframe torus, flat lime fluid contours, a timing comparison and a concise type/material montage.",
+    "chapter_map": [
+      [
+        0,
+        1.5,
+        "A fine line/circle expands into a radial fan, then an orange circular matte fills the frame."
+      ],
+      [
+        1.5,
+        3.42,
+        "A red-orange title builds in condensed cream/black lines, framed by thin repeating text bands."
+      ],
+      [
+        3.42,
+        5.48,
+        "Horizontal strips reveal a grid of circles, crosses, squares, triangles and rings in red, blue, black and cream; the cells rotate and reorder."
+      ],
+      [
+        5.48,
+        7.5,
+        "A blue field frames a dimensional torus that changes from wireframe to coloured faceted solid, with small orbiting type elements."
+      ],
+      [
+        7.5,
+        9.4,
+        "The torus fragments and lime contour-like blobs move behind a large word on black; a lime shape expands into the next field."
+      ],
+      [
+        9.4,
+        11.02,
+        "A lime curve-and-dot-lanes composition demonstrates timing and spacing with clear endpoints and comparison rows."
+      ],
+      [
+        11.02,
+        12.55,
+        "Large type cards alternate outline letters, extruded blue dimensional lettering, repeated rhythm-like text and vertical colour bars."
+      ],
+      [
+        12.55,
+        15.03,
+        "A pale reset reveals a condensed cream name on black, with thin rules and small supporting copy; the very end reduces the identity."
+      ]
+    ],
+    "mean_frame_delta": 0.022638,
+    "luma_range": [
+      0.0365,
+      0.8012
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.27657
+      },
+      {
+        "hex": "#d4fc44",
+        "fraction": 0.04384
+      },
+      {
+        "hex": "#2c2cf4",
+        "fraction": 0.03486
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.03229
+      },
+      {
+        "hex": "#04040c",
+        "fraction": 0.03212
+      },
+      {
+        "hex": "#ec2424",
+        "fraction": 0.02687
+      },
+      {
+        "hex": "#2c2cec",
+        "fraction": 0.02191
+      },
+      {
+        "hex": "#2c2ce4",
+        "fraction": 0.01852
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.01672
+      },
+      {
+        "hex": "#dc241c",
+        "fraction": 0.01648
+      },
+      {
+        "hex": "#ccfc3c",
+        "fraction": 0.01642
+      },
+      {
+        "hex": "#cc241c",
+        "fraction": 0.01516
+      }
+    ],
+    "high_change_pts": [
+      0.9333,
+      1.5,
+      3.4167,
+      5.45,
+      7.5,
+      8.05,
+      9.4167,
+      11.0,
+      12.0,
+      12.55
+    ],
+    "audio_lufs": -13.06,
+    "audio_true_peak_dbtp": -0.51,
+    "audio_lra_lu": 2.7,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/49-teslachartz.md"
+  },
+  {
+    "id": "50-shinskinakamoto",
+    "author": "Shinskinakamoto",
+    "title": "Kinetic shapes showreel",
+    "gallery_url": "https://prompt-motion.com/shinskinakamoto-20190b",
+    "original_post": "https://x.com/Shinskinakamoto/status/2103580532852589043",
+    "attribution": "A motion video made with Claude Opus 5.5 by @Shinskinakamoto. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "4d8df52dbb3bc79586996e496989c25bc201fb5fa109a44a5d06cab650185ebb",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1280,
+    "height": 720,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "orbital-mark",
+      "wide-type",
+      "outline-type",
+      "shape-lattice",
+      "particle-type",
+      "point-cloud",
+      "data-design",
+      "topographic-lines",
+      "band-wipe",
+      "logo-hold"
+    ],
+    "thesis": "A vivid multicolour pulse identity controls kinetic type, central shape transformations, a particle swarm, point/line volumes, a clean UI panel set and a luminous topographic rhythm passage.",
+    "chapter_map": [
+      [
+        0,
+        1.85,
+        "Coloured radial ticks and circles organise around a seed, revealing a cream greeting with offset lime/violet echoes."
+      ],
+      [
+        1.85,
+        3.75,
+        "A layered circular colour expansion introduces lime headline cards and a repeated solid/outline word wall."
+      ],
+      [
+        3.75,
+        5.48,
+        "Violet carries a large orange disc, square and triangle over a systematic grid of small coloured circles and rounded cells."
+      ],
+      [
+        5.48,
+        7.38,
+        "A black circular opening releases a multicolour particle swirl, which compresses, forms a word and bursts through depth."
+      ],
+      [
+        7.38,
+        9.4,
+        "A point sphere, torus and wire cube share a central axis and thin coloured orbits, with radial depth lines in the final transition."
+      ],
+      [
+        9.4,
+        11.1,
+        "Cream frames three staggered product/data cards with bars, a circular percentage/toggle and a line chart."
+      ],
+      [
+        11.1,
+        13.15,
+        "A dark iris reveals a luminous cyan/pink topographic line field beneath a large lime/cream word, followed by brief slice disruption."
+      ],
+      [
+        13.15,
+        15,
+        "Vertical coloured bands clear into a small multicolour waveform-like mark beside a wide cream name on black."
+      ]
+    ],
+    "mean_frame_delta": 0.021104,
+    "luma_range": [
+      0.0503,
+      0.6768
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c14",
+        "fraction": 0.37703
+      },
+      {
+        "hex": "#0c0c1c",
+        "fraction": 0.03486
+      },
+      {
+        "hex": "#6c4cfc",
+        "fraction": 0.01527
+      },
+      {
+        "hex": "#140c14",
+        "fraction": 0.01074
+      },
+      {
+        "hex": "#c4fc3c",
+        "fraction": 0.01046
+      },
+      {
+        "hex": "#14141c",
+        "fraction": 0.01031
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.00978
+      },
+      {
+        "hex": "#0c141c",
+        "fraction": 0.00883
+      },
+      {
+        "hex": "#6c4cf4",
+        "fraction": 0.0076
+      },
+      {
+        "hex": "#140c1c",
+        "fraction": 0.00707
+      },
+      {
+        "hex": "#6444e4",
+        "fraction": 0.00635
+      },
+      {
+        "hex": "#c4fc44",
+        "fraction": 0.00616
+      }
+    ],
+    "high_change_pts": [
+      0.65,
+      1.8167,
+      2.85,
+      3.75,
+      5.4667,
+      6.35,
+      7.3333,
+      9.3833,
+      11.0833,
+      13.1333
+    ],
+    "audio_lufs": -8.42,
+    "audio_true_peak_dbtp": -0.02,
+    "audio_lra_lu": 2.3,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/50-shinskinakamoto.md"
+  },
+  {
+    "id": "51-ik_builds",
+    "author": "ik_builds",
+    "title": "Paper-style product launch film",
+    "gallery_url": "https://prompt-motion.com/ik-builds-b8bdcf",
+    "original_post": "https://x.com/ik_builds/status/2103890476885585923",
+    "attribution": "A motion video made with Claude Opus 5.5 and HyperFrames + GSAP by @ik_builds. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "12e81ac7e3326e00be3cfed94465d1c977f3cfc7b9021bd2d5b7bc03e5318c5d",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "paper-motion",
+      "bounce",
+      "annotations",
+      "condensed-type",
+      "stagger",
+      "diagram",
+      "seed-continuity",
+      "strip-wipe",
+      "logo-hold"
+    ],
+    "thesis": "A paper/annotation brand film reuses a teal bouncing seed to organise documents, a typographic proposition, a comparative curve and a clean closing mark. It broadens the study with an applied narrative built from the same motion mechanics.",
+    "chapter_map": [
+      [
+        0,
+        2.77,
+        "A teal ball bounces above a baseline on warm white, with ghost positions and a handwritten annotation near its arc."
+      ],
+      [
+        2.77,
+        5,
+        "Paper-like estimates, drawings and notes enter around the ball, each with slight tilt, cast shadow and a nearby hand-drawn label."
+      ],
+      [
+        5,
+        6.2,
+        "The field becomes dark green; documents orbit towards a glowing teal centre, which briefly forms a small connected network."
+      ],
+      [
+        6.2,
+        8.97,
+        "Condensed cream words drop in with stagger and mild rotation, then settle into a two-line proposition and teal underline."
+      ],
+      [
+        8.97,
+        11.38,
+        "The letters scatter into a dark graph comparison: a jittery baseline is contrasted with a smooth rising teal curve and moving endpoint."
+      ],
+      [
+        11.38,
+        12.85,
+        "Alternating light strips reveal white; the seed arcs down towards a small teal mark."
+      ],
+      [
+        12.85,
+        15,
+        "The mark and a clean mixed-case name hold on cream, with a small serif supporting line and hand-drawn URL-like oval."
+      ]
+    ],
+    "mean_frame_delta": 0.00454,
+    "luma_range": [
+      0.1025,
+      0.9218
+    ],
+    "palette": [
+      {
+        "hex": "#141c14",
+        "fraction": 0.15208
+      },
+      {
+        "hex": "#f4f4ec",
+        "fraction": 0.15063
+      },
+      {
+        "hex": "#ecece4",
+        "fraction": 0.09158
+      },
+      {
+        "hex": "#1c241c",
+        "fraction": 0.07699
+      },
+      {
+        "hex": "#e4e4dc",
+        "fraction": 0.07617
+      },
+      {
+        "hex": "#f4f4f4",
+        "fraction": 0.06445
+      },
+      {
+        "hex": "#141c1c",
+        "fraction": 0.0416
+      },
+      {
+        "hex": "#0c1414",
+        "fraction": 0.03837
+      },
+      {
+        "hex": "#ecf4ec",
+        "fraction": 0.03619
+      },
+      {
+        "hex": "#e4ece4",
+        "fraction": 0.03325
+      },
+      {
+        "hex": "#dcdcd4",
+        "fraction": 0.03281
+      },
+      {
+        "hex": "#0c140c",
+        "fraction": 0.02894
+      }
+    ],
+    "high_change_pts": [
+      0.5,
+      2.7667,
+      5.0,
+      5.6167,
+      6.2,
+      6.9167,
+      9.0,
+      9.6667,
+      11.3667,
+      12.85
+    ],
+    "audio_lufs": -14.22,
+    "audio_true_peak_dbtp": -2.69,
+    "audio_lra_lu": 1.6,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/51-ik_builds.md"
+  },
+  {
+    "id": "52-quickdesignio",
+    "author": "quickdesignio",
+    "title": "QuickDesign brand promo",
+    "gallery_url": "https://prompt-motion.com/quickdesignio-dd93d0",
+    "original_post": "https://x.com/quickdesignio/status/2103617779857338399",
+    "attribution": "A motion video made with Claude Opus 5.5 by @quickdesignio. Copy the full prompt behind it, or customize it for your own video.",
+    "checked_date": "2026-10-29",
+    "source_sha256": "09e49f4cb0ea09f8c14216c536c830e246ad4c797ddee7371303beeda6b1a55b",
+    "video_seconds": 15.0,
+    "fps": 60.0,
+    "frames": 900,
+    "width": 1920,
+    "height": 1080,
+    "overview_tiles": 30,
+    "transition_tiles": 50,
+    "tags": [
+      "product-motion",
+      "serif-contrast",
+      "perspective-cards",
+      "before-after",
+      "kinetic-type",
+      "data-design",
+      "cell-to-logo",
+      "logo-hold"
+    ],
+    "thesis": "A lime/ink product film links a typed brief to an angled wall of ad cards, before/after imagery, rapid capability typography and a modular-cell-to-logo transformation.",
+    "chapter_map": [
+      [
+        0,
+        2,
+        "A compact question types on black, with an italic lime word and a small input field that gains a URL-like value."
+      ],
+      [
+        2,
+        4.78,
+        "A dark green reset reveals an angled array of ad cards. Cells fill in staggered order while a lower serif/sans statement and counter complete the composition."
+      ],
+      [
+        4.78,
+        6.6,
+        "A light panel presents a muted product photo, then slides in a bright lime studio-style version with a strike-through/arrow annotation."
+      ],
+      [
+        6.6,
+        7.9,
+        "A phone/avatar-style panel enters beside the product card, then the scene moves into full-field typography."
+      ],
+      [
+        7.9,
+        9.8,
+        "Short capability words alternate lime, cream, coral and black, using masks, outlines, brief pixel breakup and a radar-like graphic."
+      ],
+      [
+        9.8,
+        11.7,
+        "A dark two-column statement and growth-chart card provide a clear lower-density composition."
+      ],
+      [
+        11.7,
+        13.15,
+        "Lime rounded cells fill the frame, reorganise into a small modular square mark and shed a few particles."
+      ],
+      [
+        13.15,
+        15,
+        "The modular mark and clean brand name hold on black, with a small italic support line and restrained circular framing."
+      ]
+    ],
+    "mean_frame_delta": 0.018608,
+    "luma_range": [
+      0.0407,
+      0.8257
+    ],
+    "palette": [
+      {
+        "hex": "#0c0c04",
+        "fraction": 0.16855
+      },
+      {
+        "hex": "#0c0c0c",
+        "fraction": 0.12914
+      },
+      {
+        "hex": "#040c04",
+        "fraction": 0.09201
+      },
+      {
+        "hex": "#040404",
+        "fraction": 0.07438
+      },
+      {
+        "hex": "#14140c",
+        "fraction": 0.03286
+      },
+      {
+        "hex": "#f4ece4",
+        "fraction": 0.03047
+      },
+      {
+        "hex": "#ccfc44",
+        "fraction": 0.01742
+      },
+      {
+        "hex": "#ece4dc",
+        "fraction": 0.01694
+      },
+      {
+        "hex": "#e4dcd4",
+        "fraction": 0.01592
+      },
+      {
+        "hex": "#dcd4cc",
+        "fraction": 0.01365
+      },
+      {
+        "hex": "#141414",
+        "fraction": 0.01241
+      },
+      {
+        "hex": "#f46c5c",
+        "fraction": 0.01236
+      }
+    ],
+    "high_change_pts": [
+      1.1167,
+      2.0,
+      2.5667,
+      4.7667,
+      6.6333,
+      8.25,
+      9.0,
+      9.75,
+      11.6333,
+      12.5
+    ],
+    "audio_lufs": -13.94,
+    "audio_true_peak_dbtp": -0.39,
+    "audio_lra_lu": 4.3,
+    "audio_subjectively_auditioned": false,
+    "study": "studies/52-quickdesignio.md"
+  }
+]

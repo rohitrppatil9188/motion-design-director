@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "schema": "Draft 2020-12",
+  "invalid_plan_rejected": true,
+  "local_markdown_links": "resolved",
+  "distinct_studies": 50,
+  "distinct_source_sha256": 50,
+  "csv_frame_rows": 40056,
+  "timestamps_monotonic": true
+}
