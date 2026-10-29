@@ -48,8 +48,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 1003,
-      "sha256": "9ba127f3d86aad79f5a149982bfc468857655f554d40aec5d44122ebe378b266"
+      "bytes": 995,
+      "sha256": "85138ce552ff76d622c77f32b57499d032c177f1a5a4e95bf1d1d01e22b7f309"
     },
     {
       "path": "CODE_OF_CONDUCT.md",
@@ -98,8 +98,8 @@
     },
     {
       "path": "assets/example/film.mjs",
-      "bytes": 12531,
-      "sha256": "2e2d9feab88ae08fbb8c807fbab6f337112b6561339e669214ba2a2c98232c48"
+      "bytes": 12478,
+      "sha256": "1421258e2137f35511e4595d91d6d74ea7d816c0142a0299b5c1f8dca5e06d7d"
     },
     {
       "path": "assets/example/index.html",
@@ -143,8 +143,8 @@
     },
     {
       "path": "assets/field-notes/film.mjs",
-      "bytes": 6134,
-      "sha256": "82a2cbb8cef0251efbb99f01dd44a68d7cdf72933cbab1922a15a56e26e69ca1"
+      "bytes": 6105,
+      "sha256": "5e3c76dda0cac987361a7bd728936583c2ee105c4dd413eab1240c47e708f39f"
     },
     {
       "path": "assets/field-notes/index.html",
@@ -218,8 +218,8 @@
     },
     {
       "path": "docs/ARCHITECTURE.md",
-      "bytes": 4710,
-      "sha256": "8ba412a811fde0f58f35af689a0abf5f39f51a8167be3a225748223a56d9437b"
+      "bytes": 4718,
+      "sha256": "8fa659c0c74a00c95baf6233eed52cda4280234d98d629caeba9f2fee38da639"
     },
     {
       "path": "docs/RELEASE_AUDIT.md",

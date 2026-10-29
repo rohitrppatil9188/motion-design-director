@@ -1,7 +1,6 @@
 import {TAU, clamp, lerp, progress, smoother, arrive, spring01, hash01, rotate3, project3, spherePoint, torusPoint, mixPoint, fitFont} from '../../scripts/motion-math.mjs';
 
-// Frequent frame capture benefits from a stable readback-oriented 2D context.
-const canvas=document.querySelector('#film'), ctx=canvas.getContext('2d',{alpha:false,willReadFrequently:true});
+const canvas=document.querySelector('#film'), ctx=canvas.getContext('2d',{alpha:false});
 const W=1920,H=1080,FPS=60;
 const C={paper:'#f4f1e9',ink:'#17181a',blue:'#2e35ef',yellow:'#ffd14a',light:'#a6b5ff'};
 const boundaries=[113,281,450,619,788], ends=[...boundaries,900];
@@ -13,10 +12,10 @@ function rect(x,y,w,h,colour){ctx.fillStyle=colour;ctx.fillRect(x,y,w,h);}
 function line(x1,y1,x2,y2,colour,width=2){ctx.strokeStyle=colour;ctx.lineWidth=width;ctx.beginPath();ctx.moveTo(x1,y1);ctx.lineTo(x2,y2);ctx.stroke();}
 function circle(x,y,r,colour){if(r<=0)return;ctx.fillStyle=colour;ctx.beginPath();ctx.arc(x,y,r,0,TAU);ctx.fill();}
 function label(text,x,y,colour=C.ink,size=23,align='left'){
-  ctx.save();ctx.font=`500 ${size}px Inter`;ctx.fillStyle=colour;ctx.textAlign=align;ctx.textBaseline='alphabetic';ctx.fillText(text,x,y);ctx.restore();
+  ctx.save();ctx.fontKerning='normal';ctx.font=`500 ${size}px Inter`;ctx.fillStyle=colour;ctx.textAlign=align;ctx.textBaseline='alphabetic';ctx.fillText(text,x,y);ctx.restore();
 }
 function type(text,cx,cy,width,height,colour,{family='"Barlow Condensed"',weight=900,outline=false}={}){
-  ctx.save();ctx.textAlign='left';ctx.textBaseline='alphabetic';
+  ctx.save();ctx.fontKerning='normal';ctx.textAlign='left';ctx.textBaseline='alphabetic';
   const key=JSON.stringify([text,width,height,family,weight]);
   let b=fontCache.get(key);
   if(!b){b=fitFont(ctx,text,family,weight,width,height,750);fontCache.set(key,b);}

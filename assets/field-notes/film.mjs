@@ -1,6 +1,6 @@
-const canvas=document.querySelector('canvas'),ctx=canvas.getContext('2d',{willReadFrequently:true});
+const canvas=document.querySelector('canvas'),ctx=canvas.getContext('2d');
 const W=960,H=540,FPS=30,CREAM='#f2eddf',INK='#1d2421',ACCENT='#d65337';
-const front=document.createElement('canvas');front.width=W;front.height=H;const f=front.getContext('2d',{willReadFrequently:true});
+const front=document.createElement('canvas');front.width=W;front.height=H;const f=front.getContext('2d');
 const clamp=x=>Math.max(0,Math.min(1,x)),lerp=(a,b,t)=>a+(b-a)*t;
 const smooth=x=>{x=clamp(x);return x*x*(3-2*x)};
 const cubic=x=>1-Math.pow(1-clamp(x),3);
@@ -13,7 +13,7 @@ const OC={x:414,y:270,outer:76,inner:36};
 const outer=[[0,-132],[96,-48],[132,0],[48,96],[0,132],[-96,48],[-132,0],[-48,-96]];
 const fills=[ACCENT,ACCENT,INK,INK,ACCENT,ACCENT,INK,INK];
 const facets=outer.map((p,i)=>{const q=outer[(i+1)%outer.length],c=[(p[0]+q[0])/3,(p[1]+q[1])/3];return{id:i,vertices:[[0,0],p,q],centroid:c,angle:Math.atan2(c[1],c[0]),distance:84+(i%3)*16,turn:(i%2?1:-1)*(.21+.04*i)}});
-function text(c,s,x,y,size,weight=700,fill=INK,align='left',family='Inter'){c.font=`${weight} ${size}px ${family}`;c.textAlign=align;c.textBaseline='alphabetic';c.fillStyle=fill;c.fillText(s,x,y);}
+function text(c,s,x,y,size,weight=700,fill=INK,align='left',family='Inter'){c.fontKerning='normal';c.font=`${weight} ${size}px ${family}`;c.textAlign=align;c.textBaseline='alphabetic';c.fillStyle=fill;c.fillText(s,x,y);}
 function bg(c,color=CREAM){c.fillStyle=color;c.fillRect(0,0,W,H)}
 function diamond(c,x,y,r,color){c.beginPath();c.moveTo(x,y-r);c.lineTo(x+r,y);c.lineTo(x,y+r);c.lineTo(x-r,y);c.closePath();c.fillStyle=color;c.fill();}
 function footer(c){text(c,'A CREATIVE PRACTICE',60,488,11,600);text(c,'FIELD NOTES',900,488,11,650,INK,'right')}
