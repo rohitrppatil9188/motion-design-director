@@ -72,3 +72,4 @@ jobs:
             out/field-notes.mp4
             out/render-report.json
             out/media-verification.json
+            out/determinism/

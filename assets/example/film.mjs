@@ -1,6 +1,7 @@
 import {TAU, clamp, lerp, progress, smoother, arrive, spring01, hash01, rotate3, project3, spherePoint, torusPoint, mixPoint, fitFont} from '../../scripts/motion-math.mjs';
 
-const canvas=document.querySelector('#film'), ctx=canvas.getContext('2d',{alpha:false});
+// Frequent frame capture benefits from a stable readback-oriented 2D context.
+const canvas=document.querySelector('#film'), ctx=canvas.getContext('2d',{alpha:false,willReadFrequently:true});
 const W=1920,H=1080,FPS=60;
 const C={paper:'#f4f1e9',ink:'#17181a',blue:'#2e35ef',yellow:'#ffd14a',light:'#a6b5ff'};
 const boundaries=[113,281,450,619,788], ends=[...boundaries,900];

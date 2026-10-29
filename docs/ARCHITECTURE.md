@@ -26,6 +26,8 @@ An entry project exposes `window.ready` and `window.renderFrame(seconds)`. Metad
 
 Each call must evaluate the complete scene from absolute time. Seeded IDs, precomputed paths and immutable geometry make backwards seeks and parallel frame rendering reliable. The bundled examples also expose `window.renderAt(frame)` for diagnostics. One frame per scene is not enough to validate transitions.
 
+The Canvas 2D examples declare `willReadFrequently: true` at context creation because their output is repeatedly captured. This requests readback-oriented rendering and avoids relying on adaptive GPU/CPU readback choices. Pixel determinism is compared within the same browser session; the recorded hashes are not portable golden images across operating systems or browser versions. A failed comparison saves both original frames for inspection.
+
 The renderer captures the first canvas. A custom DOM-only or multi-canvas composition needs a deliberate capture-target adaptation. For actual refraction, chrome, complex occlusion or lighting, use a suitable 3D renderer; the supplied gradient example is a 2D illustration.
 
 ## Units and coordinates

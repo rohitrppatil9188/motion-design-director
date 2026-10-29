@@ -33,8 +33,8 @@
     },
     {
       "path": ".github/workflows/ci.yml",
-      "bytes": 2368,
-      "sha256": "0e842e89ee800dc6daa0b2636388505ff56873e9b4741664de2abcf0d834fa27"
+      "bytes": 2397,
+      "sha256": "a0aabda8eb35d71750e18dd5bb0cef235cd40d10aafa0f2b32b294f33b41f77d"
     },
     {
       "path": ".gitignore",
@@ -48,8 +48,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 875,
-      "sha256": "40f714afabdf0656d30ec426a01d6f730ed8685e05036b301b5e38fd1bebe50a"
+      "bytes": 1003,
+      "sha256": "9ba127f3d86aad79f5a149982bfc468857655f554d40aec5d44122ebe378b266"
     },
     {
       "path": "CODE_OF_CONDUCT.md",
@@ -98,8 +98,8 @@
     },
     {
       "path": "assets/example/film.mjs",
-      "bytes": 12428,
-      "sha256": "fdef1e34a9dd74b1abfd7cb158d02294b674cd6db213c09321af5ad51c18a5ca"
+      "bytes": 12531,
+      "sha256": "2e2d9feab88ae08fbb8c807fbab6f337112b6561339e669214ba2a2c98232c48"
     },
     {
       "path": "assets/example/index.html",
@@ -143,8 +143,8 @@
     },
     {
       "path": "assets/field-notes/film.mjs",
-      "bytes": 6082,
-      "sha256": "89d6162a84efc02c37e082c7f41760235e0cae42b1ba21927016f1ef3d76ca9d"
+      "bytes": 6134,
+      "sha256": "82a2cbb8cef0251efbb99f01dd44a68d7cdf72933cbab1922a15a56e26e69ca1"
     },
     {
       "path": "assets/field-notes/index.html",
@@ -218,8 +218,8 @@
     },
     {
       "path": "docs/ARCHITECTURE.md",
-      "bytes": 4264,
-      "sha256": "9e50b64b10423b6f0c21f1e087ae4ec68689a6028f84b4d74a3026c8b025fd28"
+      "bytes": 4710,
+      "sha256": "8ba412a811fde0f58f35af689a0abf5f39f51a8167be3a225748223a56d9437b"
     },
     {
       "path": "docs/RELEASE_AUDIT.md",
@@ -1088,8 +1088,8 @@
     },
     {
       "path": "scripts/verify-example.mjs",
-      "bytes": 2380,
-      "sha256": "2eefdfeb7a797876fea9cdfb522272be4f4d401cc13ad334e2fa34de61c740bd"
+      "bytes": 2971,
+      "sha256": "bf9e089aa64fc9c2de3d2342f6c2c5aac66abd8c432e21bba356e5f33df14ff6"
     },
     {
       "path": "scripts/verify-media.mjs",

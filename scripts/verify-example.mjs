@@ -10,15 +10,22 @@ const {values:v}=parseArgs({options:{'module-root':{type:'string'},output:{type:
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const film=await openFilm({root,entry:path.join(root,'assets/example/index.html'),moduleRoot:v['module-root'],width:960,height:540});
 try{
-  const info=await film.page.evaluate(()=>({info:window.filmInfo,fonts:[...document.fonts].map(f=>({family:f.family,status:f.status}))}));
+  const info=await film.page.evaluate(()=>({info:window.filmInfo,canvasAttributes:document.querySelector('canvas').getContext('2d').getContextAttributes(),fonts:[...document.fonts].map(f=>({family:f.family,status:f.status}))}));
   assert.equal(info.info.frameCount,900);
   assert.ok(info.fonts.every(f=>f.status==='loaded'));
   const frames=[0,60,112,113,280,281,449,450,540,618,619,700,787,788,840,899];
-  const hashes={};
-  for(const f of frames){await film.page.evaluate(n=>window.renderAt(n),f);hashes[f]=createHash('sha256').update(await film.canvas.screenshot({type:'png'})).digest('hex');}
+  const hashes={},images={};
+  for(const f of frames){await film.page.evaluate(n=>window.renderAt(n),f);images[f]=await film.canvas.screenshot({type:'png'});hashes[f]=createHash('sha256').update(images[f]).digest('hex');}
   for(const f of [...frames].reverse()){
     await film.page.evaluate(n=>window.renderAt(n),f);
-    assert.equal(createHash('sha256').update(await film.canvas.screenshot({type:'png'})).digest('hex'),hashes[f],`Out-of-order frame ${f} changed`);
+    const repeated=await film.canvas.screenshot({type:'png'}),actual=createHash('sha256').update(repeated).digest('hex');
+    if(actual!==hashes[f]){
+      const debug=path.resolve('out/determinism');fs.mkdirSync(debug,{recursive:true});
+      fs.writeFileSync(path.join(debug,`frame-${f}-first.png`),images[f]);
+      fs.writeFileSync(path.join(debug,`frame-${f}-repeated.png`),repeated);
+      fs.writeFileSync(path.join(debug,'comparison.json'),JSON.stringify({frame:f,expected:hashes[f],actual,info},null,2)+'\n');
+    }
+    assert.equal(actual,hashes[f],`Out-of-order frame ${f} changed; inspect out/determinism`);
   }
   assert.equal(hashes[840],hashes[899],'Closing hold is not stable');
   for(const f of [113,281,450,619,788]){

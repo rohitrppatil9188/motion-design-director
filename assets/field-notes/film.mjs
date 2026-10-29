@@ -1,6 +1,6 @@
-const canvas=document.querySelector('canvas'),ctx=canvas.getContext('2d');
+const canvas=document.querySelector('canvas'),ctx=canvas.getContext('2d',{willReadFrequently:true});
 const W=960,H=540,FPS=30,CREAM='#f2eddf',INK='#1d2421',ACCENT='#d65337';
-const front=document.createElement('canvas');front.width=W;front.height=H;const f=front.getContext('2d');
+const front=document.createElement('canvas');front.width=W;front.height=H;const f=front.getContext('2d',{willReadFrequently:true});
 const clamp=x=>Math.max(0,Math.min(1,x)),lerp=(a,b,t)=>a+(b-a)*t;
 const smooth=x=>{x=clamp(x);return x*x*(3-2*x)};
 const cubic=x=>1-Math.pow(1-clamp(x),3);
