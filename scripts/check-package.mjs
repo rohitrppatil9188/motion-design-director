@@ -49,7 +49,7 @@ for(const file of files){
 }
 for(const name of ['README.md','LICENSE','INSTALL.md','THIRD_PARTY_NOTICES.md','CONTRIBUTING.md','SECURITY.md','SKILL.md'])if(!fs.existsSync(path.join(root,name)))errors.push(`Missing ${name}`);
 const skill=fs.readFileSync(path.join(root,'SKILL.md'),'utf8');
-if(!/^---\r?\nname: kinetic-showreel-director\r?\n/m.test(skill)||!skill.includes('description:'))errors.push('Invalid skill entry metadata');
+if(!/^---\r?\nname: motion-design-director\r?\n/m.test(skill)||!skill.includes('description:'))errors.push('Invalid skill entry metadata');
 const sources=JSON.parse(fs.readFileSync(path.join(root,'references/source-attributions.json'),'utf8'));
 if(sources.length!==50||new Set(sources.map(s=>s.source_sha256)).size!==50)errors.push('Corpus must contain 50 distinct source hashes');
 let frames=0;

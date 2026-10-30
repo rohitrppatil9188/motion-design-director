@@ -1,8 +1,8 @@
 # Use the complete package
 
-Give another model this entire `kinetic-showreel-director` folder and tell it to read `SKILL.md`. A copy of `SKILL.md` alone can describe the workflow, but loses the studies, recipes, code, schema and fonts. The core instructions are engine-neutral; runnable tools require the dependencies below.
+Give another model this entire `motion-design-director` folder and tell it to read `SKILL.md`. A copy of `SKILL.md` alone can describe the workflow, but loses the studies, recipes, code, schema and fonts. The core instructions are engine-neutral; runnable tools require the dependencies below.
 
-For Codex, place the folder in the configured skills directory (normally `~/.codex/skills/kinetic-showreel-director`) and start a new chat if discovery has already occurred. Invoke `$kinetic-showreel-director` or ask for a short typographic motion film. The package has no service credentials, API requirement or paid generation dependency. Other models can follow the Markdown files directly.
+For Codex, place the folder in the configured skills directory (normally `~/.codex/skills/motion-design-director`) and start a new chat if discovery has already occurred. Invoke `$motion-design-director` or ask for a short typographic motion film. The package has no service credentials, API requirement or paid generation dependency. Other models can follow the Markdown files directly.
 
 ## Run the included original example
 

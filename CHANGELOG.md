@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1 — 2026-10-30
+
+- Rename the internal skill identifier and display title to `motion-design-director` / Motion Design Director, matching the repository.
+- Update installation paths, invocation prompts and package validation. Existing users should rename their installed `kinetic-showreel-director` folder to `motion-design-director` and replace it with this release.
+- Motion guidance, reference studies, recipes and rendering behavior are unchanged.
+
 ## 1.0.0 — 2026-10-29
 
 Initial public release of Motion Design Director, with the skill identifier `kinetic-showreel-director`.

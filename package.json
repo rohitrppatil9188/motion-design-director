@@ -1,7 +1,7 @@
 {
   "name": "motion-design-director",
   "description": "A portable AI skill for original motion-design films, with 50 studies, 24 effect recipes, deterministic helpers, audio and rendering tools.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "scripts": {

@@ -1,10 +1,10 @@
 ---
-name: kinetic-showreel-director
+name: motion-design-director
 description: "Create polished short motion-design films: kinetic typography, transforming geometry, optical fields, dimensional particles, brand and product motion, deliberate transitions, and synchronized original audio. Use for bold 10–30 second showreels, studio idents, launch films, motion posters, or improving a flat or generic motion piece. Includes 50 source-attributed Opus 5.5 film studies, concrete effect recipes, deterministic animation math, and an original runnable 15-second example."
 license: "MIT for original text and code; bundled fonts use SIL OFL 1.1. See LICENSE and assets/fonts/."
 ---
 
-# Kinetic Showreel Director
+# Motion Design Director
 
 Produce an authored motion film, with a clear visual proposition, changing density, convincing transformations, readable typography and a finished sound mix. The reference corpus is a vocabulary to reason with, not a storyboard to copy. A film can be editorial, geometric, material, playful or product-led.
 
