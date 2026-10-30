@@ -23,7 +23,8 @@ try{
       const debug=path.resolve('out/determinism');fs.mkdirSync(debug,{recursive:true});
       fs.writeFileSync(path.join(debug,`frame-${f}-first.png`),images[f]);
       fs.writeFileSync(path.join(debug,`frame-${f}-repeated.png`),repeated);
-      fs.writeFileSync(path.join(debug,'comparison.json'),JSON.stringify({frame:f,expected:hashes[f],actual,info},null,2)+'\n');
+      const fontFits=await film.page.evaluate(()=>window.inspectFontFits?.()??[]);
+      fs.writeFileSync(path.join(debug,'comparison.json'),JSON.stringify({frame:f,expected:hashes[f],actual,info,fontFits},null,2)+'\n');
     }
     assert.equal(actual,hashes[f],`Out-of-order frame ${f} changed; inspect out/determinism`);
   }

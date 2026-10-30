@@ -98,8 +98,8 @@
     },
     {
       "path": "assets/example/film.mjs",
-      "bytes": 12478,
-      "sha256": "1421258e2137f35511e4595d91d6d74ea7d816c0142a0299b5c1f8dca5e06d7d"
+      "bytes": 12954,
+      "sha256": "8acd0e66affa996a6d9ae0afc7f3e0e2a908ac465212671c7ed5604da23e08d2"
     },
     {
       "path": "assets/example/index.html",
@@ -1088,8 +1088,8 @@
     },
     {
       "path": "scripts/verify-example.mjs",
-      "bytes": 2971,
-      "sha256": "bf9e089aa64fc9c2de3d2342f6c2c5aac66abd8c432e21bba356e5f33df14ff6"
+      "bytes": 3063,
+      "sha256": "b34a91189c9f33c88143776dc3f7175e87445c8ed9459fb5cb2eecf94a4432c2"
     },
     {
       "path": "scripts/verify-media.mjs",

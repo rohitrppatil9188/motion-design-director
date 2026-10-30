@@ -215,6 +215,16 @@ window.ready=(async()=>{
   renderAt(0);return true;
 })();
 
+// Used only when a verifier reports a changed frame; no scene state is mutated.
+window.inspectFontFits=()=>{
+  ctx.save();ctx.fontKerning='normal';ctx.textAlign='left';ctx.textBaseline='alphabetic';
+  const result=[...fontCache].map(([key,cached])=>{
+    const [text,width,height,family,weight]=JSON.parse(key);
+    const fresh=fitFont(ctx,text,family,weight,width,height,750);
+    return {text,width,height,family,weight,cached,fresh};
+  });ctx.restore();return result;
+};
+
 const scrub=document.querySelector('#scrub'),output=document.querySelector('#time'),play=document.querySelector('#play');
 let playing=false,origin=0;
 scrub.addEventListener('input',()=>{playing=false;play.textContent='Play visuals';window.renderFrame?.(Number(scrub.value));output.value=`${Number(scrub.value).toFixed(2)} s`;});
