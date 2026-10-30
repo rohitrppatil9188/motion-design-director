@@ -28,6 +28,8 @@ Each call must evaluate the complete scene from absolute time. Seeded IDs, preco
 
 The Canvas 2D examples set `fontKerning = 'normal'` for measuring and drawing text, so layout does not depend on the browser's `auto` shaping choices. Use the same shaping settings for fitting, cached measurements and actual drawing. Pixel determinism is compared within the same browser session; recorded hashes are not portable golden images across operating systems or browser versions. A failed comparison saves both original frames for inspection.
 
+`fitFont` chooses the largest whole-pixel font size that fits the measured ink bounds, up to its supplied size ceiling. Fractional fitting at a glyph-hinting threshold produced different cached/fresh fits on Linux, so the helper avoids those subpixel thresholds. It throws if even the smallest supported size cannot fit, allowing the caller to revise the layout rather than silently crop essential text.
+
 The renderer captures the first canvas. A custom DOM-only or multi-canvas composition needs a deliberate capture-target adaptation. For actual refraction, chrome, complex occlusion or lighting, use a suitable 3D renderer; the supplied gradient example is a 2D illustration.
 
 ## Units and coordinates

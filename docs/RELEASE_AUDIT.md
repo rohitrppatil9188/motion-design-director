@@ -22,6 +22,7 @@ The public checkout was constructed from the existing distributable's explicit f
 | Nonnumeric expected media values could silently pass | Validate CLI numbers before probing and reject invalid/missing measured values; regression test reproduces and fixes the former false pass |
 | Decode errors could be logged without a fatal process result | Use strict FFmpeg error handling and inspect decoder error output |
 | Degenerate spring/volume parameters could yield invalid geometry | Reject invalid cycles, counts, IDs and radii; existing valid-input motion invariants continue to pass |
+| Fractional font fitting selected different cached/fresh sizes on Linux | Search whole-pixel sizes within the measured ink bounds; retain exact repeated-frame comparisons and save diagnostics on failure |
 
 The existing realpath boundary check for symlink escapes was retained. Windows denied creating a test symlink on the local account, so that local branch was not exercised; Linux CI includes the same test. The server is a development helper for trusted projects, not an arbitrary-code sandbox or public hosting service.
 
@@ -30,7 +31,7 @@ All child-process calls use argument arrays rather than shell-composed commands.
 ## Functional checks
 
 - Clean `npm ci` installation of the locked dependencies succeeded.
-- Math/mesh invariants and seven tooling regression groups passed locally.
+- Math/mesh invariants and eight tooling regression groups passed locally.
 - Browser checks passed font readiness, 16 out-of-order frame hashes, the static closing hold and five full-coverage transition boundaries for OFFSET.
 - A new FIELD NOTES film was synthesized and encoded using the audited renderer: **6.000 s, 960 × 540, 30 fps, 180 H.264 frames, stereo 48 kHz AAC**.
 - That saved mux passed complete strict decode and muted Chromium playback to the end. Audio measured **−15.62 LUFS integrated and −2.61 dBTP true peak**. No subjective listening was performed.

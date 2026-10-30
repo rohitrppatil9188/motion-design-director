@@ -218,13 +218,13 @@
     },
     {
       "path": "docs/ARCHITECTURE.md",
-      "bytes": 4718,
-      "sha256": "8fa659c0c74a00c95baf6233eed52cda4280234d98d629caeba9f2fee38da639"
+      "bytes": 5123,
+      "sha256": "eedb703a5059b10a6d98f6521e9aad4ef4470c20bf55594f1bd1ad43140f24fe"
     },
     {
       "path": "docs/RELEASE_AUDIT.md",
-      "bytes": 5046,
-      "sha256": "3e603e679a36c5aeab326d52d8b3d7ddcca86439a84282bbb8285e0e58f42d4f"
+      "bytes": 5252,
+      "sha256": "959fe29608d96498cc9aaea3b1ecd2efc7203b8cd20bdb86c335bf823c6b1177"
     },
     {
       "path": "docs/RELEASING.md",
@@ -1058,8 +1058,8 @@
     },
     {
       "path": "scripts/motion-math.mjs",
-      "bytes": 6611,
-      "sha256": "16d69d37c6129ee639063d3df89c5f6225cb1dcb9d4f4bcaaef558014b43126d"
+      "bytes": 6952,
+      "sha256": "7e1a9d52a573e043be9ee82eea0184000c1f79801e76ea8ca501b3ddd8642b3f"
     },
     {
       "path": "scripts/render-utils.mjs",
@@ -1098,8 +1098,8 @@
     },
     {
       "path": "tests/tooling.test.mjs",
-      "bytes": 4208,
-      "sha256": "3dc1aec36f56d369a6b90de4fea0fb2dc0bff04a3700e9df44ea9f11b6a65fce"
+      "bytes": 4892,
+      "sha256": "ac8114cdc272514e951edd93b7513d3551dfdf92dacdde8d2020459373ba777b"
     }
   ]
 }

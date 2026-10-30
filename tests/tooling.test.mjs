@@ -7,7 +7,7 @@ import http from 'node:http';
 import {fileURLToPath} from 'node:url';
 import {spawnSync} from 'node:child_process';
 import {serve} from '../scripts/render-utils.mjs';
-import {spring01,spherePoint,torusPoint} from '../scripts/motion-math.mjs';
+import {spring01,spherePoint,torusPoint,fitFont} from '../scripts/motion-math.mjs';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 async function fixture(t){
@@ -58,4 +58,11 @@ test('motion helpers reject degenerate parameters',()=>{
   assert.throws(()=>spring01(.4,7.5,0),/cycles/);
   assert.throws(()=>spherePoint(.5,100),/sphere/);
   assert.throws(()=>torusPoint(0,0),/torus/);
+});
+test('font fitting returns a whole-pixel size within both ink bounds',()=>{
+  const ctx={font:'',measureText(text){const size=Number(/ ([\d.]+)px /.exec(this.font)[1]);const width=text.length*size*.6;return {actualBoundingBoxLeft:0,actualBoundingBoxRight:width,actualBoundingBoxAscent:size*.75,actualBoundingBoxDescent:size*.2,width};}};
+  const fit=fitFont(ctx,'SIZE','Example',900,120,40,200);
+  assert.ok(Number.isInteger(fit.size),'Subpixel fitting can depend on browser font-cache quantization');
+  assert.equal(fit.size,42);assert.ok(fit.right-fit.left<=120);assert.ok(fit.bottom-fit.top<=40);
+  assert.throws(()=>fitFont(ctx,'SIZE','Example',900,.1,.1,200),/fit/);
 });

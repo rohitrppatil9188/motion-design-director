@@ -115,13 +115,16 @@ export function visibleTextBounds(ctx, text) {
 }
 
 export function fitFont(ctx, text, family, weight, maxWidth, maxHeight, initialSize = 400) {
-  let low = 1, high = initialSize;
-  for (let i = 0; i < 18; i++) {
-    const size = (low + high) / 2;
+  if(![maxWidth,maxHeight,initialSize].every(Number.isFinite)||maxWidth<=0||maxHeight<=0||initialSize<1)throw new RangeError('Invalid font fit bounds');
+  // Whole-pixel sizes avoid subpixel font-cache quantization thresholds.
+  let low = 1, high = Math.floor(initialSize), best = 0;
+  while (low <= high) {
+    const size = Math.floor((low + high) / 2);
     ctx.font = `${weight} ${size}px ${family}`;
     const b = visibleTextBounds(ctx, text);
-    if (b.right - b.left <= maxWidth && b.bottom - b.top <= maxHeight) low = size; else high = size;
+    if (b.right - b.left <= maxWidth && b.bottom - b.top <= maxHeight){best=size;low=size+1;}else high=size-1;
   }
-  ctx.font = `${weight} ${low}px ${family}`;
-  return {size: low, ...visibleTextBounds(ctx, text)};
+  if(best===0)throw new RangeError('Text does not fit the supplied bounds');
+  ctx.font = `${weight} ${best}px ${family}`;
+  return {size: best, ...visibleTextBounds(ctx, text)};
 }
